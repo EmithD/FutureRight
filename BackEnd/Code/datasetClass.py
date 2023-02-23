@@ -3,14 +3,14 @@ from sklearn.model_selection import train_test_split
 
 #Training datasets
 trainingDf = pd.read_csv('BackEnd\\Personality Test\\Data\\train.csv')
-trainingDf['Gender'].replace({'Male':1, 'Female':0}, inplace=True)
-trainingX = trainingDf.drop(columns=['Personality (Class label)'])
+# trainingDf['Gender'].replace({'Male':1, 'Female':0}, inplace=True)
+trainingX = trainingDf.drop(columns=['Personality (Class label)', 'Gender', 'Age'])
 trainingy = trainingDf["Personality (Class label)"]
 
 #Testing datasets
 testingDf = pd.read_csv('BackEnd\\Personality Test\\Data\\test.csv')
-testingDf['Gender'].replace({'Male':1, 'Female':0}, inplace=True)
-testingX = testingDf.drop(columns=['Personality (class label)'])
+# testingDf['Gender'].replace({'Male':1, 'Female':0}, inplace=True)
+testingX = testingDf.drop(columns=['Personality (class label)', 'Gender', 'Age'])
 testingy = testingDf["Personality (class label)"]
 
 #Test_Train splitting the Training dataset

@@ -4,9 +4,9 @@ from sklearn.neighbors import KNeighborsClassifier
 from sklearn.metrics import accuracy_score
 
 modelKNN = KNeighborsClassifier()
-modelKNN.fit(datasetClass.X_train_split, datasetClass.y_train_split)
+modelKNN.fit(datasetClass.trainingX, datasetClass.trainingy)
 
-predictionKNN = modelKNN.predict(datasetClass.X_test_split)
+predictionKNN = modelKNN.predict(datasetClass.testingX)
 
-score = accuracy_score(datasetClass.y_test_split, predictionKNN)
-print(score)
+score = accuracy_score(datasetClass.testingy, predictionKNN)
+print("KNN = ", score)
