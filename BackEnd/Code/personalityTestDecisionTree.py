@@ -4,10 +4,10 @@ from sklearn.tree import DecisionTreeClassifier
 from sklearn.metrics import accuracy_score
 
 modelDecisionTree = DecisionTreeClassifier()
-modelDecisionTree.fit(datasetClass.X_train_split, datasetClass.y_train_split)
+modelDecisionTree.fit(datasetClass.trainingX, datasetClass.trainingy)
 
-predictionsDecTree = modelDecisionTree.predict(datasetClass.X_test_split)
+predictionsDecTree = modelDecisionTree.predict(datasetClass.testingX)
 
-score = accuracy_score(datasetClass.y_test_split, predictionsDecTree)
+score = accuracy_score(datasetClass.testingy, predictionsDecTree)
 
-print(score)
+print("Dec tree = ", score)
