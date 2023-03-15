@@ -1,6 +1,9 @@
 import pandas as pd
 import numpy
 
+# # replace() syntax
+# DataFrame.replace(to_replace=None, value=None, inplace=False, limit=None, regex=False, method='pad')
+
 data = pd.read_csv("BackEnd\\Data\\SLALevelDataset\\al_results_2020.csv")
 # replacing values
 data['sub1'].replace(['POLITICAL SCIENCE', 'ECONOMICS ','ISLAM','HISTORY OF SRI LANKA & EUROPE','COMMUNICATION & MEDIA STUDIES','GEOGRAPHY',
@@ -17,5 +20,10 @@ data['sub1'].replace(['POLITICAL SCIENCE', 'ECONOMICS ','ISLAM','HISTORY OF SRI 
 
 data['sub1_r'].replace(['A', 'B ','C','S','F','Abent','Withheld'],
                         [0, 1,2,3,4,5,6], inplace=True)
+
+data['stream'].replace(['ARTS', 'COMMERCE ','PHYSICAL SCIENCE','BIOLOGICAL SCIENCE','ENGINEERING TECHNOLOGY','BIOSYSTEMS TECHNOLOGY','NON','-'],
+                        [0, 1,2,3,4,5,6,7], inplace=True)
 print(data.values)
+
+
 
