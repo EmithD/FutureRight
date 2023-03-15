@@ -24,3 +24,5 @@ data['sub1_r'].replace(['A', 'B ','C','S','F','Abent','Withheld'],
 data['stream'].replace(['ARTS', 'COMMERCE ','PHYSICAL SCIENCE','BIOLOGICAL SCIENCE','ENGINEERING TECHNOLOGY','BIOSYSTEMS TECHNOLOGY','NON','-'],
                         [0, 1,2,3,4,5,6,7], inplace=True)
 print(data.values)
+
+print()
