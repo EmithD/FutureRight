@@ -18,4 +18,3 @@ data['sub1'].replace(['POLITICAL SCIENCE', 'ECONOMICS ','ISLAM','HISTORY OF SRI 
 data['sub1_r'].replace(['A', 'B ','C','S','F','Abent','Withheld'],
                         [0, 1,2,3,4,5,6], inplace=True)
 print(data.values)
-
