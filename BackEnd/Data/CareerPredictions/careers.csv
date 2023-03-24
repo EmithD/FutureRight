@@ -1,0 +1,95 @@
+Stream,Personality,Academic Performance,Career
+commerce,dependable,Excellent,Accountant
+commerce,dependable,Excellent,Financial Analyst
+commerce,dependable,Excellent,Management Consultant
+commerce,dependable,Excellent,Corporate Banker
+commerce,dependable,Excellent,Investment Banker
+commerce,dependable,Excellent,Credit Analyst
+commerce,dependable,Excellent,Stock Broker
+commerce,dependable,Excellent,Investment Analyst
+commerce,dependable,Excellent,Actuary
+commerce,dependable,Excellent,Budget Analyst
+commerce,dependable,Excellent,Tax Accountant
+commerce,dependable,Excellent,Treasury Analyst
+commerce,dependable,Excellent,Risk Manager
+commerce,dependable,Excellent,Operations Research Analyst
+commerce,dependable,Excellent,Logistics Analyst
+commerce,serious,Excellent,Lawyer
+commerce,serious,Excellent,Judge
+commerce,serious,Excellent,Corporate Attorney
+commerce,serious,Excellent,Intellectual Property Lawyer
+commerce,serious,Excellent,Tax Attorney
+commerce,serious,Excellent,Mergers and Acquisitions Lawyer
+commerce,serious,Excellent,Compliance Officer
+commerce,serious,Excellent,Legal Analyst
+commerce,serious,Excellent,Financial Planner
+commerce,serious,Excellent,Economist
+commerce,serious,Excellent,Data Analyst
+commerce,serious,Excellent,Research Analyst
+commerce,lively,Excellent,Marketing Manager
+commerce,lively,Excellent,Sales Manager
+commerce,lively,Excellent,Public Relations Specialist
+commerce,lively,Excellent,Advertising Manager
+commerce,lively,Excellent,Brand Manager
+commerce,lively,Excellent,Social Media Manager
+commerce,lively,Excellent,Business Development Manager
+commerce,lively,Excellent,Market Research Analyst
+commerce,lively,Excellent,Retail Buyer
+commerce,lively,Excellent,Retail Store Manager
+commerce,lively,Excellent,Entrepreneur
+commerce,lively,Excellent,Import/Export Agent
+commerce,lively,Excellent,E-commerce Manager
+commerce,responsible,Excellent,Human Resources Manager
+commerce,responsible,Excellent,Training and Development Manager
+commerce,responsible,Excellent,Business Operations Manager
+commerce,responsible,Excellent,Customer Service Manager
+commerce,responsible,Excellent,Supply Chain Manager
+commerce,responsible,Excellent,Procurement Manager
+commerce,responsible,Excellent,Logistics Manager
+commerce,responsible,Excellent,Project Manager
+commerce,responsible,Excellent,Real Estate Agent
+commerce,responsible,Excellent,Commercial Banker
+commerce ,extraverted,Excellent,Sales Manager
+commerce ,extraverted,Excellent,Public Relations Specialist
+commerce ,extraverted,Excellent,Business Development Manager
+commerce ,extraverted,Excellent,Marketing Manager
+commerce ,extraverted,Excellent,Human Resources Manager
+commerce ,extraverted,Excellent,Management Consultant
+commerce ,extraverted,Excellent,Executive Recruiter
+commerce ,extraverted,Excellent,Customer Service Manager
+commerce ,extraverted,Excellent,Financial Advisor
+commerce ,extraverted,Excellent,Insurance Sales Agent
+commerce ,extraverted,Excellent,Real Estate Broker
+arts,dependable,Excellent,Art Director
+arts,dependable,Excellent,Graphic Designer
+arts,dependable,Excellent,Exhibition Designer
+arts,dependable,Excellent,Art Educator
+arts,dependable,Excellent,Museum Curator
+arts,dependable,Excellent,Archivist
+arts,dependable,Excellent,Art Conservator
+arts,dependable,Excellent,Gallery Manager
+arts,dependable,Excellent,Production Manager
+arts,dependable,Excellent,Set Designer
+arts,serious,Excellent,Art Historian
+arts,serious,Excellent,Art Critic
+arts,serious,Excellent,Art Appraiser
+arts,serious,Excellent,Art Gallery Manager
+arts,serious,Excellent,Art Dealer
+arts,serious,Excellent,Art Auctioneer
+arts,serious,Excellent,Museum Curator
+arts,serious,Excellent,Creative Director
+arts,serious,Excellent,Art Director
+arts,serious,Excellent,Interior Designer
+commerce ,dependable,Good,Accountant
+commerce ,dependable,Good,Auditor
+commerce ,dependable,Good,Financial Analyst
+commerce ,dependable,Good,Investment Banker
+commerce ,dependable,Good,Management Consultant
+commerce ,dependable,Good,Risk Analyst
+commerce ,dependable,Good,Tax Consultant
+commerce ,dependable,Good,Insurance Underwriter
+commerce ,dependable,Good,Operations Manager
+commerce ,dependable,Good,Project Manager
+commerce ,dependable,Good,Supply Chain Manager
+commerce ,dependable,Good,Logistics Manager
+commerce ,dependable,Good,Business Development Manager
