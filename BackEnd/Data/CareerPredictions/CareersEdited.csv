@@ -1,0 +1,2331 @@
+,Stream,Personality,Academic Performance,Career
+0,1,dependable,2,Account Clerk
+1,4,4,2,Account Manager
+2,4,4,3,Account Manager
+3,5,4,2,Account Manager
+4,1,dependable,1,Accountant
+5,commerce,dependable,0,Accountant
+6,1,1,3,Accounts Payable Clerk
+7,1,3,2,Accounts Payable Clerk
+8,1,1,3,Accounts Receivable Clerk 
+9,1,3,2,Accounts Receivable Clerk 
+10,commerce,1,1,Actuary
+11,commerce,dependable,0,Actuary
+12,1,3,3,Administrative Assistant 
+13,1,dependable,2,Administrative Assistant 
+14,0,2,1,Advertising Assistant
+15,0,2,2,Advertising Assistant
+16,0,2,3,Advertising Assistant
+17,1,2,2,Advertising Coordinator 
+18,1,4,2,Advertising Coordinator 
+19,commerce,2,0,Advertising Manager
+20,0,2,0,Advertising Manager
+21,0,4,0,Advertising Manager
+22,commerce,2,1,Advertising Manager 
+23,commerce,4,1,Advertising Manager 
+24,4,1,0,Aerospace Engineer
+25,4,1,1,Aerospace Engineer
+26,4,3,0,Aerospace Engineer
+27,4,3,1,Aerospace Engineer
+28,4,2,0,Aerospace Engineer
+29,4,2,1,Aerospace Engineer
+30,4,4,0,Aerospace Engineer
+31,4,dependable,0,Aerospace Engineer
+32,4,dependable,1,Aerospace Engineer
+33,5,1,0,Agricultural and Food Scientist
+34,5,1,3,Agricultural and food scientist
+35,5,3,3,Agricultural and food scientist
+36,5,2,3,Agricultural and food scientist
+37,5,4,3,Agricultural and food scientist
+38,5,dependable,3,Agricultural and food scientist
+39,4,3,1,Agricultural Engineer
+40,5,3,1,Agricultural Engineer
+41,5,dependable,1,Agricultural engineer
+42,3,3,0,Agricultural Scientist
+43,3,3,1,Agricultural Scientist
+44,3,3,2,Agricultural Scientist
+45,3,3,3,Agriculture technician
+46,5,1,2,Agronomist
+47,3,1,0,Agronomist
+48,5,3,2,Agronomist
+49,5,2,2,Agronomist
+50,3,2,0,Agronomist
+51,5,dependable,2,Agronomist
+52,3,3,2,Animal Behaviorist
+53,3,dependable,3,Animal Behaviorist
+54,5,1,0,Animal Breeder
+55,5,dependable,0,Animal Breeder
+56,3,3,3,Animal care technician
+57,3,1,3,Animal Caretaker
+58,3,2,3,Animal Control Officer
+59,3,4,3,Animal Control Officer
+60,5,3,2,Animal Scientist
+61,5,2,2,Animal Scientist
+62,5,dependable,2,Animal Scientist
+63,3,2,3,Animal Trainer
+64,3,4,3,Animal Trainer
+65,0,2,0,Animator 
+66,4,2,2,Application Engineer
+67,4,4,1,Application Engineer
+68,4,4,2,Application Engineer
+69,commerce,1,1,Appraisal Manager 
+70,4,1,3,Apprentice Carpenter
+71,4,3,3,Apprentice Carpenter
+72,4,2,3,Apprentice Carpenter
+73,4,dependable,3,Apprentice Carpenter
+74,4,1,3,Apprentice Electrician
+75,4,3,3,Apprentice Electrician
+76,4,2,3,Apprentice Electrician
+77,4,dependable,3,Apprentice Electrician
+78,4,1,3,Apprentice HVAC Technician
+79,4,3,3,Apprentice HVAC Technician
+80,4,2,3,Apprentice HVAC Technician
+81,4,dependable,3,Apprentice HVAC Technician
+82,4,1,3,Apprentice Plumber
+83,4,3,3,Apprentice Plumber
+84,4,2,3,Apprentice Plumber
+85,4,dependable,3,Apprentice Plumber
+86,4,1,3,Apprentice Welder
+87,4,3,3,Apprentice Welder
+88,4,2,3,Apprentice Welder
+89,4,dependable,3,Apprentice Welder
+90,5,1,3,Aquaculture farmer
+91,5,3,3,Aquaculture farmer
+92,5,2,3,Aquaculture farmer
+93,5,4,3,Aquaculture farmer
+94,5,dependable,3,Aquaculture farmer
+95,3,3,3,Aquaculture technician
+96,5,3,2,Aquaculturist
+97,3,3,0,Aquaculturist
+98,5,2,2,Aquaculturist
+99,5,dependable,2,Aquaculturist
+100,3,2,3,Aquarist
+101,3,4,3,Aquarist
+102,3,3,3,Aquatic biology technician
+103,0,dependable,0,Archivist
+104,0,1,1,Archivist Assistant
+105,0,1,2,Archivist Assistant
+106,0,1,3,Archivist Assistant
+107,0,1,0,Art Appraiser
+108,0,1,1,Art Appraiser Assistant
+109,0,1,2,Art Appraiser Assistant
+110,0,1,3,Art Appraiser Assistant
+111,0,1,1,Art Auction House Assistant
+112,0,1,3,Art Auction House Assistant
+113,0,4,3,Art Auction House Assistant
+114,0,1,2,Art Auction House Assistant 
+115,0,4,1,Art Auction House Assistant 
+116,0,4,2,Art Auction House Assistant 
+117,0,1,0,Art Auctioneer
+118,0,4,0,Art Auctioneer 
+119,0,3,0,Art Buyer 
+120,0,3,1,Art Buyer Assistant
+121,0,3,2,Art Buyer Assistant
+122,0,3,3,Art Buyer Assistant
+123,0,dependable,0,Art Conservator
+124,0,3,0,Art Consultant 
+125,0,3,2,Art Consultant Assistant
+126,0,3,1,Art Consultant Assistant 
+127,0,3,3,Art Consultant Assistant 
+128,0,1,0,Art Critic
+129,0,1,2,Art Critic
+130,0,4,0,Art Critic
+131,0,1,0,Art Dealer
+132,0,1,0,Art Director
+133,0,4,0,Art Director
+134,0,dependable,0,Art Director
+135,0,2,0,Art Director 
+136,0,3,2,Art Director Assistant
+137,0,4,0,Art Educator
+138,0,dependable,0,Art Educator
+139,0,4,2,Art Event Staff
+140,0,4,1,Art Event Staff 
+141,0,4,3,Art Event Staff 
+142,0,3,1,Art Exhibition Coordinator
+143,0,3,2,Art Exhibition Coordinator
+144,0,3,3,Art Exhibition Coordinator 
+145,0,3,1,Art Fair Assistant
+146,0,3,2,Art Fair Assistant
+147,0,3,3,Art Fair Assistant
+148,0,4,1,Art Fair Assistant
+149,0,4,2,Art Fair Assistant
+150,0,4,3,Art Fair Assistant 
+151,0,3,1,Art Framing Associate
+152,0,3,2,Art Framing Associate
+153,0,4,1,Art Framing Associate
+154,0,4,2,Art Framing Associate 
+155,0,3,1,Art Gallery Assistant
+156,0,3,2,Art Gallery Assistant
+157,0,3,3,Art Gallery Assistant
+158,0,4,1,Art Gallery Assistant 
+159,0,4,2,Art Gallery Assistant 
+160,0,4,3,Art Gallery Assistant 
+161,0,1,0,Art Gallery Manager
+162,0,3,0,Art Handler
+163,0,dependable,2,Art Handler
+164,0,dependable,3,Art Handler
+165,0,dependable,1,Art Handler 
+166,0,1,0,Art Historian
+167,0,3,0,Art Installer
+168,0,4,2,Art Instructor
+169,0,3,0,Art Librarian 
+170,0,1,1,Art Library Assistant
+171,0,1,3,Art Library Assistant
+172,0,1,2,Art Library Assistant 
+173,0,3,0,Art Production Coordinator
+174,0,1,2,Art Research Assistant
+175,0,1,1,Art Research Assistant 
+176,0,1,3,Art Research Assistant 
+177,0,3,0,Art Researcher
+178,0,3,1,Art Restoration Assistant
+179,0,3,2,Art Restoration Assistant 
+180,0,3,1,Art Sales Associate
+181,0,3,2,Art Sales Associate
+182,0,3,3,Art Sales Associate 
+183,0,3,0,Art Sales Representative
+184,0,3,2,Art Showroom Assistant
+185,0,3,3,Art Showroom Assistant
+186,0,3,1,Art Showroom Assistant 
+187,0,3,0,Art Studio Assistant
+188,0,dependable,1,Art Studio Assistant
+189,0,dependable,3,Art Studio Assistant
+190,0,dependable,2,Art Studio Assistant 
+191,0,3,2,Art Supply Store Associate
+192,0,3,3,Art Supply Store Associate
+193,0,4,1,Art Supply Store Associate
+194,0,4,2,Art Supply Store Associate
+195,0,4,3,Art Supply Store Associate
+196,0,dependable,1,Art Supply Store Associate
+197,0,3,1,Art Supply Store Associate 
+198,0,dependable,2,Art Supply Store Associate 
+199,0,dependable,3,Art Supply Store Associate 
+200,0,dependable,2,Art Teacher
+201,0,dependable,2,Art Therapist
+202,4,2,0,Artificial Intelligence Engineer
+203,0,1,2,Artist's Studio Manager
+204,0,1,1,Artist's Studio Manager 
+205,0,1,3,Artist's Studio Manager 
+206,4,1,3,Assembler
+207,4,3,2,Assembler
+208,4,3,3,Assembler
+209,4,2,3,Assembler
+210,4,4,3,Assembler
+211,4,dependable,2,Assembler
+212,4,dependable,3,Assembler
+213,4,1,3,Assembly Line Worker
+214,4,dependable,3,Assembly Line Worker
+215,2,1,1,Astronomer
+216,3,4,2,Athletic Trainer
+217,4,2,3,Audio/Visual Technician
+218,4,4,3,Audio/Visual Technician
+219,1,dependable,1,Auditor
+220,4,3,1,Automotive Engineer
+221,1,1,3,Bank Teller
+222,1,dependable,2,Bank Teller
+223,1,4,3,Barista
+224,1,2,3,Barista 
+225,1,2,3,Bartender
+226,1,4,3,Bartender
+227,2,1,1,Biochemist
+228,5,1,0,Biochemist
+229,3,1,0,Biochemist
+230,3,1,1,Biochemist
+231,3,3,1,Biochemist
+232,5,2,0,Biochemist
+233,5,2,1,Biochemist
+234,3,0,0,Biochemist
+235,5,dependable,0,Biochemist
+236,5,dependable,1,Biochemist
+237,3,dependable,1,Biochemist
+238,5,3,0,Bioenergy engineer
+239,5,2,0,Bioenergy engineer
+240,5,1,1,Bioinformatics analyst
+241,5,3,1,Bioinformatics Analyst
+242,3,3,1,Bioinformatics Analyst
+243,5,2,0,Bioinformatics analyst
+244,3,0,0,Bioinformatics analyst
+245,5,dependable,1,Bioinformatics analyst
+246,5,1,0,Bioinformatics Scientist
+247,5,1,2,Bioinformatics Scientist
+248,5,dependable,1,Bioinformatics scientist
+249,5,2,0,Bioinformatics software developer
+250,5,1,3,Bioinformatics specialist
+251,3,1,2,Bioinformatics Specialist
+252,5,2,3,Bioinformatics specialist
+253,5,dependable,3,Bioinformatics specialist
+254,3,dependable,1,Bioinformatics specialist
+255,3,2,3,Biological Science Technician
+256,3,4,3,Biological Science Technician
+257,2,1,0,Biologist
+258,3,2,0,Biologist
+259,5,1,3,Biomanufacturing operator
+260,5,3,3,Biomanufacturing operator
+261,5,dependable,3,Biomanufacturing operator
+262,5,3,0,Biomanufacturing specialist
+263,5,2,0,Biomanufacturing specialist
+264,5,1,0,Biomanufacturing Technician
+265,5,3,0,Biomaterials scientist
+266,5,2,0,Biomaterials scientist
+267,4,1,0,Biomechanical Engineer
+268,4,1,1,Biomechanical Engineer
+269,4,3,0,Biomechanical Engineer
+270,4,dependable,0,Biomechanical Engineer
+271,4,dependable,1,Biomechanical Engineer
+272,5,1,0,Biomedical Clinical Research Manager
+273,5,4,0,Biomedical communication specialist
+274,5,4,0,Biomedical community outreach specialist
+275,5,4,0,Biomedical conference planner
+276,5,4,0,Biomedical consultant
+277,5,4,0,Biomedical customer service representative
+278,5,1,0,Biomedical Data Analyst
+279,5,dependable,1,Biomedical data analyst
+280,5,3,0,Biomedical data scientist
+281,5,2,0,Biomedical data scientist
+282,5,1,1,Biomedical device engineer
+283,5,dependable,1,Biomedical device engineer
+284,4,1,0,Biomedical Engineer
+285,4,1,1,Biomedical Engineer
+286,5,1,0,Biomedical Engineer
+287,5,1,2,Biomedical Engineer
+288,3,1,0,Biomedical Engineer
+289,3,1,1,Biomedical engineer
+290,3,1,2,Biomedical Engineer
+291,4,3,0,Biomedical Engineer
+292,4,3,1,Biomedical Engineer
+293,5,3,0,Biomedical engineer
+294,3,3,1,Biomedical Engineer
+295,3,3,2,Biomedical Engineer
+296,4,2,0,Biomedical Engineer
+297,4,2,1,Biomedical Engineer
+298,5,2,0,Biomedical engineer
+299,5,2,1,Biomedical Engineer
+300,3,2,1,Biomedical engineer
+301,3,2,2,Biomedical Engineer
+302,4,4,0,Biomedical Engineer
+303,3,4,1,Biomedical Engineer
+304,3,0,0,Biomedical engineer
+305,4,dependable,0,Biomedical Engineer
+306,4,dependable,1,Biomedical Engineer
+307,5,dependable,1,Biomedical engineer
+308,3,dependable,1,Biomedical engineer
+309,5,1,3,Biomedical engineer technician
+310,5,3,3,Biomedical engineer technician
+311,5,2,3,Biomedical engineer technician
+312,5,4,3,Biomedical engineer technician
+313,5,dependable,3,Biomedical engineer technician
+314,5,1,0,Biomedical Engineering Project Manager
+315,5,4,0,Biomedical entrepreneur
+316,5,1,0,Biomedical Equipment Designer
+317,5,3,0,Biomedical equipment designer
+318,5,2,0,Biomedical equipment designer
+319,5,dependable,1,Biomedical equipment sales representative
+320,5,1,0,Biomedical Equipment Technician
+321,5,1,2,Biomedical Equipment Technician
+322,5,1,3,Biomedical equipment technician
+323,3,1,2,Biomedical Equipment Technician
+324,3,1,3,Biomedical Equipment Technician
+325,5,3,2,Biomedical Equipment Technician
+326,5,3,3,Biomedical equipment technician
+327,3,3,3,Biomedical equipment technician
+328,5,2,2,Biomedical Equipment Technician
+329,3,2,1,Biomedical equipment technician
+330,5,4,1,Biomedical Equipment Technician
+331,5,dependable,0,Biomedical Equipment Technician
+332,5,dependable,2,Biomedical Equipment Technician
+333,5,dependable,3,Biomedical equipment technician
+334,3,dependable,3,Biomedical Equipment Technician
+335,3,dependable,3,Biomedical Equipment Technician
+336,5,1,0,Biomedical Ethicist
+337,5,4,0,Biomedical event coordinator
+338,5,4,0,Biomedical executive
+339,5,4,0,Biomedical human resources specialist
+340,5,1,1,Biomedical imaging researcher
+341,5,1,0,Biomedical Imaging Scientist
+342,5,1,1,Biomedical imaging specialist
+343,5,3,0,Biomedical imaging specialist
+344,5,2,0,Biomedical imaging specialist
+345,5,1,1,Biomedical imaging technologist
+346,5,4,0,Biomedical industry analyst
+347,5,4,0,Biomedical industry association executive
+348,5,4,0,Biomedical industry lobbyist
+349,5,1,0,Biomedical Informatician
+350,3,0,0,Biomedical informatician
+351,5,3,0,Biomedical informatics specialist
+352,5,2,0,Biomedical informatics specialist
+353,5,3,0,Biomedical instrumentation engineer
+354,5,2,0,Biomedical instrumentation engineer
+355,3,2,1,Biomedical lab technician
+356,5,1,0,Biomedical Laboratory Manager
+357,5,1,1,Biomedical laboratory technician
+358,5,dependable,1,Biomedical laboratory technician
+359,5,1,0,Biomedical Manufacturing Engineer
+360,5,1,1,Biomedical manufacturing engineer
+361,5,dependable,1,Biomedical manufacturing engineer
+362,5,3,0,Biomedical marketing specialist
+363,5,2,0,Biomedical marketing specialist
+364,5,4,0,Biomedical marketing specialist
+365,5,1,1,Biomedical materials engineer
+366,5,dependable,1,Biomedical materials engineer
+367,5,4,0,Biomedical networking specialist
+368,5,4,0,Biomedical organization development specialist
+369,5,1,0,Biomedical Patent Lawyer
+370,5,dependable,0,Biomedical Patent Lawyer
+371,5,1,1,Biomedical product manager
+372,5,3,0,Biomedical product manager
+373,5,2,0,Biomedical product manager
+374,5,4,0,Biomedical product manager
+375,5,dependable,1,Biomedical product manager
+376,5,4,0,Biomedical project manager
+377,5,4,0,Biomedical public relations specialist
+378,5,1,1,Biomedical quality assurance specialist
+379,5,dependable,1,Biomedical quality assurance specialist
+380,5,1,0,Biomedical Quality Control Specialist
+381,5,4,0,Biomedical recruiter
+382,5,3,0,Biomedical regulatory affairs specialist
+383,5,2,0,Biomedical regulatory affairs specialist
+384,5,1,0,Biomedical Research and Development Scientist
+385,3,1,2,Biomedical Research Scientist
+386,5,1,0,Biomedical Researcher
+387,5,3,0,Biomedical researcher
+388,5,3,1,Biomedical Researcher
+389,3,3,1,Biomedical Researcher
+390,3,3,2,Biomedical Researcher
+391,5,2,0,Biomedical researcher
+392,3,2,0,Biomedical Researcher
+393,3,2,1,Biomedical researcher
+394,3,2,2,Biomedical Researcher
+395,3,0,0,Biomedical researcher
+396,5,dependable,0,Biomedical Researcher
+397,5,dependable,1,Biomedical researcher
+398,3,dependable,1,Biomedical researcher
+399,5,3,0,Biomedical sales representative
+400,5,2,0,Biomedical sales representative
+401,5,4,0,Biomedical sales representative
+402,5,4,1,Biomedical Sales Representative
+403,3,2,1,Biomedical science administrator
+404,5,1,0,Biomedical Science Educator
+405,5,3,0,Biomedical science educator
+406,5,2,0,Biomedical science educator
+407,3,2,1,Biomedical science educator
+408,5,4,0,Biomedical science educator
+409,5,3,0,Biomedical science journalist
+410,5,2,0,Biomedical science journalist
+411,5,4,0,Biomedical science journalist
+412,5,3,0,Biomedical science writer
+413,5,2,0,Biomedical science writer
+414,3,2,1,Biomedical science writer
+415,5,4,0,Biomedical science writer
+416,5,2,1,Biomedical Scientist
+417,3,4,1,Biomedical Scientist
+418,5,3,0,Biomedical signal processing engineer
+419,5,2,0,Biomedical signal processing engineer
+420,5,4,0,Biomedical social media specialist
+421,5,3,0,Biomedical software engineer
+422,5,2,0,Biomedical software engineer
+423,5,1,1,Biomedical statistician
+424,5,dependable,1,Biomedical statistician
+425,5,1,1,Biomedical supply chain manager
+426,5,dependable,1,Biomedical supply chain manager
+427,5,3,0,Biomedical systems analyst
+428,5,2,0,Biomedical systems analyst
+429,5,4,0,Biomedical talent acquisition specialist
+430,5,4,0,Biomedical team building facilitator
+431,5,4,0,Biomedical team leader
+432,5,1,1,Biomedical technical writer
+433,5,dependable,1,Biomedical technical writer
+434,5,1,0,Biomedical Technician
+435,5,2,0,Biomedical technician
+436,3,4,2,Biomedical Technician
+437,3,0,0,Biomedical technician
+438,5,dependable,0,Biomedical Technician
+439,5,dependable,1,Biomedical technician
+440,5,1,0,Biomedical Technology Consultant
+441,5,1,0,Biomedical Technology Entrepreneur
+442,5,1,0,Biomedical Technology Policy Analyst
+443,5,4,0,Biomedical training and development specialist
+444,5,1,0,Biomedical Writer or Science Communicator
+445,5,dependable,0,Biomedical Writer or Science Communicator
+446,5,3,0,Biopharmaceutical research scientist
+447,2,1,1,Biophysicist
+448,5,1,2,Biophysicist
+449,3,1,1,Biophysicist
+450,5,2,0,Biophysicist
+451,3,2,0,Biophysicist
+452,3,1,0,Biophysics Researcher
+453,5,1,0,Bioprocess Engineer
+454,5,2,0,Bioprocess engineer
+455,5,3,0,Bioprocessing engineer
+456,5,dependable,1,Bioprocessing engineer
+457,5,3,0,Bioreactor engineer
+458,5,2,0,Bioreactor engineer
+459,3,3,0,Bioremediation Specialist
+460,5,2,2,Biosecurity Specialist
+461,5,dependable,2,Biosecurity Specialist
+462,5,1,0,Biostatistician
+463,5,1,2,Biostatistician
+464,5,1,2,Biostatistician
+465,5,1,3,Biostatistician
+466,3,1,0,Biostatistician
+467,3,1,1,Biostatistician
+468,3,1,2,Biostatistician
+469,5,3,0,Biostatistician
+470,5,3,2,Biostatistician
+471,5,3,3,Biostatistician
+472,3,3,1,Biostatistician
+473,3,3,2,Biostatistician
+474,5,2,0,Biostatistician
+475,5,2,1,Biostatistician
+476,5,2,2,Biostatistician
+477,3,2,1,Biostatistician
+478,3,2,2,Biostatistician
+479,3,0,0,Biostatistician
+480,5,dependable,2,Biostatistician
+481,3,dependable,1,Biostatistician
+482,5,3,0,Biosystems analyst
+483,5,2,0,Biosystems analyst
+484,3,1,2,Biotech Business Development Manager
+485,3,2,1,Biotech business development manager
+486,5,4,2,Biotech Business Development Manager
+487,3,4,1,Biotech Business Development Manager
+488,3,2,1,Biotech consultant
+489,3,2,1,Biotech manufacturing specialist
+490,3,dependable,2,Biotech Manufacturing Technician
+491,3,dependable,3,Biotech Manufacturing Technician
+492,3,2,1,Biotech marketing manager
+493,5,1,2,Biotech Patent Attorney
+494,5,3,2,Biotech Patent Attorney
+495,5,2,2,Biotech Patent Attorney
+496,5,dependable,2,Biotech Patent Attorney
+497,3,dependable,1,Biotech patent attorney
+498,3,1,2,Biotech Patent Lawyer
+499,5,2,1,Biotech Patent Lawyer
+500,3,2,1,Biotech patent lawyer
+501,3,2,2,Biotech Patent Lawyer
+502,3,2,1,Biotech process development scientist
+503,3,2,1,Biotech product manager
+504,3,dependable,2,Biotech Product Specialist
+505,3,2,1,Biotech project manager
+506,3,1,2,Biotech Quality Assurance Manager
+507,3,1,2,Biotech Regulatory Affairs Specialist
+508,3,2,1,Biotech regulatory affairs specialist
+509,3,3,2,Biotech Research Associate
+510,3,2,0,Biotech Research Scientist
+511,3,0,0,Biotech researcher
+512,3,dependable,1,Biotech researcher
+513,5,2,3,Biotech sales representative
+514,3,2,1,Biotech sales representative
+515,3,2,2,Biotech Sales Representative
+516,5,4,3,Biotech sales representative
+517,3,dependable,1,Biotech sales representative
+518,3,2,1,Biotech software developer
+519,3,2,1,Biotech venture capitalist
+520,5,1,0,Biotechnologist
+521,3,3,1,Biotechnologist
+522,5,2,0,Biotechnologist
+523,5,dependable,1,Biotechnologist
+524,5,3,1,Biotechnology Analyst
+525,5,4,1,Biotechnology Business Development Manager
+526,3,4,0,Biotechnology Business Development Manager
+527,3,3,3,Biotechnology lab technician
+528,3,1,3,Biotechnology Manufacturing Technician
+529,5,1,1,Biotechnology patent lawyer
+530,3,4,1,Biotechnology Patent Lawyer
+531,5,dependable,1,Biotechnology patent lawyer
+532,5,1,3,Biotechnology technician
+533,5,3,3,Biotechnology technician
+534,5,2,3,Biotechnology technician
+535,5,4,3,Biotechnology technician
+536,5,dependable,3,Biotechnology technician
+537,4,2,0,Blockchain Developer
+538,5,4,2,Blogger
+539,1,dependable,2,Bookkeeper
+540,3,3,3,Botanical garden technician
+541,3,2,3,Botanical Garden Worker
+542,3,4,3,Botanical Garden Worker
+543,3,1,0,Botanist
+544,3,1,1,Botanist
+545,3,3,2,Botanist
+546,3,2,0,Botanist
+547,3,dependable,1,Botanist
+548,1,2,2,Brand Ambassador 
+549,1,4,2,Brand Ambassador 
+550,commerce,2,0,Brand Manager
+551,commerce,2,1,Brand Manager
+552,commerce,4,1,Brand Manager
+553,commerce,dependable,0,Budget Analyst
+554,4,1,2,Business Analyst
+555,commerce,3,1,Business Analyst
+556,1,3,2,Business Analyst Assistant 
+557,4,2,2,Business Development Manager
+558,commerce,2,0,Business Development Manager
+559,4,4,0,Business Development Manager
+560,4,4,1,Business Development Manager
+561,4,4,2,Business Development Manager
+562,4,4,3,Business Development Manager
+563,1,4,0,Business Development Manager
+564,1,dependable,1,Business Development Manager
+565,commerce,1,1,Business Lawyer
+566,commerce,3,0,Business Operations Manager
+567,4,2,3,Cable Technician
+568,4,4,3,Cable Technician
+569,4,3,2,CAD Technician
+570,4,dependable,2,CAD Technician
+571,4,1,3,Calibration Technician
+572,4,3,2,Calibration Technician
+573,4,3,3,Calibration Technician
+574,4,4,3,Calibration Technician
+575,2,dependable,1,Calibration Technician
+576,4,dependable,2,Calibration Technician
+577,4,dependable,3,Calibration Technician
+578,1,4,3,Cashier
+579,1,2,3,Cashier 
+580,1,dependable,3,Cashier 
+581,commerce,1,1,Certified Public Accountant
+582,commerce,1,1,Charted Financial Analyst
+583,4,1,0,Chemical Engineer
+584,4,1,1,Chemical Engineer
+585,4,3,0,Chemical Engineer
+586,4,3,1,Chemical Engineer
+587,4,2,1,Chemical Engineer
+588,4,4,0,Chemical Engineer
+589,4,dependable,0,Chemical Engineer
+590,4,dependable,1,Chemical Engineer
+591,2,1,0,Chemist 
+592,commerce,3,1,Chief Executive Officer 
+593,commerce,3,1,Chief Financial Officer
+594,commerce,3,1,Chief Operating Officer 
+595,4,1,0,Civil Engineer
+596,4,1,1,Civil Engineer
+597,4,3,0,Civil Engineer
+598,4,3,1,Civil Engineer
+599,4,2,1,Civil Engineer
+600,4,dependable,0,Civil Engineer
+601,4,dependable,1,Civil Engineer
+602,5,3,1,Clinical Data Manager
+603,3,0,0,Clinical data manager
+604,5,1,2,Clinical Laboratory Scientist
+605,5,3,2,Clinical Laboratory Scientist
+606,5,2,2,Clinical Laboratory Scientist
+607,5,dependable,2,Clinical Laboratory Scientist
+608,5,1,1,Clinical laboratory technologist
+609,3,1,1,Clinical laboratory technologist
+610,5,dependable,1,Clinical laboratory technologist
+611,3,4,1,Clinical Psychologist
+612,5,1,0,Clinical Research Associate
+613,3,1,1,Clinical research associate
+614,5,4,1,Clinical Research Associate
+615,5,1,2,Clinical Research Coordinator
+616,5,1,3,Clinical research coordinator
+617,3,1,2,Clinical Research Coordinator
+618,5,3,2,Clinical Research Coordinator
+619,3,3,2,Clinical Research Coordinator
+620,5,2,1,Clinical Research Coordinator
+621,5,2,2,Clinical Research Coordinator
+622,3,4,1,Clinical Research Coordinator
+623,3,4,2,Clinical Research Coordinator
+624,3,0,0,Clinical research coordinator
+625,5,dependable,2,Clinical Research Coordinator
+626,5,dependable,3,Clinical research coordinator
+627,5,3,0,Clinical research scientist
+628,3,dependable,3,Clinical Trial Coordinator
+629,5,1,0,Clinical Trial Manager
+630,3,2,2,Clinical Trial Manager
+631,3,4,0,Clinical Trial Project Manager
+632,4,2,0,Cloud Engineer
+633,1,1,3,Collections Agent
+634,1,1,2,Collections Specialist
+635,commerce,3,0,Commercial Banker
+636,5,4,1,Communications Specialist for Biotechnology
+637,5,4,2,Community Health Worker
+638,5,4,2,Community Outreach Coordinator
+639,1,3,2,Compliance Assistant 
+640,2,3,2,Compliance Coordinator
+641,2,3,3,Compliance Coordinator
+642,4,3,3,Compliance Coordinator
+643,4,1,2,Compliance Officer
+644,commerce,1,0,Compliance Officer
+645,2,3,0,Compliance Officer
+646,2,3,1,Compliance Officer
+647,5,3,2,Compliance Officer
+648,4,4,2,Compliance Officer
+649,commerce,3,1,Compliance Officer 
+650,5,1,2,Compliance Specialist
+651,5,2,2,Compliance Specialist
+652,5,dependable,2,Compliance Specialist
+653,4,1,0,Computer Engineer
+654,4,1,1,Computer Engineer
+655,4,3,0,Computer Engineer
+656,4,dependable,0,Computer Engineer
+657,4,dependable,1,Computer Engineer
+658,4,3,1,Computer Hardware Engineer
+659,4,2,1,Computer Hardware Engineer
+660,4,3,1,Computer Software Engineer
+661,4,2,1,Computer Software Engineer
+662,4,1,3,Computer Support Specialist
+663,4,3,3,Computer Support Specialist
+664,4,2,3,Computer Support Specialist
+665,4,4,3,Computer Support Specialist
+666,4,dependable,3,Computer Support Specialist
+667,4,2,0,Computer Systems Analyst
+668,4,2,0,Computer Vision Engineer
+669,3,3,2,Conservation Biologist
+670,3,3,3,Conservation biologist
+671,3,3,0,Conservation Scientist
+672,3,3,1,Conservation Scientist
+673,3,2,0,Conservation Scientist
+674,3,2,3,Conservation Technician
+675,4,4,1,Construction Manager
+676,5,4,2,Content Creator
+677,4,2,2,Content Marketing Specialist
+678,4,1,0,Control Systems Engineer
+679,4,1,1,Control Systems Engineer
+680,4,3,0,Control Systems Engineer
+681,4,2,0,Control Systems Engineer
+682,4,4,0,Control Systems Engineer
+683,4,dependable,0,Control Systems Engineer
+684,4,dependable,1,Control Systems Engineer
+685,0,2,0,Copywriter
+686,0,2,1,Copywriter Assistant 
+687,0,2,2,Copywriter Assistant 
+688,0,2,3,Copywriter Assistant 
+689,commerce,1,0,Corporate Attorney
+690,commerce,dependable,0,Corporate Banker
+691,commerce,3,1,Corporate Social Responsibility Manager
+692,1,3,3,Courier
+693,0,1,0,Creative Director
+694,0,2,0,Creative Director
+695,1,1,2,Credit Analyst
+696,commerce,dependable,0,Credit Analyst
+697,3,dependable,2,Crime Scene Investigator
+698,4,1,2,Customer Service Manager
+699,commerce,3,0,Customer Service Manager
+700,4,2,2,Customer Service Manager
+701,4,2,3,Customer Service Manager
+702,4,4,1,Customer Service Manager
+703,4,4,2,Customer Service Manager
+704,1,4,0,Customer Service Manager
+705,1,1,3,Customer Service Representative
+706,4,3,2,Customer Service Representative
+707,1,2,3,Customer Service Representative
+708,4,4,2,Customer Service Representative
+709,4,4,3,Customer Service Representative
+710,0,4,1,Customer Service Representative
+711,0,4,2,Customer Service Representative
+712,4,dependable,2,Customer Service Representative
+713,1,dependable,3,Customer Service Representative
+714,1,4,3,Customer Service Representative 
+715,0,4,3,Customer Service Representative 
+716,1,dependable,2,Customer Service Representative 
+717,5,4,1,Customer Service Representative for Biotechnology
+718,1,2,2,Customer Service Supervisor
+719,1,4,2,Customer Service Supervisor
+720,5,4,2,Customer Support Specialist
+721,4,2,0,Cybersecurity Analyst
+722,4,1,2,Data Analyst
+723,commerce,1,0,Data Analyst
+724,4,2,2,Data Analyst
+725,4,4,1,Data Analyst
+726,2,dependable,1,Data Analyst
+727,4,2,1,Data Center Engineer
+728,2,dependable,2,Data Entry Clerk
+729,2,dependable,3,Data Entry Clerk
+730,1,3,3,Data Entry Clerk 
+731,1,dependable,3,Data Entry Clerk 
+732,4,1,3,Data Entry Specialist
+733,4,3,2,Data Entry Specialist
+734,4,3,3,Data Entry Specialist
+735,4,2,3,Data Entry Specialist
+736,4,4,3,Data Entry Specialist
+737,4,dependable,2,Data Entry Specialist
+738,4,dependable,3,Data Entry Specialist
+739,4,2,0,Data Scientist
+740,4,1,2,Database Administrator
+741,1,1,3,Debt Counselor 
+742,3,1,3,Dental Assistant
+743,3,dependable,3,Dental Assistant
+744,5,1,2,Dental Hygienist
+745,5,3,2,Dental Hygienist
+746,5,2,2,Dental Hygienist
+747,5,dependable,2,Dental Hygienist
+748,3,1,0,Dentist
+749,5,1,2,Diagnostic Medical Sonographer
+750,5,3,2,Diagnostic Medical Sonographer
+751,5,2,2,Diagnostic Medical Sonographer
+752,5,dependable,2,Diagnostic Medical Sonographer
+753,0,2,0,Digital Marketer
+754,0,2,3,Digital Marketer Assistant
+755,0,2,1,Digital Marketer Assistant 
+756,0,2,2,Digital Marketer Assistant 
+757,5,1,0,Ecologist
+758,3,3,0,Ecologist
+759,3,3,2,Ecologist
+760,5,2,1,Ecologist
+761,3,2,0,Ecologist
+762,5,dependable,0,Ecologist
+763,3,dependable,1,Ecologist
+764,commerce,2,0,E-commerce Manager
+765,commerce,1,0,Economist
+766,commerce,1,1,Economist
+767,3,3,3,Ecotourism guide
+768,3,2,3,Ecotourism Guide
+769,4,1,0,Electrical Engineer
+770,4,1,1,Electrical Engineer
+771,4,3,0,Electrical Engineer
+772,4,3,1,Electrical Engineer
+773,4,2,0,Electrical Engineer
+774,4,2,1,Electrical Engineer
+775,4,4,0,Electrical Engineer
+776,4,dependable,0,Electrical Engineer
+777,4,dependable,1,Electrical Engineer
+778,4,3,2,Electrical Technician
+779,4,dependable,2,Electrical Technician
+780,4,1,3,Electronics Technician
+781,4,3,2,Electronics Technician
+782,4,3,3,Electronics Technician
+783,4,2,3,Electronics Technician
+784,4,4,3,Electronics Technician
+785,4,dependable,2,Electronics Technician
+786,4,dependable,3,Electronics Technician
+787,5,1,2,Emergency Medical Technician
+788,5,3,2,Emergency Medical Technician
+789,5,2,2,Emergency Medical Technician
+790,3,4,2,Emergency Medical Technician
+791,5,dependable,2,Emergency Medical Technician
+792,4,1,0,Engineering Manager
+793,4,1,1,Engineering Manager
+794,4,3,0,Engineering Manager
+795,4,2,1,Engineering Manager
+796,4,4,0,Engineering Manager
+797,4,dependable,0,Engineering Manager
+798,4,dependable,1,Engineering Manager
+799,4,3,2,Engineering Technician
+800,4,dependable,2,Engineering Technician
+801,3,1,0,Entomologist
+802,4,2,2,Entrepreneur
+803,commerce,2,0,Entrepreneur
+804,4,4,1,Entrepreneur
+805,4,4,2,Entrepreneur
+806,3,2,3,Environmental Advocate
+807,3,4,3,Environmental Advocate
+808,3,1,1,Environmental biologist
+809,3,3,0,Environmental Consultant
+810,3,4,3,Environmental Consultant
+811,2,2,2,Environmental Educator
+812,3,2,3,Environmental Educator
+813,3,4,3,Environmental Educator
+814,3,3,3,Environmental educator or science teacher
+815,4,1,0,Environmental Engineer
+816,4,1,1,Environmental Engineer
+817,4,3,0,Environmental Engineer
+818,4,3,1,Environmental Engineer
+819,4,2,1,Environmental Engineer
+820,4,4,0,Environmental Engineer
+821,4,dependable,0,Environmental Engineer
+822,4,dependable,1,Environmental Engineer
+823,2,3,2,Environmental Health and Safety Specialist
+824,3,dependable,3,Environmental Health and Safety Specialist
+825,5,1,2,Environmental Health Specialist
+826,5,3,2,Environmental Health Specialist
+827,5,2,2,Environmental Health Specialist
+828,3,4,1,Environmental Health Specialist
+829,5,dependable,2,Environmental Health Specialist
+830,5,1,3,Environmental science and protection technician
+831,5,3,3,Environmental science and protection technician
+832,5,2,3,Environmental science and protection technician
+833,5,4,3,Environmental science and protection technician
+834,5,dependable,3,Environmental science and protection technician
+835,5,1,0,Environmental Scientist
+836,5,1,1,Environmental scientist
+837,3,1,0,Environmental Scientist
+838,3,1,2,Environmental Scientist
+839,2,3,0,Environmental Scientist
+840,2,3,1,Environmental Scientist
+841,5,3,1,Environmental Scientist
+842,3,3,1,Environmental Scientist
+843,3,3,2,Environmental Scientist
+844,3,2,0,Environmental Scientist
+845,3,2,2,Environmental Scientist
+846,5,dependable,0,Environmental Scientist
+847,5,dependable,1,Environmental scientist
+848,3,dependable,1,Environmental scientist
+849,3,1,3,Environmental Technician
+850,3,3,3,Environmental technician
+851,2,dependable,2,Environmental Technician
+852,2,dependable,3,Environmental Technician
+853,5,1,2,Epidemiologist
+854,5,1,2,Epidemiologist
+855,3,1,0,Epidemiologist
+856,3,1,1,Epidemiologist
+857,5,3,2,Epidemiologist
+858,3,3,1,Epidemiologist
+859,3,3,2,Epidemiologist
+860,5,2,2,Epidemiologist
+861,5,dependable,2,Epidemiologist
+862,3,dependable,1,Epidemiologist
+863,commerce,3,1,Ethics and Compliance Manager 
+864,0,2,1,Event Assistant
+865,0,2,2,Event Assistant
+866,0,2,3,Event Assistant 
+867,4,2,2,Event Coordinator
+868,4,4,2,Event Coordinator
+869,1,2,2,Event Coordinator 
+870,1,4,2,Event Coordinator 
+871,5,4,1,Event Coordinator for Biotechnology
+872,5,4,2,Event Planner
+873,commerce,2,1,Event Planner 
+874,0,2,0,Event Planner 
+875,commerce,4,1,Event Planner 
+876,0,dependable,1,Event Staff
+877,0,dependable,2,Event Staff
+878,0,dependable,3,Event Staff
+879,1,4,0,Executive Recruiter
+880,0,4,0,Exhibition Designer
+881,0,dependable,0,Exhibition Designer
+882,0,1,1,Exhibition Installer
+883,0,1,2,Exhibition Installer
+884,0,4,2,Exhibition Installer
+885,0,4,3,Exhibition Installer
+886,0,4,1,Exhibition Installer 
+887,4,1,3,Fabricator
+888,4,3,2,Fabricator
+889,4,3,3,Fabricator
+890,4,2,3,Fabricator
+891,4,4,3,Fabricator
+892,4,dependable,2,Fabricator
+893,4,dependable,3,Fabricator
+894,3,dependable,3,Farmer/Rancher
+895,0,2,0,Fashion Designer 
+896,0,2,1,Fashion Designer Assistant
+897,0,2,2,Fashion Designer Assistant 
+898,1,2,3,Fast Food Worker
+899,1,4,3,Fast Food Worker
+900,3,1,3,Field Biologist
+901,4,1,2,Field Engineer
+902,4,3,2,Field Engineer
+903,4,dependable,2,Field Engineer
+904,3,4,3,Field Researcher
+905,4,2,2,Field Service Engineer
+906,4,4,1,Field Service Engineer
+907,4,4,2,Field Service Engineer
+908,4,1,3,Field Service Technician
+909,5,1,3,Field service technician
+910,4,3,2,Field Service Technician
+911,4,3,3,Field Service Technician
+912,5,3,3,Field service technician
+913,4,2,3,Field Service Technician
+914,5,2,3,Field service technician
+915,4,4,3,Field Service Technician
+916,5,4,3,Field service technician
+917,4,dependable,2,Field Service Technician
+918,4,dependable,3,Field Service Technician
+919,5,dependable,3,Field service technician
+920,3,3,3,Field technician for biological surveys
+921,1,dependable,3,File Clerk 
+922,1,4,0,Financial Advisor
+923,1,dependable,1,Financial Analyst
+924,commerce,dependable,0,Financial Analyst
+925,1,1,2,Financial Planner
+926,commerce,1,0,Financial Planner
+927,3,1,3,Fish and Game Warden
+928,5,3,2,Fisheries Biologist
+929,5,2,2,Fisheries Biologist
+930,5,dependable,2,Fisheries Biologist
+931,3,3,3,Fisheries technician
+932,3,2,3,Fisheries Technician
+933,3,4,3,Fisheries Technician
+934,5,4,2,Fitness Trainer
+935,3,4,2,Fitness Trainer
+936,5,1,2,Food Safety Inspector
+937,5,3,2,Food Safety Inspector
+938,5,2,2,Food Safety Inspector
+939,5,dependable,2,Food Safety Inspector
+940,3,3,3,Food science technician
+941,3,dependable,3,Food Science Technician
+942,3,1,0,Food Scientist
+943,3,3,2,Food Scientist
+944,3,2,0,Food Scientist
+945,5,3,1,Food Scientist and Technologist
+946,1,2,3,Food Service Worker
+947,1,4,3,Food Service Worker 
+948,5,1,2,Forensic Scientist
+949,3,1,0,Forensic Scientist
+950,3,1,2,Forensic Scientist
+951,5,3,1,Forensic Scientist
+952,3,3,1,Forensic Scientist
+953,3,3,2,Forensic Scientist
+954,5,2,2,Forensic Scientist
+955,5,dependable,2,Forensic Scientist
+956,3,dependable,1,Forensic scientist
+957,3,dependable,2,Forensic Scientist
+958,3,dependable,3,Forestry Technician
+959,0,dependable,1,Frame Shop Assistant
+960,0,dependable,2,Frame Shop Assistant
+961,0,dependable,3,Frame Shop Assistant
+962,5,4,2,Fundraiser
+963,0,1,2,Gallery Assistant
+964,0,1,3,Gallery Assistant
+965,0,dependable,2,Gallery Assistant
+966,0,dependable,3,Gallery Assistant
+967,0,1,1,Gallery Assistant 
+968,0,dependable,1,Gallery Assistant 
+969,0,dependable,0,Gallery Manager
+970,0,4,0,Gallery Manager 
+971,4,2,0,Game Developer
+972,1,dependable,3,General Office Clerk
+973,1,3,3,General Office Clerk 
+974,5,1,0,Genetic Counselor
+975,5,1,1,Genetic counselor
+976,5,1,2,Genetic Counselor
+977,3,1,1,Genetic counselor
+978,3,1,2,Genetic Counselor
+979,5,3,0,Genetic counselor
+980,5,3,2,Genetic Counselor
+981,3,3,1,Genetic Counselor
+982,3,3,2,Genetic Counselor
+983,5,2,1,Genetic Counselor
+984,3,2,2,Genetic Counselor
+985,3,4,1,Genetic Counselor
+986,5,dependable,1,Genetic counselor
+987,3,dependable,1,Genetic counselor
+988,3,2,0,Geneticist
+989,3,0,0,Geneticist
+990,4,3,1,Geological Engineer
+991,2,1,2,Geological Technician
+992,2,1,3,Geological Technician
+993,2,1,0,Geologist
+994,2,1,1,Geophysicist
+995,4,1,0,Geotechnical Engineer
+996,4,1,1,Geotechnical Engineer
+997,4,3,0,Geotechnical Engineer
+998,4,3,1,Geotechnical Engineer
+999,4,4,0,Geotechnical Engineer
+1000,4,dependable,0,Geotechnical Engineer
+1001,4,dependable,1,Geotechnical Engineer
+1002,4,2,0,Graphic Designer
+1003,4,2,2,Graphic Designer
+1004,4,2,3,Graphic Designer
+1005,0,2,2,Graphic Designer
+1006,4,4,2,Graphic Designer
+1007,4,4,3,Graphic Designer
+1008,0,dependable,0,Graphic Designer
+1009,2,3,0,Health and Safety Specialist
+1010,2,3,1,Health and Safety Specialist
+1011,5,3,1,Health and Safety Specialist
+1012,5,4,2,Health Coach
+1013,3,4,2,Health Communications Specialist
+1014,5,1,2,Health Educator
+1015,5,3,2,Health Educator
+1016,5,2,2,Health Educator
+1017,5,4,1,Health Educator
+1018,3,4,1,Health Educator
+1019,3,4,2,Health Educator
+1020,5,dependable,2,Health Educator
+1021,5,4,2,Health Information Management Coordinator
+1022,5,4,2,Health Information Technician
+1023,3,1,2,Health Policy Analyst
+1024,5,4,2,Health Promoter
+1025,3,4,1,Health Psychologist
+1026,3,4,0,Healthcare Administrator
+1027,3,4,1,Healthcare Administrator
+1028,3,4,2,Healthcare Administrator
+1029,5,1,0,Healthcare Administrator/Manager
+1030,5,dependable,0,Healthcare Administrator/Manager
+1031,5,4,2,Healthcare Marketing Specialist
+1032,3,4,0,Healthcare Public Relations Specialist
+1033,4,1,3,Help Desk Technician
+1034,4,3,2,Help Desk Technician
+1035,4,3,3,Help Desk Technician
+1036,4,2,3,Help Desk Technician
+1037,4,4,3,Help Desk Technician
+1038,4,dependable,2,Help Desk Technician
+1039,4,dependable,3,Help Desk Technician
+1040,4,1,3,Home Automation Technician
+1041,4,3,3,Home Automation Technician
+1042,4,2,3,Home Automation Technician
+1043,4,4,3,Home Automation Technician
+1044,4,dependable,3,Home Automation Technician
+1045,5,1,0,Horticulturist
+1046,5,1,2,Horticulturist
+1047,5,3,2,Horticulturist
+1048,5,3,3,Horticulturist
+1049,3,3,0,Horticulturist
+1050,3,3,2,Horticulturist
+1051,3,3,3,Horticulturist
+1052,5,2,2,Horticulturist
+1053,5,2,3,Horticulturist
+1054,3,2,0,Horticulturist
+1055,5,4,3,Horticulturist
+1056,5,dependable,0,Horticulturist
+1057,5,dependable,2,Horticulturist
+1058,3,dependable,3,Horticulturist
+1059,4,2,0,Human Factors Engineer
+1060,4,2,2,Human Factors Engineer
+1061,4,4,1,Human Factors Engineer
+1062,4,4,2,Human Factors Engineer
+1063,1,3,2,Human Resources Assistant
+1064,1,2,2,Human Resources Coordinator 
+1065,1,4,2,Human Resources Coordinator 
+1066,commerce,3,0,Human Resources Manager
+1067,commerce,2,1,Human Resources Manager
+1068,1,4,0,Human Resources Manager
+1069,commerce,4,1,Human Resources Manager
+1070,5,4,2,Human Resources Specialist
+1071,3,1,0,Immunologist
+1072,3,0,0,Immunologist
+1073,3,0,0,Immunologist
+1074,commerce,2,0,Import/Export Agent
+1075,4,2,0,Industrial Designer
+1076,4,2,2,Industrial Designer
+1077,4,4,1,Industrial Designer
+1078,4,1,0,Industrial Engineer
+1079,4,1,1,Industrial Engineer
+1080,4,1,2,Industrial Engineer
+1081,4,3,0,Industrial Engineer
+1082,4,3,1,Industrial Engineer
+1083,4,2,1,Industrial Engineer
+1084,4,4,0,Industrial Engineer
+1085,4,dependable,0,Industrial Engineer
+1086,4,dependable,1,Industrial Engineer
+1087,5,4,2,Influencer
+1088,4,2,2,Innovation Manager
+1089,4,4,1,Innovation Manager
+1090,4,4,2,Innovation Manager
+1091,4,3,2,Installation Technician
+1092,4,dependable,2,Installation Technician
+1093,4,1,3,Installer
+1094,4,3,3,Installer
+1095,4,2,3,Installer
+1096,4,4,3,Installer
+1097,4,dependable,3,Installer
+1098,4,1,0,Instrumentation and Control Engineer
+1099,4,1,1,Instrumentation and Control Engineer
+1100,4,3,0,Instrumentation and Control Engineer
+1101,4,4,0,Instrumentation and Control Engineer
+1102,4,dependable,0,Instrumentation and Control Engineer
+1103,4,dependable,1,Instrumentation and Control Engineer
+1104,4,1,3,Instrumentation Technician
+1105,4,3,2,Instrumentation Technician
+1106,4,3,3,Instrumentation Technician
+1107,4,2,3,Instrumentation Technician
+1108,4,4,3,Instrumentation Technician
+1109,4,dependable,2,Instrumentation Technician
+1110,4,dependable,3,Instrumentation Technician
+1111,1,1,2,Insurance Agent
+1112,1,1,3,Insurance Sales Agent
+1113,1,4,0,Insurance Sales Agent
+1114,1,dependable,1,Insurance Underwriter
+1115,commerce,1,0,Intellectual Property Lawyer
+1116,4,2,2,Interaction Designer
+1117,4,4,1,Interaction Designer
+1118,0,1,0,Interior Designer
+1119,commerce,3,1,Internal Auditor 
+1120,1,3,2,Internal Auditor Assistant 
+1121,4,1,3,Inventory Control Specialist
+1122,4,3,2,Inventory Control Specialist
+1123,4,3,3,Inventory Control Specialist
+1124,4,2,3,Inventory Control Specialist
+1125,4,4,3,Inventory Control Specialist
+1126,4,dependable,2,Inventory Control Specialist
+1127,4,dependable,3,Inventory Control Specialist
+1128,1,dependable,2,Inventory Control Specialist 
+1129,4,1,2,Inventory Manager
+1130,1,1,2,Investment Advisor 
+1131,commerce,dependable,0,Investment Analyst
+1132,1,dependable,1,Investment Banker
+1133,commerce,dependable,0,Investment Banker
+1134,4,1,3,IT Help Desk Technician
+1135,4,3,3,IT Help Desk Technician
+1136,4,2,3,IT Help Desk Technician
+1137,4,4,3,IT Help Desk Technician
+1138,4,dependable,3,IT Help Desk Technician
+1139,4,1,2,IT Manager
+1140,commerce,1,0,Judge
+1141,3,dependable,2,Lab Technician
+1142,3,1,3,Laboratory Assistant
+1143,2,dependable,2,Laboratory Assistant
+1144,2,dependable,3,Laboratory Assistant
+1145,5,1,2,Laboratory Manager
+1146,5,3,2,Laboratory Manager
+1147,5,2,2,Laboratory Manager
+1148,5,dependable,2,Laboratory Manager
+1149,3,dependable,2,Laboratory Manager
+1150,2,dependable,0,Laboratory Manager 
+1151,5,1,3,Laboratory technician
+1152,5,3,3,Laboratory technician
+1153,3,3,2,Laboratory Technician
+1154,3,3,3,Laboratory technician
+1155,5,2,3,Laboratory technician
+1156,5,4,3,Laboratory technician
+1157,2,dependable,1,Laboratory Technician
+1158,5,dependable,3,Laboratory technician
+1159,3,dependable,1,Laboratory technician
+1160,3,dependable,3,Laboratory Technician
+1161,3,3,0,Landscape Architect
+1162,commerce,1,0,Lawyer
+1163,commerce,1,0,Legal Analyst
+1164,1,1,2,Loan Officer 
+1165,commerce,dependable,0,Logistics Analyst
+1166,4,3,2,Logistics Coordinator
+1167,1,3,2,Logistics Coordinator
+1168,4,dependable,2,Logistics Coordinator
+1169,4,1,2,Logistics Manager
+1170,commerce,3,0,Logistics Manager
+1171,4,4,1,Logistics Manager
+1172,1,dependable,1,Logistics Manager
+1173,4,2,0,Machine Learning Engineer
+1174,4,1,3,Machine Operator
+1175,4,dependable,3,Machine Operator
+1176,4,3,2,Machinist
+1177,4,dependable,2,Machinist
+1178,1,3,3,Mail Clerk
+1179,4,1,3,Maintenance Technician
+1180,4,3,2,Maintenance Technician
+1181,4,3,3,Maintenance Technician
+1182,4,2,3,Maintenance Technician
+1183,4,4,3,Maintenance Technician
+1184,4,dependable,2,Maintenance Technician
+1185,4,dependable,3,Maintenance Technician
+1186,4,4,0,Management Consultant
+1187,4,4,2,Management Consultant
+1188,1,4,0,Management Consultant
+1189,1,dependable,1,Management Consultant
+1190,commerce,dependable,0,Management Consultant
+1191,4,1,2,Manufacturing Analyst
+1192,4,1,0,Manufacturing Engineer
+1193,4,1,1,Manufacturing Engineer
+1194,4,3,0,Manufacturing Engineer
+1195,4,3,1,Manufacturing Engineer
+1196,4,2,1,Manufacturing Engineer
+1197,4,dependable,0,Manufacturing Engineer
+1198,4,dependable,1,Manufacturing Engineer
+1199,4,4,0,Manufacturing Manager
+1200,4,4,1,Manufacturing Manager
+1201,4,dependable,3,Manufacturing Production Operator
+1202,2,dependable,0,Manufacturing Supervisor 
+1203,4,3,2,Manufacturing Technician
+1204,4,dependable,2,Manufacturing Technician
+1205,3,1,0,Marine Biologist
+1206,3,3,1,Marine Biologist
+1207,3,3,2,Marine Biologist
+1208,3,2,0,Marine Biologist
+1209,4,3,1,Marine Engineer
+1210,4,2,0,Marine Engineer
+1211,3,2,3,Marine Mammal Trainer
+1212,3,4,3,Marine Mammal Trainer
+1213,3,3,0,Marine Scientist
+1214,commerce,2,0,Market Research Analyst
+1215,commerce,1,1,Market Research Analyst 
+1216,4,4,2,Marketing Coordinator
+1217,4,4,3,Marketing Coordinator
+1218,1,2,2,Marketing Coordinator 
+1219,1,4,2,Marketing Coordinator 
+1220,4,1,2,Marketing Manager
+1221,4,2,2,Marketing Manager
+1222,commerce,2,0,Marketing Manager
+1223,4,4,1,Marketing Manager
+1224,4,4,2,Marketing Manager
+1225,1,4,0,Marketing Manager
+1226,commerce,2,1,Marketing Manager 
+1227,commerce,4,1,Marketing Manager 
+1228,5,4,1,Marketing Manager for Biotechnology
+1229,4,1,0,Materials Engineer
+1230,4,1,1,Materials Engineer
+1231,4,3,0,Materials Engineer
+1232,4,3,1,Materials Engineer
+1233,4,2,1,Materials Engineer
+1234,4,4,0,Materials Engineer
+1235,4,dependable,0,Materials Engineer
+1236,4,dependable,1,Materials Engineer
+1237,2,1,0,Materials Scientist
+1238,4,2,0,Materials Scientist
+1239,2,dependable,1,Materials Tester
+1240,4,1,0,Mechanical Engineer
+1241,4,1,1,Mechanical Engineer
+1242,4,3,0,Mechanical Engineer
+1243,4,3,1,Mechanical Engineer
+1244,4,2,0,Mechanical Engineer
+1245,4,2,1,Mechanical Engineer
+1246,4,4,0,Mechanical Engineer
+1247,4,dependable,0,Mechanical Engineer
+1248,4,dependable,1,Mechanical Engineer
+1249,4,3,2,Mechanical Technician
+1250,4,dependable,2,Mechanical Technician
+1251,4,1,0,Mechatronics Engineer
+1252,4,1,1,Mechatronics Engineer
+1253,4,3,0,Mechatronics Engineer
+1254,4,3,1,Mechatronics Engineer
+1255,4,2,0,Mechatronics Engineer
+1256,4,2,1,Mechatronics Engineer
+1257,4,4,0,Mechatronics Engineer
+1258,4,dependable,0,Mechatronics Engineer
+1259,4,dependable,1,Mechatronics Engineer
+1260,5,4,2,Medical Affairs Coordinator
+1261,5,1,2,Medical Assistant
+1262,3,1,3,Medical Assistant
+1263,5,3,2,Medical Assistant
+1264,5,2,2,Medical Assistant
+1265,5,dependable,2,Medical Assistant
+1266,3,dependable,3,Medical Assistant
+1267,3,1,3,Medical Billing and Coding Specialist
+1268,5,4,2,Medical Billing and Coding Specialist
+1269,3,dependable,3,Medical Billing and Coding Specialist
+1270,5,4,2,Medical Communications Specialist
+1271,3,4,0,Medical Communications Specialist
+1272,3,0,0,Medical consultant
+1273,5,4,2,Medical Customer Service Representative
+1274,3,dependable,1,Medical device designer
+1275,5,3,1,Medical Device Engineer
+1276,3,4,2,Medical Device Marketing Specialist
+1277,5,3,0,Medical device research and development engineer
+1278,5,1,0,Medical Device Sales Representative
+1279,3,1,3,Medical Device Sales Representative
+1280,5,2,1,Medical Device Sales Representative
+1281,5,4,0,Medical device sales representative
+1282,5,4,2,Medical Device Sales Representative
+1283,3,4,0,Medical Device Sales Representative
+1284,3,4,1,Medical Device Sales Representative
+1285,3,0,0,Medical device sales representative
+1286,3,dependable,3,Medical Device Sales Representative
+1287,3,1,0,Medical Doctor
+1288,3,3,1,Medical Doctor
+1289,5,1,1,Medical equipment designer
+1290,5,dependable,1,Medical equipment designer
+1291,5,1,1,Medical equipment repair technician
+1292,3,1,3,Medical Equipment Repair Technician
+1293,5,dependable,1,Medical equipment repair technician
+1294,3,dependable,3,Medical Equipment Repair Technician
+1295,3,0,0,Medical equipment repair technician.
+1296,5,1,3,Medical equipment repairer
+1297,5,3,3,Medical equipment repairer
+1298,5,2,3,Medical equipment repairer
+1299,5,4,3,Medical equipment repairer
+1300,5,dependable,3,Medical equipment repairer
+1301,5,4,0,Medical equipment sales representative
+1302,3,4,2,Medical Equipment Sales Representative
+1303,3,dependable,2,Medical Equipment Sales Representative
+1304,3,0,0,Medical ethicist
+1305,3,4,0,Medical Event Planner
+1306,5,4,2,Medical Events Coordinator
+1307,5,1,0,Medical Illustrator
+1308,5,1,2,Medical Illustrator
+1309,3,1,2,Medical Illustrator
+1310,5,3,2,Medical Illustrator
+1311,3,0,0,Medical illustrator
+1312,5,dependable,0,Medical Illustrator
+1313,3,dependable,1,Medical illustrator
+1314,5,1,1,Medical imaging technologist
+1315,5,1,2,Medical Imaging Technologist
+1316,5,3,2,Medical Imaging Technologist
+1317,5,2,2,Medical Imaging Technologist
+1318,5,4,1,Medical Imaging Technologist
+1319,5,dependable,1,Medical imaging technologist
+1320,5,dependable,2,Medical Imaging Technologist
+1321,5,4,1,Medical Interpreter
+1322,5,4,2,Medical Interpreter
+1323,5,1,2,Medical Laboratory Technician
+1324,3,1,3,Medical Laboratory Technician
+1325,5,3,0,Medical laboratory technician
+1326,5,3,2,Medical Laboratory Technician
+1327,3,3,1,Medical Laboratory Technician
+1328,5,2,2,Medical Laboratory Technician
+1329,3,2,2,Medical Laboratory Technician
+1330,5,dependable,2,Medical Laboratory Technician
+1331,5,3,1,Medical Laboratory Technologist
+1332,3,0,0,Medical liaison
+1333,3,0,0,Medical librarian
+1334,3,4,0,Medical Marketing Specialist
+1335,3,4,1,Medical Marketing Specialist
+1336,5,4,2,Medical Practice Manager
+1337,5,3,0,Medical product analyst
+1338,5,4,2,Medical Receptionist
+1339,3,1,3,Medical Records Technician
+1340,3,dependable,3,Medical Records Technician
+1341,3,4,1,Medical Recruiter
+1342,5,1,1,Medical researcher
+1343,5,dependable,1,Medical researcher
+1344,5,4,1,Medical Sales Representative
+1345,5,4,2,Medical Sales Representative
+1346,3,4,0,Medical Sales Representative
+1347,3,4,1,Medical Sales Representative
+1348,3,4,2,Medical Sales Representative
+1349,3,0,0,Medical sales representative
+1350,5,4,2,Medical Scheduler
+1351,5,1,0,Medical Science Liaison
+1352,5,3,0,Medical science liaison
+1353,3,3,0,Medical Science Liaison
+1354,3,2,2,Medical Science Liaison
+1355,3,4,0,Medical Science Liaison
+1356,3,4,1,Medical Science Liaison
+1357,5,1,2,Medical Scientist
+1358,5,2,1,Medical Scientist
+1359,3,2,0,Medical Scientist
+1360,3,0,0,Medical scientist
+1361,5,4,1,Medical Social Worker
+1362,3,4,2,Medical Social Worker
+1363,5,1,0,Medical Technologist
+1364,5,1,2,Medical Technologist
+1365,5,3,1,Medical Technologist
+1366,5,3,2,Medical Technologist
+1367,5,2,2,Medical Technologist
+1368,5,dependable,2,Medical Technologist
+1369,3,dependable,2,Medical Technologist
+1370,5,4,1,Medical Technologist Trainer
+1371,5,3,0,Medical technology analyst
+1372,5,3,0,Medical technology consultant
+1373,3,1,3,Medical Transcriptionist
+1374,5,4,2,Medical Transcriptionist
+1375,3,dependable,3,Medical Transcriptionist
+1376,5,1,1,Medical writer
+1377,5,1,2,Medical Writer
+1378,3,1,2,Medical Writer
+1379,3,1,3,Medical Writer
+1380,5,3,0,Medical writer
+1381,5,3,2,Medical Writer
+1382,5,2,2,Medical Writer
+1383,5,4,1,Medical Writer
+1384,3,4,0,Medical Writer
+1385,3,4,1,Medical Writer
+1386,3,0,0,Medical writer
+1387,5,dependable,1,Medical writer
+1388,5,dependable,2,Medical Writer
+1389,3,dependable,1,Medical writer
+1390,1,dependable,2,Merchandiser 
+1391,commerce,1,0,Mergers and Acquisitions Lawyer
+1392,4,3,1,Metallurgical Engineer
+1393,2,1,0,Meteorologist
+1394,2,1,2,Meteorologist
+1395,2,1,3,Meteorologist
+1396,5,1,0,Microbiologist
+1397,3,1,1,Microbiologist
+1398,3,3,1,Microbiologist
+1399,3,3,2,Microbiologist
+1400,5,2,1,Microbiologist
+1401,3,2,0,Microbiologist
+1402,5,dependable,0,Microbiologist
+1403,3,dependable,1,Microbiologist
+1404,4,3,1,Mining Engineer
+1405,4,2,0,Mobile Application Developer
+1406,2,1,1,Molecular Biologist
+1407,5,1,0,Molecular Biologist
+1408,3,1,1,Molecular biologist
+1409,5,3,0,Molecular biologist
+1410,3,2,2,Molecular Biologist
+1411,3,0,0,Molecular biologist
+1412,5,dependable,0,Molecular Biologist
+1413,3,dependable,1,Molecular biologist
+1414,4,2,2,Multimedia Specialist
+1415,4,2,3,Multimedia Specialist
+1416,4,4,2,Multimedia Specialist
+1417,4,4,3,Multimedia Specialist
+1418,0,1,0,Museum Curator
+1419,0,dependable,0,Museum Curator
+1420,0,4,0,Museum Curator 
+1421,0,4,1,Museum Visitor Services Representative
+1422,0,4,3,Museum Visitor Services Representative
+1423,0,1,1,Museum Visitor Services Representative 
+1424,0,1,2,Museum Visitor Services Representative 
+1425,0,1,3,Museum Visitor Services Representative 
+1426,0,4,2,Museum Visitor Services Representative 
+1427,2,1,0,Nanotechnologist 
+1428,3,2,2,Natural Resource Manager
+1429,3,1,3,Naturalist
+1430,3,2,0,Naturalist
+1431,3,3,0,Nature Photographer
+1432,4,3,1,Naval Architect
+1433,4,1,2,Network Administrator
+1434,4,2,0,Network Administrator
+1435,4,1,3,Network Technician
+1436,4,3,2,Network Technician
+1437,4,3,3,Network Technician
+1438,4,2,3,Network Technician
+1439,4,4,3,Network Technician
+1440,4,dependable,2,Network Technician
+1441,4,dependable,3,Network Technician
+1442,3,1,0,Neuroscience Researcher
+1443,3,1,1,Neuroscientist
+1444,5,2,1,Neuroscientist
+1445,4,1,0,Nuclear Engineer
+1446,4,1,1,Nuclear Engineer
+1447,4,3,0,Nuclear Engineer
+1448,4,3,1,Nuclear Engineer
+1449,4,2,1,Nuclear Engineer
+1450,4,4,0,Nuclear Engineer
+1451,4,dependable,0,Nuclear Engineer
+1452,4,dependable,1,Nuclear Engineer
+1453,5,1,2,Nutritionist
+1454,5,3,1,Nutritionist
+1455,5,3,2,Nutritionist
+1456,5,2,2,Nutritionist
+1457,5,dependable,2,Nutritionist
+1458,5,1,0,Nutritionist/Dietician
+1459,3,4,2,Nutritionist/Dietician
+1460,3,3,1,Nutritionist/Dietitian
+1461,3,4,1,Nutritionist/Dietitian
+1462,3,4,2,Occupational Health and Safety Specialist
+1463,3,4,1,Occupational Therapist
+1464,3,4,2,Occupational Therapist
+1465,2,1,1,Oceanographer
+1466,1,3,3,Office Assistant 
+1467,1,3,2,Office Manager 
+1468,4,1,2,Operations Analyst
+1469,4,3,3,Operations Coordinator
+1470,4,1,2,Operations Manager
+1471,4,4,1,Operations Manager
+1472,1,dependable,1,Operations Manager
+1473,commerce,dependable,0,Operations Research Analyst
+1474,4,2,0,Optical Engineer
+1475,2,1,0,Optometrist
+1476,3,1,0,Optometrist
+1477,1,3,3,Order Clerk 
+1478,3,2,3,Outdoor Educator
+1479,3,4,3,Outdoor Educator
+1480,5,1,2,Paramedic
+1481,5,3,2,Paramedic
+1482,5,2,2,Paramedic
+1483,5,dependable,2,Paramedic
+1484,3,dependable,3,Park Naturalist
+1485,3,1,3,Park Ranger
+1486,3,3,0,Park Ranger
+1487,3,3,3,Park ranger
+1488,3,2,0,Park Ranger
+1489,3,2,3,Park Ranger
+1490,3,4,3,Park Ranger
+1491,2,3,1,Patent Agent
+1492,2,3,0,Patent Agenta
+1493,4,4,1,Patent Attorney
+1494,5,1,0,Pathologist
+1495,5,dependable,0,Pathologist
+1496,5,4,1,Patient Advocate
+1497,5,4,2,Patient Advocate
+1498,5,4,2,Patient Coordinator
+1499,1,dependable,2,Payroll Administrator 
+1500,3,3,3,Pest control technician
+1501,3,2,3,Pet Groomer
+1502,3,4,3,Pet Groomer
+1503,3,2,3,Pet Sitter/Dog Walker
+1504,3,4,3,Pet Sitter/Dog Walker
+1505,4,1,0,Petroleum Engineer
+1506,4,1,1,Petroleum Engineer
+1507,4,3,0,Petroleum Engineer
+1508,4,3,1,Petroleum Engineer
+1509,4,2,1,Petroleum Engineer
+1510,4,4,0,Petroleum Engineer
+1511,4,dependable,0,Petroleum Engineer
+1512,4,dependable,1,Petroleum Engineer
+1513,2,1,1,Petrologist
+1514,3,2,2,Pharmaceutical Researcher
+1515,3,0,0,Pharmaceutical researcher
+1516,5,1,0,Pharmaceutical Sales Representative
+1517,5,1,2,Pharmaceutical Sales Representative
+1518,5,1,3,Pharmaceutical sales representative
+1519,3,1,2,Pharmaceutical Sales Representative
+1520,5,3,2,Pharmaceutical Sales Representative
+1521,5,3,3,Pharmaceutical sales representative
+1522,3,3,2,Pharmaceutical Sales Representative
+1523,5,2,1,Pharmaceutical Sales Representative
+1524,5,2,2,Pharmaceutical Sales Representative
+1525,5,2,3,Pharmaceutical sales representative
+1526,5,4,3,Pharmaceutical sales representative
+1527,3,4,0,Pharmaceutical Sales Representative
+1528,3,4,1,Pharmaceutical Sales Representative
+1529,3,0,0,Pharmaceutical sales representative
+1530,5,dependable,2,Pharmaceutical Sales Representative
+1531,5,dependable,3,Pharmaceutical sales representative
+1532,3,dependable,2,Pharmaceutical Sales Representative
+1533,3,dependable,3,Pharmaceutical Sales Representative
+1534,5,3,0,Pharmaceutical scientist
+1535,3,2,0,Pharmaceutical Scientist
+1536,3,3,3,Pharmaceutical technician
+1537,3,3,1,Pharmacist
+1538,5,1,0,Pharmacologist
+1539,3,1,0,Pharmacologist
+1540,3,1,1,Pharmacologist
+1541,5,2,1,Pharmacologist
+1542,3,2,2,Pharmacologist
+1543,5,dependable,0,Pharmacologist
+1544,3,dependable,1,Pharmacologist
+1545,3,1,3,Pharmacy Technician
+1546,3,dependable,3,Pharmacy Technician
+1547,0,2,2,Photographer's Assistant
+1548,0,dependable,1,Photographer's Assistant
+1549,0,dependable,3,Photographer's Assistant
+1550,0,2,1,Photographer's Assistant 
+1551,0,2,3,Photographer's Assistant 
+1552,0,dependable,2,Photographer's Assistant 
+1553,3,4,1,Physical Therapist
+1554,3,4,2,Physical Therapist
+1555,3,1,1,Physician assistant
+1556,3,4,2,Physician Assistant
+1557,2,1,0,Physicist 
+1558,2,1,2,Physics Technician
+1559,3,1,1,Plant biologist
+1560,3,3,1,Plant Biologist
+1561,3,2,2,Plant Biotechnologist
+1562,5,1,0,Plant Breeder
+1563,5,dependable,0,Plant Breeder
+1564,5,1,3,Plant or animal caretaker
+1565,5,3,3,Plant or animal caretaker
+1566,5,2,3,Plant or animal caretaker
+1567,5,4,3,Plant or animal caretaker
+1568,5,dependable,3,Plant or animal caretaker
+1569,3,3,3,Plant propagation technician
+1570,5,3,1,Plant Scientist
+1571,3,3,0,Plant Scientist
+1572,commerce,1,1,Portfolio Manager
+1573,4,3,1,Power Engineer
+1574,4,1,2,Process Analyst
+1575,5,3,1,Process Development Engineer
+1576,4,1,0,Process Engineer
+1577,4,1,1,Process Engineer
+1578,5,1,3,Process engineer
+1579,4,3,0,Process Engineer
+1580,4,3,1,Process Engineer
+1581,5,3,2,Process Engineer
+1582,5,2,2,Process Engineer
+1583,5,4,3,Process engineer
+1584,4,dependable,0,Process Engineer
+1585,4,dependable,1,Process Engineer
+1586,5,dependable,2,Process Engineer
+1587,5,dependable,3,Process engineer
+1588,2,dependable,0,Process Engineer 
+1589,4,3,2,Process Technician
+1590,4,dependable,2,Process Technician
+1591,1,3,2,Procurement Assistant 
+1592,4,1,2,Procurement Manager
+1593,commerce,3,0,Procurement Manager
+1594,4,4,1,Procurement Manager
+1595,4,1,3,Procurement Specialist
+1596,4,3,2,Procurement Specialist
+1597,4,3,3,Procurement Specialist
+1598,4,2,3,Procurement Specialist
+1599,4,4,3,Procurement Specialist
+1600,4,dependable,2,Procurement Specialist
+1601,4,dependable,3,Procurement Specialist
+1602,4,3,1,Product Development Engineer
+1603,4,2,0,Product Development Engineer
+1604,4,2,1,Product Development Engineer
+1605,2,dependable,1,Product Development Scientist
+1606,4,1,2,Product Manager
+1607,4,2,2,Product Manager
+1608,4,4,0,Product Manager
+1609,4,4,1,Product Manager
+1610,5,4,2,Product Manager
+1611,5,2,1,Product Manager in Biotechnology
+1612,0,dependable,1,Production Assistant
+1613,4,4,1,Production Engineer
+1614,0,dependable,0,Production Manager
+1615,4,3,2,Production Operator
+1616,4,dependable,2,Production Operator
+1617,4,1,2,Production Planner
+1618,4,1,3,Production Worker
+1619,5,4,2,Program Coordinator
+1620,4,4,1,Program Manager
+1621,4,1,2,Project Coordinator
+1622,4,3,3,Project Coordinator
+1623,1,3,2,Project Coordinator
+1624,4,1,0,Project Engineer
+1625,4,1,1,Project Engineer
+1626,4,3,0,Project Engineer
+1627,4,3,1,Project Engineer
+1628,4,dependable,0,Project Engineer
+1629,4,dependable,1,Project Engineer
+1630,4,1,2,Project Manager
+1631,commerce,3,0,Project Manager
+1632,4,4,0,Project Manager
+1633,4,4,1,Project Manager
+1634,2,dependable,0,Project Manager
+1635,1,dependable,1,Project Manager
+1636,3,4,2,Public Health Advocate
+1637,5,4,2,Public Health Educator
+1638,3,4,0,Public Health Educator
+1639,3,3,0,Public Health Officer
+1640,3,4,1,Public Health Specialist
+1641,0,2,3,Public Relations Assistant
+1642,0,2,1,Public Relations Assistant 
+1643,0,2,2,Public Relations Assistant 
+1644,1,4,2,Public Relations Coordinator
+1645,1,2,2,Public Relations Coordinator 
+1646,4,2,2,Public Relations Specialist
+1647,commerce,2,0,Public Relations Specialist
+1648,0,2,0,Public Relations Specialist
+1649,4,4,2,Public Relations Specialist
+1650,1,4,0,Public Relations Specialist
+1651,0,4,0,Public Relations Specialist
+1652,commerce,2,1,Public Relations Specialist 
+1653,commerce,4,1,Public Relations Specialist 
+1654,5,4,1,Public Relations Specialist for Biotechnology
+1655,2,4,0,Public Relations Specialist for Science Companies
+1656,2,4,1,Public Relations Specialist for Science Companies
+1657,2,4,2,Public Relations Specialist for Science Companies
+1658,4,4,2,Public Speaker
+1659,1,dependable,2,Purchasing Agent 
+1660,4,1,2,Quality Assurance Analyst
+1661,4,1,3,Quality Assurance Inspector
+1662,4,3,2,Quality Assurance Inspector
+1663,4,3,3,Quality Assurance Inspector
+1664,4,2,3,Quality Assurance Inspector
+1665,4,dependable,2,Quality Assurance Inspector
+1666,4,dependable,3,Quality Assurance Inspector
+1667,2,3,0,Quality Assurance Manager
+1668,2,3,1,Quality Assurance Manager
+1669,3,0,0,Quality assurance specialist
+1670,5,3,1,Quality Control Analyst
+1671,5,3,2,Quality Control Analyst
+1672,2,dependable,1,Quality Control Analyst
+1673,3,dependable,2,Quality Control Analyst
+1674,2,3,2,Quality Control Coordinator
+1675,2,3,3,Quality Control Coordinator
+1676,4,3,1,Quality Control Engineer
+1677,4,2,1,Quality Control Engineer
+1678,4,1,2,Quality Control Inspector
+1679,4,1,3,Quality Control Inspector
+1680,4,3,3,Quality Control Inspector
+1681,4,4,3,Quality Control Inspector
+1682,4,dependable,3,Quality Control Inspector
+1683,4,4,1,Quality Control Manager
+1684,5,1,3,Quality control specialist
+1685,5,3,3,Quality control specialist
+1686,5,2,3,Quality control specialist
+1687,5,4,3,Quality control specialist
+1688,5,dependable,3,Quality control specialist
+1689,3,dependable,1,Quality control specialist
+1690,2,dependable,0,Quality Control Specialist 
+1691,4,3,2,Quality Control Technician
+1692,5,2,2,Quality Control Technician
+1693,2,dependable,2,Quality Control Technician
+1694,4,dependable,2,Quality Control Technician
+1695,5,dependable,2,Quality Control Technician
+1696,3,4,2,Radiologic Technologist
+1697,commerce,3,0,Real Estate Agent
+1698,1,1,2,Real Estate Agent 
+1699,commerce,1,1,Real Estate Appraiser
+1700,1,4,0,Real Estate Broker
+1701,1,3,3,Receptionist 
+1702,1,dependable,3,Receptionist 
+1703,5,1,0,Regulatory Affairs Manager
+1704,5,1,1,Regulatory affairs specialist
+1705,5,1,2,Regulatory Affairs Specialist
+1706,5,1,3,Regulatory affairs specialist
+1707,2,3,0,Regulatory Affairs Specialist
+1708,2,3,1,Regulatory Affairs Specialist
+1709,5,3,1,Regulatory Affairs Specialist
+1710,5,3,2,Regulatory Affairs Specialist
+1711,5,3,3,Regulatory affairs specialist
+1712,5,2,2,Regulatory Affairs Specialist
+1713,5,2,3,Regulatory affairs specialist
+1714,5,4,3,Regulatory affairs specialist
+1715,3,0,0,Regulatory affairs specialist
+1716,5,dependable,1,Regulatory affairs specialist
+1717,5,dependable,2,Regulatory Affairs Specialist
+1718,5,dependable,3,Regulatory affairs specialist
+1719,3,dependable,1,Regulatory affairs specialist
+1720,4,1,0,Renewable Energy Engineer
+1721,4,1,1,Renewable Energy Engineer
+1722,4,3,0,Renewable Energy Engineer
+1723,4,2,1,Renewable Energy Engineer
+1724,4,4,0,Renewable Energy Engineer
+1725,4,dependable,0,Renewable Energy Engineer
+1726,4,dependable,1,Renewable Energy Engineer
+1727,4,1,3,Repair Technician
+1728,4,3,2,Repair Technician
+1729,4,3,3,Repair Technician
+1730,4,2,3,Repair Technician
+1731,4,4,3,Repair Technician
+1732,4,dependable,2,Repair Technician
+1733,4,dependable,3,Repair Technician
+1734,commerce,1,0,Research Analyst
+1735,4,1,0,Research and Development Engineer
+1736,4,1,1,Research and Development Engineer
+1737,4,3,0,Research and Development Engineer
+1738,4,dependable,0,Research and Development Engineer
+1739,4,dependable,1,Research and Development Engineer
+1740,5,2,1,Research and Development Scientist
+1741,2,1,2,Research Assistant
+1742,2,1,3,Research Assistant
+1743,5,1,3,Research assistant
+1744,5,3,3,Research assistant
+1745,3,3,3,Research assistant
+1746,5,2,3,Research assistant
+1747,5,4,3,Research assistant
+1748,2,dependable,1,Research Assistant
+1749,5,dependable,3,Research assistant
+1750,3,dependable,2,Research Assistant
+1751,3,dependable,3,Research Assistant
+1752,2,3,2,Research Compliance Coordinator
+1753,2,3,3,Research Compliance Coordinator
+1754,4,3,1,Research Engineer
+1755,4,2,1,Research Engineer
+1756,2,dependable,0,Research Scientist 
+1757,3,1,3,Research Technician
+1758,2,dependable,2,Research Technician
+1759,2,dependable,3,Research Technician
+1760,3,4,2,Respiratory Therapist
+1761,commerce,2,0,Retail Buyer
+1762,1,dependable,2,Retail Manager
+1763,1,2,3,Retail Salesperson
+1764,1,2,2,Retail Salesperson 
+1765,1,4,2,Retail Salesperson 
+1766,1,4,3,Retail Salesperson 
+1767,commerce,2,0,Retail Store Manager
+1768,1,dependable,1,Risk Analyst
+1769,commerce,dependable,0,Risk Manager
+1770,4,1,0,Robotics Engineer
+1771,4,1,1,Robotics Engineer
+1772,4,3,0,Robotics Engineer
+1773,4,3,1,Robotics Engineer
+1774,4,2,0,Robotics Engineer
+1775,4,2,1,Robotics Engineer
+1776,4,4,0,Robotics Engineer
+1777,4,dependable,0,Robotics Engineer
+1778,4,dependable,1,Robotics Engineer
+1779,2,dependable,0,Safety Coordinator 
+1780,4,3,1,Safety Engineer
+1781,1,2,3,Sales Associate
+1782,0,4,1,Sales Associate
+1783,0,4,2,Sales Associate
+1784,1,4,3,Sales Associate 
+1785,0,4,3,Sales Associate 
+1786,1,dependable,2,Sales Associate 
+1787,1,dependable,3,Sales Associate 
+1788,4,3,1,Sales Engineer
+1789,4,2,2,Sales Engineer
+1790,4,4,0,Sales Engineer
+1791,4,4,1,Sales Engineer
+1792,4,4,2,Sales Engineer
+1793,5,4,2,Sales Engineer
+1794,4,1,2,Sales Manager
+1795,4,2,3,Sales Manager
+1796,commerce,2,0,Sales Manager
+1797,4,4,2,Sales Manager
+1798,4,4,3,Sales Manager
+1799,1,4,0,Sales Manager
+1800,commerce,2,1,Sales Manager 
+1801,commerce,4,1,Sales Manager 
+1802,0,4,0,Sales Representative
+1803,1,2,2,Sales Representative 
+1804,1,4,2,Sales Representative 
+1805,2,4,0,Sales Representative for Science Products
+1806,2,4,1,Sales Representative for Science Products
+1807,1,1,3,Salesperson
+1808,1,2,3,Salesperson
+1809,1,4,3,Salesperson
+1810,0,dependable,1,Scenic Artist
+1811,0,dependable,3,Scenic Artist
+1812,0,dependable,2,Scenic Artist 
+1813,3,2,0,Science Advocate
+1814,3,4,0,Science Blogger
+1815,3,dependable,1,Science communication specialist
+1816,3,1,3,Science Communications Specialist
+1817,3,3,2,Science Communications Specialist
+1818,3,2,3,Science Communications Specialist
+1819,3,4,3,Science Communications Specialist
+1820,3,dependable,3,Science Communications Specialist
+1821,3,3,3,Science communicator
+1822,2,2,1,Science Communicator
+1823,2,2,2,Science Communicator
+1824,2,2,3,Science Communicator
+1825,5,2,3,Science communicator
+1826,3,2,0,Science Communicator
+1827,2,4,0,Science Communicator
+1828,2,4,1,Science Communicator
+1829,5,4,3,Science communicator
+1830,3,4,0,Science Communicator
+1831,2,2,0,Science Communicator 
+1832,3,3,2,Science Consultant
+1833,3,dependable,2,Science Data Analyst
+1834,2,1,2,Science Educator
+1835,3,1,2,Science Educator
+1836,3,1,3,Science Educator
+1837,3,3,0,Science Educator
+1838,3,3,1,Science Educator
+1839,3,3,2,Science Educator
+1840,2,2,1,Science Educator
+1841,3,2,0,Science Educator
+1842,3,2,2,Science Educator
+1843,3,2,3,Science Educator
+1844,2,4,2,Science Educator
+1845,5,4,1,Science Educator
+1846,3,4,0,Science Educator
+1847,3,4,1,Science Educator
+1848,3,4,3,Science Educator
+1849,3,0,0,Science educator
+1850,3,dependable,1,Science educator
+1851,3,dependable,3,Science Educator
+1852,2,2,0,Science Educator 
+1853,2,2,1,Science Event Coordinator
+1854,2,2,2,Science Event Coordinator
+1855,2,2,3,Science Event Coordinator
+1856,2,4,0,Science Event Coordinator
+1857,2,4,1,Science Event Coordinator
+1858,2,2,0,Science Event Coordinator 
+1859,3,2,0,Science Filmmaker
+1860,3,dependable,2,Science Grants Manager
+1861,3,dependable,2,Science Graphic Designer
+1862,3,1,3,Science Illustrator/Animator
+1863,3,3,2,Science Illustrator/Animator
+1864,3,2,3,Science Illustrator/Animator
+1865,3,4,3,Science Illustrator/Animator
+1866,3,dependable,3,Science Illustrator/Animator
+1867,3,1,1,Science journalist
+1868,2,2,1,Science Journalist
+1869,2,2,2,Science Journalist
+1870,2,2,3,Science Journalist
+1871,3,2,0,Science Journalist
+1872,3,4,0,Science Journalist
+1873,3,4,1,Science Journalist
+1874,3,0,0,Science journalist
+1875,3,dependable,1,Science journalist
+1876,2,2,0,Science Journalist 
+1877,3,dependable,2,Science Lab Equipment Sales Representative
+1878,3,dependable,2,Science Lab Equipment Service Technician
+1879,3,dependable,2,Science Lab Instructor
+1880,3,1,3,Science Librarian
+1881,3,3,2,Science Librarian
+1882,3,3,3,Science librarian
+1883,3,2,3,Science Librarian
+1884,3,4,3,Science Librarian
+1885,3,dependable,2,Science Librarian
+1886,3,dependable,3,Science Librarian
+1887,3,dependable,2,Science Market Research Analyst
+1888,3,3,2,Science Museum Curator
+1889,3,2,0,Science Museum Curator
+1890,3,4,0,Science Museum Curator
+1891,3,dependable,1,Science museum curator
+1892,5,4,1,Science Museum Exhibit Designer
+1893,3,3,3,Science museum exhibit developer
+1894,3,dependable,2,Science Museum Exhibit Developer
+1895,3,3,3,Science museum guide
+1896,2,dependable,2,Science Museum Staff
+1897,2,dependable,3,Science Museum Staff
+1898,3,1,3,Science Museum Technician
+1899,3,2,3,Science Museum Technician
+1900,3,4,3,Science Museum Technician
+1901,3,dependable,3,Science Museum Technician
+1902,2,2,0,Science Outreach Coordinator
+1903,2,2,1,Science Outreach Coordinator
+1904,2,2,2,Science Outreach Coordinator
+1905,2,2,3,Science Outreach Coordinator
+1906,2,4,0,Science Outreach Coordinator
+1907,2,4,1,Science Outreach Coordinator
+1908,2,4,2,Science Outreach Coordinator
+1909,2,4,3,Science Outreach Coordinator
+1910,3,4,1,Science Outreach Coordinator
+1911,3,dependable,2,Science Patent Lawyer
+1912,3,2,0,Science Photographer
+1913,3,dependable,2,Science Podcast Producer
+1914,2,2,0,Science Policy Advisor
+1915,2,2,1,Science Policy Advisor
+1916,3,1,1,Science policy analyst
+1917,3,1,3,Science Policy Analyst
+1918,3,3,1,Science Policy Analyst
+1919,3,3,2,Science Policy Analyst
+1920,3,2,0,Science Policy Analyst
+1921,3,2,3,Science Policy Analyst
+1922,3,4,0,Science Policy Analyst
+1923,3,4,3,Science Policy Analyst
+1924,3,dependable,1,Science policy analyst
+1925,3,dependable,3,Science Policy Analyst
+1926,2,4,2,Science Program Coordinator
+1927,2,4,3,Science Program Coordinator
+1928,3,dependable,2,Science Program Coordinator
+1929,3,3,3,Science program coordinator in non-profit or governmental organizations
+1930,2,2,0,Science Program Director
+1931,2,2,1,Science Program Director
+1932,2,2,2,Science Program Director
+1933,2,4,2,Science Sales Representative
+1934,2,4,3,Science Sales Representative
+1935,3,dependable,2,Science Social Media Manager
+1936,5,1,2,Science Teacher
+1937,3,1,1,Science teacher
+1938,5,3,2,Science Teacher
+1939,5,2,2,Science Teacher
+1940,5,dependable,2,Science Teacher
+1941,5,3,3,Science teacher or educator
+1942,5,2,3,Science teacher or educator
+1943,5,4,3,Science teacher or educator
+1944,3,dependable,2,Science Technical Support Specialist
+1945,3,dependable,2,Science Test Proctor
+1946,3,dependable,2,Science Tutor
+1947,3,dependable,2,Science Videographer
+1948,3,dependable,2,Science Web Developer
+1949,3,3,0,Science Writer
+1950,2,2,0,Science Writer
+1951,2,2,1,Science Writer
+1952,2,2,2,Science Writer
+1953,2,2,3,Science Writer
+1954,3,2,0,Science Writer
+1955,2,4,0,Science Writer
+1956,2,4,1,Science Writer
+1957,3,3,3,Science writer or science journalist
+1958,5,2,1,Science Writer or Science Journalist
+1959,3,1,3,Science Writer/Journalist
+1960,3,3,1,Science Writer/Journalist
+1961,3,3,2,Science Writer/Journalist
+1962,3,2,2,Science Writer/Journalist
+1963,3,2,3,Science Writer/Journalist
+1964,3,4,3,Science Writer/Journalist
+1965,3,dependable,3,Science Writer/Journalist
+1966,3,4,0,Science YouTuber
+1967,5,2,1,Scientific Illustrator
+1968,3,2,0,Scientific Illustrator
+1969,1,1,2,Securities Trader 
+1970,4,1,2,Security Analyst
+1971,4,1,3,Security Technician
+1972,4,3,3,Security Technician
+1973,4,dependable,3,Security Technician
+1974,2,1,1,Seismologist
+1975,4,2,2,SEO Specialist
+1976,4,2,2,Service Delivery Manager
+1977,4,4,1,Service Delivery Manager
+1978,4,4,2,Service Delivery Manager
+1979,4,3,2,Service Technician
+1980,4,dependable,2,Service Technician
+1981,0,dependable,0,Set Designer
+1982,4,1,3,Shipping and Receiving Clerk
+1983,4,3,3,Shipping and Receiving Clerk
+1984,4,2,3,Shipping and Receiving Clerk
+1985,4,4,3,Shipping and Receiving Clerk
+1986,4,dependable,3,Shipping and Receiving Clerk
+1987,1,3,3,Shipping and Receiving Clerk 
+1988,1,dependable,2,Shipping and Receiving Clerk 
+1989,0,dependable,1,Sign Painter
+1990,0,dependable,2,Sign Painter
+1991,0,dependable,3,Sign Painter
+1992,1,2,2,Social Media Coordinator
+1993,0,2,1,Social Media Coordinator
+1994,0,2,3,Social Media Coordinator
+1995,5,4,2,Social Media Coordinator
+1996,0,2,2,Social Media Coordinator 
+1997,1,4,2,Social Media Coordinator 
+1998,commerce,2,0,Social Media Manager
+1999,commerce,2,1,Social Media Manager
+2000,commerce,4,1,Social Media Manager
+2001,0,2,0,Social Media Manager 
+2002,4,2,2,Social Media Specialist
+2003,4,4,2,Social Media Specialist
+2004,4,2,0,Software Developer
+2005,4,4,0,Software Developer
+2006,4,2,2,Software Development Manager
+2007,4,4,1,Software Development Manager
+2008,4,4,2,Software Development Manager
+2009,4,1,0,Software Engineer
+2010,4,1,1,Software Engineer
+2011,4,3,0,Software Engineer
+2012,4,dependable,0,Software Engineer
+2013,4,dependable,1,Software Engineer
+2014,3,3,0,Soil Scientist
+2015,4,1,3,Solar Panel Installer
+2016,4,3,3,Solar Panel Installer
+2017,4,2,3,Solar Panel Installer
+2018,4,4,3,Solar Panel Installer
+2019,4,dependable,3,Solar Panel Installer
+2020,4,2,0,Sound Engineer
+2021,commerce,1,1,Statistician
+2022,1,1,2,Stock Broker
+2023,commerce,dependable,0,Stock Broker
+2024,1,3,3,Stock Clerk
+2025,1,dependable,3,Stock Clerk 
+2026,4,1,0,Structural Engineer
+2027,4,1,1,Structural Engineer
+2028,4,3,0,Structural Engineer
+2029,4,3,1,Structural Engineer
+2030,4,2,1,Structural Engineer
+2031,4,4,0,Structural Engineer
+2032,4,dependable,0,Structural Engineer
+2033,4,dependable,1,Structural Engineer
+2034,0,3,0,Studio Manager
+2035,0,2,2,Stylist Assistant
+2036,0,2,3,Stylist Assistant
+2037,0,2,1,Stylist Assistant 
+2038,commerce,3,0,Supply Chain Manager
+2039,4,4,1,Supply Chain Manager
+2040,1,dependable,1,Supply Chain Manager
+2041,4,3,2,Support Technician
+2042,4,dependable,2,Support Technician
+2043,5,1,2,Surgical Technologist
+2044,5,3,2,Surgical Technologist
+2045,5,2,2,Surgical Technologist
+2046,5,dependable,2,Surgical Technologist
+2047,2,1,2,Surveyor
+2048,2,1,3,Surveyor
+2049,2,3,0,Sustainability Consultant
+2050,2,3,1,Sustainability Consultant
+2051,5,3,3,Sustainability specialist
+2052,3,3,0,Sustainability Specialist
+2053,5,2,3,Sustainability specialist
+2054,5,4,3,Sustainability specialist
+2055,4,2,0,Systems Administrator
+2056,4,1,2,Systems Analyst
+2057,4,4,0,Systems Analyst
+2058,4,1,0,Systems Engineer
+2059,4,1,1,Systems Engineer
+2060,4,3,0,Systems Engineer
+2061,4,3,1,Systems Engineer
+2062,4,2,1,Systems Engineer
+2063,4,4,1,Systems Engineer
+2064,4,dependable,0,Systems Engineer
+2065,4,dependable,1,Systems Engineer
+2066,commerce,2,1,Talent Acquisition Manager 
+2067,commerce,4,1,Talent Acquisition Manager 
+2068,commerce,2,1,Talent Development Manager
+2069,commerce,4,1,Talent Development Manager
+2070,commerce,dependable,0,Tax Accountant
+2071,commerce,1,0,Tax Attorney
+2072,1,dependable,1,Tax Consultant
+2073,1,1,2,Tax Preparer 
+2074,1,1,3,Tax Preparer 
+2075,4,1,2,Technical Account Manager
+2076,4,2,2,Technical Account Manager
+2077,4,4,1,Technical Account Manager
+2078,4,1,2,Technical Consultant
+2079,4,2,2,Technical Consultant
+2080,4,4,1,Technical Consultant
+2081,4,4,2,Technical Consultant
+2082,4,1,2,Technical Documentation Specialist
+2083,4,1,3,Technical Documentation Specialist
+2084,4,3,2,Technical Documentation Specialist
+2085,4,3,3,Technical Documentation Specialist
+2086,4,2,2,Technical Documentation Specialist
+2087,4,2,3,Technical Documentation Specialist
+2088,4,4,2,Technical Documentation Specialist
+2089,4,4,3,Technical Documentation Specialist
+2090,4,dependable,2,Technical Documentation Specialist
+2091,4,dependable,3,Technical Documentation Specialist
+2092,4,4,2,Technical Event Coordinator
+2093,4,2,2,Technical Event Planner
+2094,4,4,2,Technical Event Planner
+2095,2,1,2,Technical Illustrator
+2096,2,1,3,Technical Illustrator
+2097,4,1,2,Technical Illustrator
+2098,4,3,2,Technical Illustrator
+2099,4,2,2,Technical Illustrator
+2100,4,4,2,Technical Illustrator
+2101,4,dependable,2,Technical Illustrator
+2102,4,2,2,Technical Marketing Engineer
+2103,4,4,1,Technical Marketing Engineer
+2104,4,4,2,Technical Marketing Engineer
+2105,4,1,2,Technical Product Manager
+2106,4,2,2,Technical Product Manager
+2107,4,4,1,Technical Product Manager
+2108,4,4,2,Technical Product Manager
+2109,4,1,2,Technical Program Manager
+2110,4,2,2,Technical Program Manager
+2111,4,4,1,Technical Program Manager
+2112,4,4,2,Technical Program Manager
+2113,4,1,2,Technical Project Coordinator
+2114,4,3,2,Technical Project Coordinator
+2115,4,dependable,2,Technical Project Coordinator
+2116,4,1,2,Technical Project Manager
+2117,4,2,1,Technical Project Manager
+2118,4,2,2,Technical Project Manager
+2119,4,4,1,Technical Project Manager
+2120,4,4,2,Technical Project Manager
+2121,4,1,2,Technical Recruiter
+2122,4,1,3,Technical Recruiter
+2123,4,3,3,Technical Recruiter
+2124,4,2,2,Technical Recruiter
+2125,4,2,3,Technical Recruiter
+2126,4,4,1,Technical Recruiter
+2127,4,4,2,Technical Recruiter
+2128,4,4,3,Technical Recruiter
+2129,4,dependable,3,Technical Recruiter
+2130,4,1,0,Technical Sales Engineer
+2131,4,1,1,Technical Sales Engineer
+2132,4,3,0,Technical Sales Engineer
+2133,4,2,1,Technical Sales Engineer
+2134,2,4,0,Technical Sales Engineer
+2135,2,4,1,Technical Sales Engineer
+2136,4,dependable,0,Technical Sales Engineer
+2137,4,dependable,1,Technical Sales Engineer
+2138,4,1,2,Technical Sales Representative
+2139,4,1,3,Technical Sales Representative
+2140,4,3,2,Technical Sales Representative
+2141,4,3,3,Technical Sales Representative
+2142,4,2,2,Technical Sales Representative
+2143,4,2,3,Technical Sales Representative
+2144,4,4,0,Technical Sales Representative
+2145,4,4,1,Technical Sales Representative
+2146,4,4,2,Technical Sales Representative
+2147,4,4,3,Technical Sales Representative
+2148,5,4,2,Technical Sales Representative
+2149,4,dependable,2,Technical Sales Representative
+2150,4,dependable,3,Technical Sales Representative
+2151,5,4,1,Technical Sales Representative for Biotechnology
+2152,4,4,1,Technical Support Engineer
+2153,2,3,2,Technical Support Representative
+2154,2,3,3,Technical Support Representative
+2155,2,4,2,Technical Support Representative
+2156,2,4,3,Technical Support Representative
+2157,5,3,1,Technical Support Scientist
+2158,4,1,2,Technical Support Specialist
+2159,4,1,3,Technical Support Specialist
+2160,4,3,2,Technical Support Specialist
+2161,4,3,3,Technical Support Specialist
+2162,5,3,2,Technical Support Specialist
+2163,4,2,2,Technical Support Specialist
+2164,4,2,3,Technical Support Specialist
+2165,5,2,2,Technical Support Specialist
+2166,4,4,3,Technical Support Specialist
+2167,2,dependable,1,Technical Support Specialist
+2168,4,dependable,2,Technical Support Specialist
+2169,4,dependable,3,Technical Support Specialist
+2170,5,dependable,2,Technical Support Specialist
+2171,4,1,2,Technical Trainer
+2172,4,2,2,Technical Trainer
+2173,4,4,1,Technical Trainer
+2174,4,4,2,Technical Trainer
+2175,4,1,2,Technical Writer
+2176,4,1,3,Technical Writer
+2177,5,1,2,Technical Writer
+2178,3,1,3,Technical Writer
+2179,4,3,1,Technical Writer
+2180,4,3,2,Technical Writer
+2181,4,3,3,Technical Writer
+2182,5,3,2,Technical Writer
+2183,4,2,1,Technical Writer
+2184,4,2,2,Technical Writer
+2185,4,2,3,Technical Writer
+2186,5,2,1,Technical Writer
+2187,5,2,2,Technical Writer
+2188,4,4,1,Technical Writer
+2189,4,4,2,Technical Writer
+2190,4,4,3,Technical Writer
+2191,2,dependable,0,Technical Writer
+2192,2,dependable,2,Technical Writer
+2193,2,dependable,3,Technical Writer
+2194,4,dependable,2,Technical Writer
+2195,4,dependable,3,Technical Writer
+2196,5,dependable,2,Technical Writer
+2197,3,dependable,2,Technical Writer for Science Materials
+2198,5,1,3,Technical writer or editor
+2199,5,3,3,Technical writer or editor
+2200,5,2,3,Technical writer or editor
+2201,5,4,3,Technical writer or editor
+2202,5,dependable,3,Technical writer or editor
+2203,4,2,1,Telecommunications Engineer
+2204,4,1,3,Telecommunications Technician
+2205,4,3,2,Telecommunications Technician
+2206,4,3,3,Telecommunications Technician
+2207,4,2,3,Telecommunications Technician
+2208,4,4,3,Telecommunications Technician
+2209,4,dependable,2,Telecommunications Technician
+2210,4,dependable,3,Telecommunications Technician
+2211,1,1,3,Telemarketer 
+2212,4,3,1,Test Engineer
+2213,4,2,1,Test Engineer
+2214,4,1,3,Test Technician
+2215,4,3,2,Test Technician
+2216,4,3,3,Test Technician
+2217,4,4,3,Test Technician
+2218,4,dependable,2,Test Technician
+2219,4,dependable,3,Test Technician
+2220,4,1,3,Tool and Die Maker
+2221,4,3,2,Tool and Die Maker
+2222,4,3,3,Tool and Die Maker
+2223,4,dependable,2,Tool and Die Maker
+2224,4,dependable,3,Tool and Die Maker
+2225,5,1,0,Toxicologist
+2226,5,2,1,Toxicologist
+2227,5,dependable,0,Toxicologist
+2228,commerce,3,0,Training and Development Manager
+2229,4,1,0,Transportation Engineer
+2230,4,1,1,Transportation Engineer
+2231,4,3,0,Transportation Engineer
+2232,4,3,1,Transportation Engineer
+2233,4,2,1,Transportation Engineer
+2234,4,4,0,Transportation Engineer
+2235,4,dependable,0,Transportation Engineer
+2236,4,dependable,1,Transportation Engineer
+2237,commerce,dependable,0,Treasury Analyst
+2238,4,2,2,User Experience Designer
+2239,4,4,0,User Experience Designer
+2240,4,4,1,User Experience Designer
+2241,4,4,2,User Experience Designer
+2242,4,2,0,UX/UI Designer
+2243,5,3,1,Validation Engineer
+2244,3,1,0,Veterinarian
+2245,3,1,1,Veterinarian
+2246,3,3,1,Veterinarian
+2247,3,2,2,Veterinarian
+2248,3,4,3,Veterinary Assistant
+2249,3,dependable,3,Veterinary Assistant
+2250,5,1,2,Veterinary Technician
+2251,3,1,3,Veterinary Technician
+2252,5,3,2,Veterinary Technician
+2253,3,3,3,Veterinary technician
+2254,5,2,2,Veterinary Technician
+2255,3,2,3,Veterinary Technician
+2256,3,4,3,Veterinary Technician
+2257,5,dependable,2,Veterinary Technician
+2258,5,dependable,3,Veterinary technician
+2259,5,1,0,Veterinary Technologist/Technician
+2260,4,2,2,Video Producer
+2261,4,2,3,Video Producer
+2262,4,4,2,Video Producer
+2263,4,4,3,Video Producer
+2264,4,2,0,Virtual Reality Engineer
+2265,5,4,2,Volunteer Coordinator
+2266,1,4,3,Waiter/Waitress
+2267,1,2,3,Waiter/Waitress 
+2268,1,dependable,3,Warehouse Worker 
+2269,3,3,0,Water Resource Manager
+2270,4,1,0,Water Resources Engineer
+2271,4,1,1,Water Resources Engineer
+2272,4,3,0,Water Resources Engineer
+2273,4,3,1,Water Resources Engineer
+2274,4,4,0,Water Resources Engineer
+2275,4,dependable,0,Water Resources Engineer
+2276,4,dependable,1,Water Resources Engineer
+2277,5,3,1,Water Treatment Engineer
+2278,4,2,2,Web Designer
+2279,4,2,3,Web Designer
+2280,4,4,2,Web Designer
+2281,4,4,3,Web Designer
+2282,4,1,3,Welder
+2283,4,3,2,Welder
+2284,4,3,3,Welder
+2285,4,2,3,Welder
+2286,4,4,3,Welder
+2287,4,dependable,2,Welder
+2288,4,dependable,3,Welder
+2289,5,4,2,Wellness Coach
+2290,3,2,3,Wilderness Guide
+2291,3,1,1,Wildlife biologist
+2292,3,1,2,Wildlife Biologist
+2293,5,3,2,Wildlife Biologist
+2294,3,3,0,Wildlife Biologist
+2295,3,3,1,Wildlife Biologist
+2296,3,3,2,Wildlife Biologist
+2297,5,2,2,Wildlife Biologist
+2298,3,2,0,Wildlife Biologist
+2299,3,2,2,Wildlife Biologist
+2300,3,2,3,Wildlife Biologist
+2301,3,4,3,Wildlife Biologist
+2302,5,dependable,2,Wildlife Biologist
+2303,3,dependable,1,Wildlife biologist
+2304,3,2,3,Wildlife Law Enforcement Officer
+2305,3,4,3,Wildlife Law Enforcement Officer
+2306,3,2,3,Wildlife Photographer
+2307,3,4,3,Wildlife Photographer
+2308,3,dependable,3,Wildlife Rehabilitation Technician
+2309,3,1,3,Wildlife Rehabilitator
+2310,3,2,3,Wildlife Rehabilitator
+2311,3,4,3,Wildlife Rehabilitator
+2312,3,3,3,Wildlife technician
+2313,3,2,3,Zoo Educator
+2314,3,2,2,Zookeeper
+2315,3,2,3,Zookeeper
+2316,3,4,3,Zookeeper
+2317,3,3,3,Zoological park technician
+2318,3,4,3,Zoological Registrar
+2319,5,1,2,Zoologist
+2320,3,1,0,Zoologist
+2321,3,1,1,Zoologist
+2322,3,1,2,Zoologist
+2323,5,3,2,Zoologist
+2324,3,3,1,Zoologist
+2325,3,3,2,Zoologist
+2326,5,2,2,Zoologist
+2327,3,2,0,Zoologist
+2328,5,dependable,2,Zoologist
+2329,3,dependable,1,Zoologist
