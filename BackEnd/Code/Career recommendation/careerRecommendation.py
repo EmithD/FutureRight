@@ -8,7 +8,7 @@ edited2['Stream'].replace(['arts','commerce ', 'physical science', 'biological s
                           'biosystems technology'], [0, 1, 2, 3, 4, 5], inplace=True)
 
 #replacing values in the 'personality' column
-edited2['Personality'].replace(['dependable ','serious','lively','responsible','extraverted'],
+edited2['Personality'].replace(['dependable' or 'dependable ', 'serious','lively','responsible','extraverted'],
                                 [0,1,2,3,4], inplace=True )
 
 #replacing values in the 'Academic Performance' column
