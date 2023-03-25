@@ -89,3 +89,11 @@ physical_science_average = [
     ["Environmental Health and Safety Specialist, Compliance Coordinator, Quality Control Coordinator, Technical Support Representative, Research Compliance Coordinator"],
     ["Science Sales Representative, Science Program Coordinator, Science Outreach Coordinator, Technical Support Representative, Public Relations Specialist for Science Companies, Science Educator"]
     ]
+
+physical_science_below_average = [
+    ["Laboratory Assistant, Technical Writer, Data Entry Clerk, Environmental Technician, Science Museum Staff, Research Technician"],
+    ["Geological Technician, Meteorologist, Research Assistant, Surveyor, Technical Illustrator"],
+    ["Science Outreach Coordinator, Science Event Coordinator, Science Communicator, Science Journalist, Science Writer"],
+    ["Compliance Coordinator, Quality Control Coordinator, Technical Support Representative, Research Compliance Coordinator"],
+    ["Science Sales Representative, Science Program Coordinator, Science Outreach Coordinator, Technical Support Representative"]
+    ]
