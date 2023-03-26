@@ -1,0 +1,2331 @@
+Stream,Personality,Academic Performance,Career
+1,0,2,Account Clerk
+4,4,2,Account Manager
+4,4,3,Account Manager
+5,4,2,Account Manager
+1,0,1,Accountant
+1,0,0,Accountant
+1,1,3,Accounts Payable Clerk
+1,3,2,Accounts Payable Clerk
+1,1,3,Accounts Receivable Clerk 
+1,3,2,Accounts Receivable Clerk 
+1,1,1,Actuary
+1,0,0,Actuary
+1,3,3,Administrative Assistant 
+1,0,2,Administrative Assistant 
+0,2,1,Advertising Assistant
+0,2,2,Advertising Assistant
+0,2,3,Advertising Assistant
+1,2,2,Advertising Coordinator 
+1,4,2,Advertising Coordinator 
+1,2,0,Advertising Manager
+0,2,0,Advertising Manager
+0,4,0,Advertising Manager
+1,2,1,Advertising Manager 
+1,4,1,Advertising Manager 
+4,1,0,Aerospace Engineer
+4,1,1,Aerospace Engineer
+4,3,0,Aerospace Engineer
+4,3,1,Aerospace Engineer
+4,2,0,Aerospace Engineer
+4,2,1,Aerospace Engineer
+4,4,0,Aerospace Engineer
+4,0,0,Aerospace Engineer
+4,0,1,Aerospace Engineer
+5,1,0,Agricultural and Food Scientist
+5,1,3,Agricultural and food scientist
+5,3,3,Agricultural and food scientist
+5,2,3,Agricultural and food scientist
+5,4,3,Agricultural and food scientist
+5,0,3,Agricultural and food scientist
+4,3,1,Agricultural Engineer
+5,3,1,Agricultural Engineer
+5,0,1,Agricultural engineer
+3,3,0,Agricultural Scientist
+3,3,1,Agricultural Scientist
+3,3,2,Agricultural Scientist
+3,3,3,Agriculture technician
+5,1,2,Agronomist
+3,1,0,Agronomist
+5,3,2,Agronomist
+5,2,2,Agronomist
+3,2,0,Agronomist
+5,0,2,Agronomist
+3,3,2,Animal Behaviorist
+3,0,3,Animal Behaviorist
+5,1,0,Animal Breeder
+5,0,0,Animal Breeder
+3,3,3,Animal care technician
+3,1,3,Animal Caretaker
+3,2,3,Animal Control Officer
+3,4,3,Animal Control Officer
+5,3,2,Animal Scientist
+5,2,2,Animal Scientist
+5,0,2,Animal Scientist
+3,2,3,Animal Trainer
+3,4,3,Animal Trainer
+0,2,0,Animator 
+4,2,2,Application Engineer
+4,4,1,Application Engineer
+4,4,2,Application Engineer
+1,1,1,Appraisal Manager 
+4,1,3,Apprentice Carpenter
+4,3,3,Apprentice Carpenter
+4,2,3,Apprentice Carpenter
+4,0,3,Apprentice Carpenter
+4,1,3,Apprentice Electrician
+4,3,3,Apprentice Electrician
+4,2,3,Apprentice Electrician
+4,0,3,Apprentice Electrician
+4,1,3,Apprentice HVAC Technician
+4,3,3,Apprentice HVAC Technician
+4,2,3,Apprentice HVAC Technician
+4,0,3,Apprentice HVAC Technician
+4,1,3,Apprentice Plumber
+4,3,3,Apprentice Plumber
+4,2,3,Apprentice Plumber
+4,0,3,Apprentice Plumber
+4,1,3,Apprentice Welder
+4,3,3,Apprentice Welder
+4,2,3,Apprentice Welder
+4,0,3,Apprentice Welder
+5,1,3,Aquaculture farmer
+5,3,3,Aquaculture farmer
+5,2,3,Aquaculture farmer
+5,4,3,Aquaculture farmer
+5,0,3,Aquaculture farmer
+3,3,3,Aquaculture technician
+5,3,2,Aquaculturist
+3,3,0,Aquaculturist
+5,2,2,Aquaculturist
+5,0,2,Aquaculturist
+3,2,3,Aquarist
+3,4,3,Aquarist
+3,3,3,Aquatic biology technician
+0,0,0,Archivist
+0,1,1,Archivist Assistant
+0,1,2,Archivist Assistant
+0,1,3,Archivist Assistant
+0,1,0,Art Appraiser
+0,1,1,Art Appraiser Assistant
+0,1,2,Art Appraiser Assistant
+0,1,3,Art Appraiser Assistant
+0,1,1,Art Auction House Assistant
+0,1,3,Art Auction House Assistant
+0,4,3,Art Auction House Assistant
+0,1,2,Art Auction House Assistant 
+0,4,1,Art Auction House Assistant 
+0,4,2,Art Auction House Assistant 
+0,1,0,Art Auctioneer
+0,4,0,Art Auctioneer 
+0,3,0,Art Buyer 
+0,3,1,Art Buyer Assistant
+0,3,2,Art Buyer Assistant
+0,3,3,Art Buyer Assistant
+0,0,0,Art Conservator
+0,3,0,Art Consultant 
+0,3,2,Art Consultant Assistant
+0,3,1,Art Consultant Assistant 
+0,3,3,Art Consultant Assistant 
+0,1,0,Art Critic
+0,1,2,Art Critic
+0,4,0,Art Critic
+0,1,0,Art Dealer
+0,1,0,Art Director
+0,4,0,Art Director
+0,0,0,Art Director
+0,2,0,Art Director 
+0,3,2,Art Director Assistant
+0,4,0,Art Educator
+0,0,0,Art Educator
+0,4,2,Art Event Staff
+0,4,1,Art Event Staff 
+0,4,3,Art Event Staff 
+0,3,1,Art Exhibition Coordinator
+0,3,2,Art Exhibition Coordinator
+0,3,3,Art Exhibition Coordinator 
+0,3,1,Art Fair Assistant
+0,3,2,Art Fair Assistant
+0,3,3,Art Fair Assistant
+0,4,1,Art Fair Assistant
+0,4,2,Art Fair Assistant
+0,4,3,Art Fair Assistant 
+0,3,1,Art Framing Associate
+0,3,2,Art Framing Associate
+0,4,1,Art Framing Associate
+0,4,2,Art Framing Associate 
+0,3,1,Art Gallery Assistant
+0,3,2,Art Gallery Assistant
+0,3,3,Art Gallery Assistant
+0,4,1,Art Gallery Assistant 
+0,4,2,Art Gallery Assistant 
+0,4,3,Art Gallery Assistant 
+0,1,0,Art Gallery Manager
+0,3,0,Art Handler
+0,0,2,Art Handler
+0,0,3,Art Handler
+0,0,1,Art Handler 
+0,1,0,Art Historian
+0,3,0,Art Installer
+0,4,2,Art Instructor
+0,3,0,Art Librarian 
+0,1,1,Art Library Assistant
+0,1,3,Art Library Assistant
+0,1,2,Art Library Assistant 
+0,3,0,Art Production Coordinator
+0,1,2,Art Research Assistant
+0,1,1,Art Research Assistant 
+0,1,3,Art Research Assistant 
+0,3,0,Art Researcher
+0,3,1,Art Restoration Assistant
+0,3,2,Art Restoration Assistant 
+0,3,1,Art Sales Associate
+0,3,2,Art Sales Associate
+0,3,3,Art Sales Associate 
+0,3,0,Art Sales Representative
+0,3,2,Art Showroom Assistant
+0,3,3,Art Showroom Assistant
+0,3,1,Art Showroom Assistant 
+0,3,0,Art Studio Assistant
+0,0,1,Art Studio Assistant
+0,0,3,Art Studio Assistant
+0,0,2,Art Studio Assistant 
+0,3,2,Art Supply Store Associate
+0,3,3,Art Supply Store Associate
+0,4,1,Art Supply Store Associate
+0,4,2,Art Supply Store Associate
+0,4,3,Art Supply Store Associate
+0,0,1,Art Supply Store Associate
+0,3,1,Art Supply Store Associate 
+0,0,2,Art Supply Store Associate 
+0,0,3,Art Supply Store Associate 
+0,0,2,Art Teacher
+0,0,2,Art Therapist
+4,2,0,Artificial Intelligence Engineer
+0,1,2,Artist's Studio Manager
+0,1,1,Artist's Studio Manager 
+0,1,3,Artist's Studio Manager 
+4,1,3,Assembler
+4,3,2,Assembler
+4,3,3,Assembler
+4,2,3,Assembler
+4,4,3,Assembler
+4,0,2,Assembler
+4,0,3,Assembler
+4,1,3,Assembly Line Worker
+4,0,3,Assembly Line Worker
+2,1,1,Astronomer
+3,4,2,Athletic Trainer
+4,2,3,Audio/Visual Technician
+4,4,3,Audio/Visual Technician
+1,0,1,Auditor
+4,3,1,Automotive Engineer
+1,1,3,Bank Teller
+1,0,2,Bank Teller
+1,4,3,Barista
+1,2,3,Barista 
+1,2,3,Bartender
+1,4,3,Bartender
+2,1,1,Biochemist
+5,1,0,Biochemist
+3,1,0,Biochemist
+3,1,1,Biochemist
+3,3,1,Biochemist
+5,2,0,Biochemist
+5,2,1,Biochemist
+3,0,0,Biochemist
+5,0,0,Biochemist
+5,0,1,Biochemist
+3,0,1,Biochemist
+5,3,0,Bioenergy engineer
+5,2,0,Bioenergy engineer
+5,1,1,Bioinformatics analyst
+5,3,1,Bioinformatics Analyst
+3,3,1,Bioinformatics Analyst
+5,2,0,Bioinformatics analyst
+3,0,0,Bioinformatics analyst
+5,0,1,Bioinformatics analyst
+5,1,0,Bioinformatics Scientist
+5,1,2,Bioinformatics Scientist
+5,0,1,Bioinformatics scientist
+5,2,0,Bioinformatics software developer
+5,1,3,Bioinformatics specialist
+3,1,2,Bioinformatics Specialist
+5,2,3,Bioinformatics specialist
+5,0,3,Bioinformatics specialist
+3,0,1,Bioinformatics specialist
+3,2,3,Biological Science Technician
+3,4,3,Biological Science Technician
+2,1,0,Biologist
+3,2,0,Biologist
+5,1,3,Biomanufacturing operator
+5,3,3,Biomanufacturing operator
+5,0,3,Biomanufacturing operator
+5,3,0,Biomanufacturing specialist
+5,2,0,Biomanufacturing specialist
+5,1,0,Biomanufacturing Technician
+5,3,0,Biomaterials scientist
+5,2,0,Biomaterials scientist
+4,1,0,Biomechanical Engineer
+4,1,1,Biomechanical Engineer
+4,3,0,Biomechanical Engineer
+4,0,0,Biomechanical Engineer
+4,0,1,Biomechanical Engineer
+5,1,0,Biomedical Clinical Research Manager
+5,4,0,Biomedical communication specialist
+5,4,0,Biomedical community outreach specialist
+5,4,0,Biomedical conference planner
+5,4,0,Biomedical consultant
+5,4,0,Biomedical customer service representative
+5,1,0,Biomedical Data Analyst
+5,0,1,Biomedical data analyst
+5,3,0,Biomedical data scientist
+5,2,0,Biomedical data scientist
+5,1,1,Biomedical device engineer
+5,0,1,Biomedical device engineer
+4,1,0,Biomedical Engineer
+4,1,1,Biomedical Engineer
+5,1,0,Biomedical Engineer
+5,1,2,Biomedical Engineer
+3,1,0,Biomedical Engineer
+3,1,1,Biomedical engineer
+3,1,2,Biomedical Engineer
+4,3,0,Biomedical Engineer
+4,3,1,Biomedical Engineer
+5,3,0,Biomedical engineer
+3,3,1,Biomedical Engineer
+3,3,2,Biomedical Engineer
+4,2,0,Biomedical Engineer
+4,2,1,Biomedical Engineer
+5,2,0,Biomedical engineer
+5,2,1,Biomedical Engineer
+3,2,1,Biomedical engineer
+3,2,2,Biomedical Engineer
+4,4,0,Biomedical Engineer
+3,4,1,Biomedical Engineer
+3,0,0,Biomedical engineer
+4,0,0,Biomedical Engineer
+4,0,1,Biomedical Engineer
+5,0,1,Biomedical engineer
+3,0,1,Biomedical engineer
+5,1,3,Biomedical engineer technician
+5,3,3,Biomedical engineer technician
+5,2,3,Biomedical engineer technician
+5,4,3,Biomedical engineer technician
+5,0,3,Biomedical engineer technician
+5,1,0,Biomedical Engineering Project Manager
+5,4,0,Biomedical entrepreneur
+5,1,0,Biomedical Equipment Designer
+5,3,0,Biomedical equipment designer
+5,2,0,Biomedical equipment designer
+5,0,1,Biomedical equipment sales representative
+5,1,0,Biomedical Equipment Technician
+5,1,2,Biomedical Equipment Technician
+5,1,3,Biomedical equipment technician
+3,1,2,Biomedical Equipment Technician
+3,1,3,Biomedical Equipment Technician
+5,3,2,Biomedical Equipment Technician
+5,3,3,Biomedical equipment technician
+3,3,3,Biomedical equipment technician
+5,2,2,Biomedical Equipment Technician
+3,2,1,Biomedical equipment technician
+5,4,1,Biomedical Equipment Technician
+5,0,0,Biomedical Equipment Technician
+5,0,2,Biomedical Equipment Technician
+5,0,3,Biomedical equipment technician
+3,0,3,Biomedical Equipment Technician
+3,0,3,Biomedical Equipment Technician
+5,1,0,Biomedical Ethicist
+5,4,0,Biomedical event coordinator
+5,4,0,Biomedical executive
+5,4,0,Biomedical human resources specialist
+5,1,1,Biomedical imaging researcher
+5,1,0,Biomedical Imaging Scientist
+5,1,1,Biomedical imaging specialist
+5,3,0,Biomedical imaging specialist
+5,2,0,Biomedical imaging specialist
+5,1,1,Biomedical imaging technologist
+5,4,0,Biomedical industry analyst
+5,4,0,Biomedical industry association executive
+5,4,0,Biomedical industry lobbyist
+5,1,0,Biomedical Informatician
+3,0,0,Biomedical informatician
+5,3,0,Biomedical informatics specialist
+5,2,0,Biomedical informatics specialist
+5,3,0,Biomedical instrumentation engineer
+5,2,0,Biomedical instrumentation engineer
+3,2,1,Biomedical lab technician
+5,1,0,Biomedical Laboratory Manager
+5,1,1,Biomedical laboratory technician
+5,0,1,Biomedical laboratory technician
+5,1,0,Biomedical Manufacturing Engineer
+5,1,1,Biomedical manufacturing engineer
+5,0,1,Biomedical manufacturing engineer
+5,3,0,Biomedical marketing specialist
+5,2,0,Biomedical marketing specialist
+5,4,0,Biomedical marketing specialist
+5,1,1,Biomedical materials engineer
+5,0,1,Biomedical materials engineer
+5,4,0,Biomedical networking specialist
+5,4,0,Biomedical organization development specialist
+5,1,0,Biomedical Patent Lawyer
+5,0,0,Biomedical Patent Lawyer
+5,1,1,Biomedical product manager
+5,3,0,Biomedical product manager
+5,2,0,Biomedical product manager
+5,4,0,Biomedical product manager
+5,0,1,Biomedical product manager
+5,4,0,Biomedical project manager
+5,4,0,Biomedical public relations specialist
+5,1,1,Biomedical quality assurance specialist
+5,0,1,Biomedical quality assurance specialist
+5,1,0,Biomedical Quality Control Specialist
+5,4,0,Biomedical recruiter
+5,3,0,Biomedical regulatory affairs specialist
+5,2,0,Biomedical regulatory affairs specialist
+5,1,0,Biomedical Research and Development Scientist
+3,1,2,Biomedical Research Scientist
+5,1,0,Biomedical Researcher
+5,3,0,Biomedical researcher
+5,3,1,Biomedical Researcher
+3,3,1,Biomedical Researcher
+3,3,2,Biomedical Researcher
+5,2,0,Biomedical researcher
+3,2,0,Biomedical Researcher
+3,2,1,Biomedical researcher
+3,2,2,Biomedical Researcher
+3,0,0,Biomedical researcher
+5,0,0,Biomedical Researcher
+5,0,1,Biomedical researcher
+3,0,1,Biomedical researcher
+5,3,0,Biomedical sales representative
+5,2,0,Biomedical sales representative
+5,4,0,Biomedical sales representative
+5,4,1,Biomedical Sales Representative
+3,2,1,Biomedical science administrator
+5,1,0,Biomedical Science Educator
+5,3,0,Biomedical science educator
+5,2,0,Biomedical science educator
+3,2,1,Biomedical science educator
+5,4,0,Biomedical science educator
+5,3,0,Biomedical science journalist
+5,2,0,Biomedical science journalist
+5,4,0,Biomedical science journalist
+5,3,0,Biomedical science writer
+5,2,0,Biomedical science writer
+3,2,1,Biomedical science writer
+5,4,0,Biomedical science writer
+5,2,1,Biomedical Scientist
+3,4,1,Biomedical Scientist
+5,3,0,Biomedical signal processing engineer
+5,2,0,Biomedical signal processing engineer
+5,4,0,Biomedical social media specialist
+5,3,0,Biomedical software engineer
+5,2,0,Biomedical software engineer
+5,1,1,Biomedical statistician
+5,0,1,Biomedical statistician
+5,1,1,Biomedical supply chain manager
+5,0,1,Biomedical supply chain manager
+5,3,0,Biomedical systems analyst
+5,2,0,Biomedical systems analyst
+5,4,0,Biomedical talent acquisition specialist
+5,4,0,Biomedical team building facilitator
+5,4,0,Biomedical team leader
+5,1,1,Biomedical technical writer
+5,0,1,Biomedical technical writer
+5,1,0,Biomedical Technician
+5,2,0,Biomedical technician
+3,4,2,Biomedical Technician
+3,0,0,Biomedical technician
+5,0,0,Biomedical Technician
+5,0,1,Biomedical technician
+5,1,0,Biomedical Technology Consultant
+5,1,0,Biomedical Technology Entrepreneur
+5,1,0,Biomedical Technology Policy Analyst
+5,4,0,Biomedical training and development specialist
+5,1,0,Biomedical Writer or Science Communicator
+5,0,0,Biomedical Writer or Science Communicator
+5,3,0,Biopharmaceutical research scientist
+2,1,1,Biophysicist
+5,1,2,Biophysicist
+3,1,1,Biophysicist
+5,2,0,Biophysicist
+3,2,0,Biophysicist
+3,1,0,Biophysics Researcher
+5,1,0,Bioprocess Engineer
+5,2,0,Bioprocess engineer
+5,3,0,Bioprocessing engineer
+5,0,1,Bioprocessing engineer
+5,3,0,Bioreactor engineer
+5,2,0,Bioreactor engineer
+3,3,0,Bioremediation Specialist
+5,2,2,Biosecurity Specialist
+5,0,2,Biosecurity Specialist
+5,1,0,Biostatistician
+5,1,2,Biostatistician
+5,1,2,Biostatistician
+5,1,3,Biostatistician
+3,1,0,Biostatistician
+3,1,1,Biostatistician
+3,1,2,Biostatistician
+5,3,0,Biostatistician
+5,3,2,Biostatistician
+5,3,3,Biostatistician
+3,3,1,Biostatistician
+3,3,2,Biostatistician
+5,2,0,Biostatistician
+5,2,1,Biostatistician
+5,2,2,Biostatistician
+3,2,1,Biostatistician
+3,2,2,Biostatistician
+3,0,0,Biostatistician
+5,0,2,Biostatistician
+3,0,1,Biostatistician
+5,3,0,Biosystems analyst
+5,2,0,Biosystems analyst
+3,1,2,Biotech Business Development Manager
+3,2,1,Biotech business development manager
+5,4,2,Biotech Business Development Manager
+3,4,1,Biotech Business Development Manager
+3,2,1,Biotech consultant
+3,2,1,Biotech manufacturing specialist
+3,0,2,Biotech Manufacturing Technician
+3,0,3,Biotech Manufacturing Technician
+3,2,1,Biotech marketing manager
+5,1,2,Biotech Patent Attorney
+5,3,2,Biotech Patent Attorney
+5,2,2,Biotech Patent Attorney
+5,0,2,Biotech Patent Attorney
+3,0,1,Biotech patent attorney
+3,1,2,Biotech Patent Lawyer
+5,2,1,Biotech Patent Lawyer
+3,2,1,Biotech patent lawyer
+3,2,2,Biotech Patent Lawyer
+3,2,1,Biotech process development scientist
+3,2,1,Biotech product manager
+3,0,2,Biotech Product Specialist
+3,2,1,Biotech project manager
+3,1,2,Biotech Quality Assurance Manager
+3,1,2,Biotech Regulatory Affairs Specialist
+3,2,1,Biotech regulatory affairs specialist
+3,3,2,Biotech Research Associate
+3,2,0,Biotech Research Scientist
+3,0,0,Biotech researcher
+3,0,1,Biotech researcher
+5,2,3,Biotech sales representative
+3,2,1,Biotech sales representative
+3,2,2,Biotech Sales Representative
+5,4,3,Biotech sales representative
+3,0,1,Biotech sales representative
+3,2,1,Biotech software developer
+3,2,1,Biotech venture capitalist
+5,1,0,Biotechnologist
+3,3,1,Biotechnologist
+5,2,0,Biotechnologist
+5,0,1,Biotechnologist
+5,3,1,Biotechnology Analyst
+5,4,1,Biotechnology Business Development Manager
+3,4,0,Biotechnology Business Development Manager
+3,3,3,Biotechnology lab technician
+3,1,3,Biotechnology Manufacturing Technician
+5,1,1,Biotechnology patent lawyer
+3,4,1,Biotechnology Patent Lawyer
+5,0,1,Biotechnology patent lawyer
+5,1,3,Biotechnology technician
+5,3,3,Biotechnology technician
+5,2,3,Biotechnology technician
+5,4,3,Biotechnology technician
+5,0,3,Biotechnology technician
+4,2,0,Blockchain Developer
+5,4,2,Blogger
+1,0,2,Bookkeeper
+3,3,3,Botanical garden technician
+3,2,3,Botanical Garden Worker
+3,4,3,Botanical Garden Worker
+3,1,0,Botanist
+3,1,1,Botanist
+3,3,2,Botanist
+3,2,0,Botanist
+3,0,1,Botanist
+1,2,2,Brand Ambassador 
+1,4,2,Brand Ambassador 
+1,2,0,Brand Manager
+1,2,1,Brand Manager
+1,4,1,Brand Manager
+1,0,0,Budget Analyst
+4,1,2,Business Analyst
+1,3,1,Business Analyst
+1,3,2,Business Analyst Assistant 
+4,2,2,Business Development Manager
+1,2,0,Business Development Manager
+4,4,0,Business Development Manager
+4,4,1,Business Development Manager
+4,4,2,Business Development Manager
+4,4,3,Business Development Manager
+1,4,0,Business Development Manager
+1,0,1,Business Development Manager
+1,1,1,Business Lawyer
+1,3,0,Business Operations Manager
+4,2,3,Cable Technician
+4,4,3,Cable Technician
+4,3,2,CAD Technician
+4,0,2,CAD Technician
+4,1,3,Calibration Technician
+4,3,2,Calibration Technician
+4,3,3,Calibration Technician
+4,4,3,Calibration Technician
+2,0,1,Calibration Technician
+4,0,2,Calibration Technician
+4,0,3,Calibration Technician
+1,4,3,Cashier
+1,2,3,Cashier 
+1,0,3,Cashier 
+1,1,1,Certified Public Accountant
+1,1,1,Charted Financial Analyst
+4,1,0,Chemical Engineer
+4,1,1,Chemical Engineer
+4,3,0,Chemical Engineer
+4,3,1,Chemical Engineer
+4,2,1,Chemical Engineer
+4,4,0,Chemical Engineer
+4,0,0,Chemical Engineer
+4,0,1,Chemical Engineer
+2,1,0,Chemist 
+1,3,1,Chief Executive Officer 
+1,3,1,Chief Financial Officer
+1,3,1,Chief Operating Officer 
+4,1,0,Civil Engineer
+4,1,1,Civil Engineer
+4,3,0,Civil Engineer
+4,3,1,Civil Engineer
+4,2,1,Civil Engineer
+4,0,0,Civil Engineer
+4,0,1,Civil Engineer
+5,3,1,Clinical Data Manager
+3,0,0,Clinical data manager
+5,1,2,Clinical Laboratory Scientist
+5,3,2,Clinical Laboratory Scientist
+5,2,2,Clinical Laboratory Scientist
+5,0,2,Clinical Laboratory Scientist
+5,1,1,Clinical laboratory technologist
+3,1,1,Clinical laboratory technologist
+5,0,1,Clinical laboratory technologist
+3,4,1,Clinical Psychologist
+5,1,0,Clinical Research Associate
+3,1,1,Clinical research associate
+5,4,1,Clinical Research Associate
+5,1,2,Clinical Research Coordinator
+5,1,3,Clinical research coordinator
+3,1,2,Clinical Research Coordinator
+5,3,2,Clinical Research Coordinator
+3,3,2,Clinical Research Coordinator
+5,2,1,Clinical Research Coordinator
+5,2,2,Clinical Research Coordinator
+3,4,1,Clinical Research Coordinator
+3,4,2,Clinical Research Coordinator
+3,0,0,Clinical research coordinator
+5,0,2,Clinical Research Coordinator
+5,0,3,Clinical research coordinator
+5,3,0,Clinical research scientist
+3,0,3,Clinical Trial Coordinator
+5,1,0,Clinical Trial Manager
+3,2,2,Clinical Trial Manager
+3,4,0,Clinical Trial Project Manager
+4,2,0,Cloud Engineer
+1,1,3,Collections Agent
+1,1,2,Collections Specialist
+1,3,0,Commercial Banker
+5,4,1,Communications Specialist for Biotechnology
+5,4,2,Community Health Worker
+5,4,2,Community Outreach Coordinator
+1,3,2,Compliance Assistant 
+2,3,2,Compliance Coordinator
+2,3,3,Compliance Coordinator
+4,3,3,Compliance Coordinator
+4,1,2,Compliance Officer
+1,1,0,Compliance Officer
+2,3,0,Compliance Officer
+2,3,1,Compliance Officer
+5,3,2,Compliance Officer
+4,4,2,Compliance Officer
+1,3,1,Compliance Officer 
+5,1,2,Compliance Specialist
+5,2,2,Compliance Specialist
+5,0,2,Compliance Specialist
+4,1,0,Computer Engineer
+4,1,1,Computer Engineer
+4,3,0,Computer Engineer
+4,0,0,Computer Engineer
+4,0,1,Computer Engineer
+4,3,1,Computer Hardware Engineer
+4,2,1,Computer Hardware Engineer
+4,3,1,Computer Software Engineer
+4,2,1,Computer Software Engineer
+4,1,3,Computer Support Specialist
+4,3,3,Computer Support Specialist
+4,2,3,Computer Support Specialist
+4,4,3,Computer Support Specialist
+4,0,3,Computer Support Specialist
+4,2,0,Computer Systems Analyst
+4,2,0,Computer Vision Engineer
+3,3,2,Conservation Biologist
+3,3,3,Conservation biologist
+3,3,0,Conservation Scientist
+3,3,1,Conservation Scientist
+3,2,0,Conservation Scientist
+3,2,3,Conservation Technician
+4,4,1,Construction Manager
+5,4,2,Content Creator
+4,2,2,Content Marketing Specialist
+4,1,0,Control Systems Engineer
+4,1,1,Control Systems Engineer
+4,3,0,Control Systems Engineer
+4,2,0,Control Systems Engineer
+4,4,0,Control Systems Engineer
+4,0,0,Control Systems Engineer
+4,0,1,Control Systems Engineer
+0,2,0,Copywriter
+0,2,1,Copywriter Assistant 
+0,2,2,Copywriter Assistant 
+0,2,3,Copywriter Assistant 
+1,1,0,Corporate Attorney
+1,0,0,Corporate Banker
+1,3,1,Corporate Social Responsibility Manager
+1,3,3,Courier
+0,1,0,Creative Director
+0,2,0,Creative Director
+1,1,2,Credit Analyst
+1,0,0,Credit Analyst
+3,0,2,Crime Scene Investigator
+4,1,2,Customer Service Manager
+1,3,0,Customer Service Manager
+4,2,2,Customer Service Manager
+4,2,3,Customer Service Manager
+4,4,1,Customer Service Manager
+4,4,2,Customer Service Manager
+1,4,0,Customer Service Manager
+1,1,3,Customer Service Representative
+4,3,2,Customer Service Representative
+1,2,3,Customer Service Representative
+4,4,2,Customer Service Representative
+4,4,3,Customer Service Representative
+0,4,1,Customer Service Representative
+0,4,2,Customer Service Representative
+4,0,2,Customer Service Representative
+1,0,3,Customer Service Representative
+1,4,3,Customer Service Representative 
+0,4,3,Customer Service Representative 
+1,0,2,Customer Service Representative 
+5,4,1,Customer Service Representative for Biotechnology
+1,2,2,Customer Service Supervisor
+1,4,2,Customer Service Supervisor
+5,4,2,Customer Support Specialist
+4,2,0,Cybersecurity Analyst
+4,1,2,Data Analyst
+1,1,0,Data Analyst
+4,2,2,Data Analyst
+4,4,1,Data Analyst
+2,0,1,Data Analyst
+4,2,1,Data Center Engineer
+2,0,2,Data Entry Clerk
+2,0,3,Data Entry Clerk
+1,3,3,Data Entry Clerk 
+1,0,3,Data Entry Clerk 
+4,1,3,Data Entry Specialist
+4,3,2,Data Entry Specialist
+4,3,3,Data Entry Specialist
+4,2,3,Data Entry Specialist
+4,4,3,Data Entry Specialist
+4,0,2,Data Entry Specialist
+4,0,3,Data Entry Specialist
+4,2,0,Data Scientist
+4,1,2,Database Administrator
+1,1,3,Debt Counselor 
+3,1,3,Dental Assistant
+3,0,3,Dental Assistant
+5,1,2,Dental Hygienist
+5,3,2,Dental Hygienist
+5,2,2,Dental Hygienist
+5,0,2,Dental Hygienist
+3,1,0,Dentist
+5,1,2,Diagnostic Medical Sonographer
+5,3,2,Diagnostic Medical Sonographer
+5,2,2,Diagnostic Medical Sonographer
+5,0,2,Diagnostic Medical Sonographer
+0,2,0,Digital Marketer
+0,2,3,Digital Marketer Assistant
+0,2,1,Digital Marketer Assistant 
+0,2,2,Digital Marketer Assistant 
+5,1,0,Ecologist
+3,3,0,Ecologist
+3,3,2,Ecologist
+5,2,1,Ecologist
+3,2,0,Ecologist
+5,0,0,Ecologist
+3,0,1,Ecologist
+1,2,0,E-1 Manager
+1,1,0,Economist
+1,1,1,Economist
+3,3,3,Ecotourism guide
+3,2,3,Ecotourism Guide
+4,1,0,Electrical Engineer
+4,1,1,Electrical Engineer
+4,3,0,Electrical Engineer
+4,3,1,Electrical Engineer
+4,2,0,Electrical Engineer
+4,2,1,Electrical Engineer
+4,4,0,Electrical Engineer
+4,0,0,Electrical Engineer
+4,0,1,Electrical Engineer
+4,3,2,Electrical Technician
+4,0,2,Electrical Technician
+4,1,3,Electronics Technician
+4,3,2,Electronics Technician
+4,3,3,Electronics Technician
+4,2,3,Electronics Technician
+4,4,3,Electronics Technician
+4,0,2,Electronics Technician
+4,0,3,Electronics Technician
+5,1,2,Emergency Medical Technician
+5,3,2,Emergency Medical Technician
+5,2,2,Emergency Medical Technician
+3,4,2,Emergency Medical Technician
+5,0,2,Emergency Medical Technician
+4,1,0,Engineering Manager
+4,1,1,Engineering Manager
+4,3,0,Engineering Manager
+4,2,1,Engineering Manager
+4,4,0,Engineering Manager
+4,0,0,Engineering Manager
+4,0,1,Engineering Manager
+4,3,2,Engineering Technician
+4,0,2,Engineering Technician
+3,1,0,Entomologist
+4,2,2,Entrepreneur
+1,2,0,Entrepreneur
+4,4,1,Entrepreneur
+4,4,2,Entrepreneur
+3,2,3,Environmental Advocate
+3,4,3,Environmental Advocate
+3,1,1,Environmental biologist
+3,3,0,Environmental Consultant
+3,4,3,Environmental Consultant
+2,2,2,Environmental Educator
+3,2,3,Environmental Educator
+3,4,3,Environmental Educator
+3,3,3,Environmental educator or science teacher
+4,1,0,Environmental Engineer
+4,1,1,Environmental Engineer
+4,3,0,Environmental Engineer
+4,3,1,Environmental Engineer
+4,2,1,Environmental Engineer
+4,4,0,Environmental Engineer
+4,0,0,Environmental Engineer
+4,0,1,Environmental Engineer
+2,3,2,Environmental Health and Safety Specialist
+3,0,3,Environmental Health and Safety Specialist
+5,1,2,Environmental Health Specialist
+5,3,2,Environmental Health Specialist
+5,2,2,Environmental Health Specialist
+3,4,1,Environmental Health Specialist
+5,0,2,Environmental Health Specialist
+5,1,3,Environmental science and protection technician
+5,3,3,Environmental science and protection technician
+5,2,3,Environmental science and protection technician
+5,4,3,Environmental science and protection technician
+5,0,3,Environmental science and protection technician
+5,1,0,Environmental Scientist
+5,1,1,Environmental scientist
+3,1,0,Environmental Scientist
+3,1,2,Environmental Scientist
+2,3,0,Environmental Scientist
+2,3,1,Environmental Scientist
+5,3,1,Environmental Scientist
+3,3,1,Environmental Scientist
+3,3,2,Environmental Scientist
+3,2,0,Environmental Scientist
+3,2,2,Environmental Scientist
+5,0,0,Environmental Scientist
+5,0,1,Environmental scientist
+3,0,1,Environmental scientist
+3,1,3,Environmental Technician
+3,3,3,Environmental technician
+2,0,2,Environmental Technician
+2,0,3,Environmental Technician
+5,1,2,Epidemiologist
+5,1,2,Epidemiologist
+3,1,0,Epidemiologist
+3,1,1,Epidemiologist
+5,3,2,Epidemiologist
+3,3,1,Epidemiologist
+3,3,2,Epidemiologist
+5,2,2,Epidemiologist
+5,0,2,Epidemiologist
+3,0,1,Epidemiologist
+1,3,1,Ethics and Compliance Manager 
+0,2,1,Event Assistant
+0,2,2,Event Assistant
+0,2,3,Event Assistant 
+4,2,2,Event Coordinator
+4,4,2,Event Coordinator
+1,2,2,Event Coordinator 
+1,4,2,Event Coordinator 
+5,4,1,Event Coordinator for Biotechnology
+5,4,2,Event Planner
+1,2,1,Event Planner 
+0,2,0,Event Planner 
+1,4,1,Event Planner 
+0,0,1,Event Staff
+0,0,2,Event Staff
+0,0,3,Event Staff
+1,4,0,Executive Recruiter
+0,4,0,Exhibition Designer
+0,0,0,Exhibition Designer
+0,1,1,Exhibition Installer
+0,1,2,Exhibition Installer
+0,4,2,Exhibition Installer
+0,4,3,Exhibition Installer
+0,4,1,Exhibition Installer 
+4,1,3,Fabricator
+4,3,2,Fabricator
+4,3,3,Fabricator
+4,2,3,Fabricator
+4,4,3,Fabricator
+4,0,2,Fabricator
+4,0,3,Fabricator
+3,0,3,Farmer/Rancher
+0,2,0,Fashion Designer 
+0,2,1,Fashion Designer Assistant
+0,2,2,Fashion Designer Assistant 
+1,2,3,Fast Food Worker
+1,4,3,Fast Food Worker
+3,1,3,Field Biologist
+4,1,2,Field Engineer
+4,3,2,Field Engineer
+4,0,2,Field Engineer
+3,4,3,Field Researcher
+4,2,2,Field Service Engineer
+4,4,1,Field Service Engineer
+4,4,2,Field Service Engineer
+4,1,3,Field Service Technician
+5,1,3,Field service technician
+4,3,2,Field Service Technician
+4,3,3,Field Service Technician
+5,3,3,Field service technician
+4,2,3,Field Service Technician
+5,2,3,Field service technician
+4,4,3,Field Service Technician
+5,4,3,Field service technician
+4,0,2,Field Service Technician
+4,0,3,Field Service Technician
+5,0,3,Field service technician
+3,3,3,Field technician for biological surveys
+1,0,3,File Clerk 
+1,4,0,Financial Advisor
+1,0,1,Financial Analyst
+1,0,0,Financial Analyst
+1,1,2,Financial Planner
+1,1,0,Financial Planner
+3,1,3,Fish and Game Warden
+5,3,2,Fisheries Biologist
+5,2,2,Fisheries Biologist
+5,0,2,Fisheries Biologist
+3,3,3,Fisheries technician
+3,2,3,Fisheries Technician
+3,4,3,Fisheries Technician
+5,4,2,Fitness Trainer
+3,4,2,Fitness Trainer
+5,1,2,Food Safety Inspector
+5,3,2,Food Safety Inspector
+5,2,2,Food Safety Inspector
+5,0,2,Food Safety Inspector
+3,3,3,Food science technician
+3,0,3,Food Science Technician
+3,1,0,Food Scientist
+3,3,2,Food Scientist
+3,2,0,Food Scientist
+5,3,1,Food Scientist and Technologist
+1,2,3,Food Service Worker
+1,4,3,Food Service Worker 
+5,1,2,Forensic Scientist
+3,1,0,Forensic Scientist
+3,1,2,Forensic Scientist
+5,3,1,Forensic Scientist
+3,3,1,Forensic Scientist
+3,3,2,Forensic Scientist
+5,2,2,Forensic Scientist
+5,0,2,Forensic Scientist
+3,0,1,Forensic scientist
+3,0,2,Forensic Scientist
+3,0,3,Forestry Technician
+0,0,1,Frame Shop Assistant
+0,0,2,Frame Shop Assistant
+0,0,3,Frame Shop Assistant
+5,4,2,Fundraiser
+0,1,2,Gallery Assistant
+0,1,3,Gallery Assistant
+0,0,2,Gallery Assistant
+0,0,3,Gallery Assistant
+0,1,1,Gallery Assistant 
+0,0,1,Gallery Assistant 
+0,0,0,Gallery Manager
+0,4,0,Gallery Manager 
+4,2,0,Game Developer
+1,0,3,General Office Clerk
+1,3,3,General Office Clerk 
+5,1,0,Genetic Counselor
+5,1,1,Genetic counselor
+5,1,2,Genetic Counselor
+3,1,1,Genetic counselor
+3,1,2,Genetic Counselor
+5,3,0,Genetic counselor
+5,3,2,Genetic Counselor
+3,3,1,Genetic Counselor
+3,3,2,Genetic Counselor
+5,2,1,Genetic Counselor
+3,2,2,Genetic Counselor
+3,4,1,Genetic Counselor
+5,0,1,Genetic counselor
+3,0,1,Genetic counselor
+3,2,0,Geneticist
+3,0,0,Geneticist
+4,3,1,Geological Engineer
+2,1,2,Geological Technician
+2,1,3,Geological Technician
+2,1,0,Geologist
+2,1,1,Geophysicist
+4,1,0,Geotechnical Engineer
+4,1,1,Geotechnical Engineer
+4,3,0,Geotechnical Engineer
+4,3,1,Geotechnical Engineer
+4,4,0,Geotechnical Engineer
+4,0,0,Geotechnical Engineer
+4,0,1,Geotechnical Engineer
+4,2,0,Graphic Designer
+4,2,2,Graphic Designer
+4,2,3,Graphic Designer
+0,2,2,Graphic Designer
+4,4,2,Graphic Designer
+4,4,3,Graphic Designer
+0,0,0,Graphic Designer
+2,3,0,Health and Safety Specialist
+2,3,1,Health and Safety Specialist
+5,3,1,Health and Safety Specialist
+5,4,2,Health Coach
+3,4,2,Health Communications Specialist
+5,1,2,Health Educator
+5,3,2,Health Educator
+5,2,2,Health Educator
+5,4,1,Health Educator
+3,4,1,Health Educator
+3,4,2,Health Educator
+5,0,2,Health Educator
+5,4,2,Health Information Management Coordinator
+5,4,2,Health Information Technician
+3,1,2,Health Policy Analyst
+5,4,2,Health Promoter
+3,4,1,Health Psychologist
+3,4,0,Healthcare Administrator
+3,4,1,Healthcare Administrator
+3,4,2,Healthcare Administrator
+5,1,0,Healthcare Administrator/Manager
+5,0,0,Healthcare Administrator/Manager
+5,4,2,Healthcare Marketing Specialist
+3,4,0,Healthcare Public Relations Specialist
+4,1,3,Help Desk Technician
+4,3,2,Help Desk Technician
+4,3,3,Help Desk Technician
+4,2,3,Help Desk Technician
+4,4,3,Help Desk Technician
+4,0,2,Help Desk Technician
+4,0,3,Help Desk Technician
+4,1,3,Home Automation Technician
+4,3,3,Home Automation Technician
+4,2,3,Home Automation Technician
+4,4,3,Home Automation Technician
+4,0,3,Home Automation Technician
+5,1,0,Horticulturist
+5,1,2,Horticulturist
+5,3,2,Horticulturist
+5,3,3,Horticulturist
+3,3,0,Horticulturist
+3,3,2,Horticulturist
+3,3,3,Horticulturist
+5,2,2,Horticulturist
+5,2,3,Horticulturist
+3,2,0,Horticulturist
+5,4,3,Horticulturist
+5,0,0,Horticulturist
+5,0,2,Horticulturist
+3,0,3,Horticulturist
+4,2,0,Human Factors Engineer
+4,2,2,Human Factors Engineer
+4,4,1,Human Factors Engineer
+4,4,2,Human Factors Engineer
+1,3,2,Human Resources Assistant
+1,2,2,Human Resources Coordinator 
+1,4,2,Human Resources Coordinator 
+1,3,0,Human Resources Manager
+1,2,1,Human Resources Manager
+1,4,0,Human Resources Manager
+1,4,1,Human Resources Manager
+5,4,2,Human Resources Specialist
+3,1,0,Immunologist
+3,0,0,Immunologist
+3,0,0,Immunologist
+1,2,0,Import/Export Agent
+4,2,0,Industrial Designer
+4,2,2,Industrial Designer
+4,4,1,Industrial Designer
+4,1,0,Industrial Engineer
+4,1,1,Industrial Engineer
+4,1,2,Industrial Engineer
+4,3,0,Industrial Engineer
+4,3,1,Industrial Engineer
+4,2,1,Industrial Engineer
+4,4,0,Industrial Engineer
+4,0,0,Industrial Engineer
+4,0,1,Industrial Engineer
+5,4,2,Influencer
+4,2,2,Innovation Manager
+4,4,1,Innovation Manager
+4,4,2,Innovation Manager
+4,3,2,Installation Technician
+4,0,2,Installation Technician
+4,1,3,Installer
+4,3,3,Installer
+4,2,3,Installer
+4,4,3,Installer
+4,0,3,Installer
+4,1,0,Instrumentation and Control Engineer
+4,1,1,Instrumentation and Control Engineer
+4,3,0,Instrumentation and Control Engineer
+4,4,0,Instrumentation and Control Engineer
+4,0,0,Instrumentation and Control Engineer
+4,0,1,Instrumentation and Control Engineer
+4,1,3,Instrumentation Technician
+4,3,2,Instrumentation Technician
+4,3,3,Instrumentation Technician
+4,2,3,Instrumentation Technician
+4,4,3,Instrumentation Technician
+4,0,2,Instrumentation Technician
+4,0,3,Instrumentation Technician
+1,1,2,Insurance Agent
+1,1,3,Insurance Sales Agent
+1,4,0,Insurance Sales Agent
+1,0,1,Insurance Underwriter
+1,1,0,Intellectual Property Lawyer
+4,2,2,Interaction Designer
+4,4,1,Interaction Designer
+0,1,0,Interior Designer
+1,3,1,Internal Auditor 
+1,3,2,Internal Auditor Assistant 
+4,1,3,Inventory Control Specialist
+4,3,2,Inventory Control Specialist
+4,3,3,Inventory Control Specialist
+4,2,3,Inventory Control Specialist
+4,4,3,Inventory Control Specialist
+4,0,2,Inventory Control Specialist
+4,0,3,Inventory Control Specialist
+1,0,2,Inventory Control Specialist 
+4,1,2,Inventory Manager
+1,1,2,Investment Advisor 
+1,0,0,Investment Analyst
+1,0,1,Investment Banker
+1,0,0,Investment Banker
+4,1,3,IT Help Desk Technician
+4,3,3,IT Help Desk Technician
+4,2,3,IT Help Desk Technician
+4,4,3,IT Help Desk Technician
+4,0,3,IT Help Desk Technician
+4,1,2,IT Manager
+1,1,0,Judge
+3,0,2,Lab Technician
+3,1,3,Laboratory Assistant
+2,0,2,Laboratory Assistant
+2,0,3,Laboratory Assistant
+5,1,2,Laboratory Manager
+5,3,2,Laboratory Manager
+5,2,2,Laboratory Manager
+5,0,2,Laboratory Manager
+3,0,2,Laboratory Manager
+2,0,0,Laboratory Manager 
+5,1,3,Laboratory technician
+5,3,3,Laboratory technician
+3,3,2,Laboratory Technician
+3,3,3,Laboratory technician
+5,2,3,Laboratory technician
+5,4,3,Laboratory technician
+2,0,1,Laboratory Technician
+5,0,3,Laboratory technician
+3,0,1,Laboratory technician
+3,0,3,Laboratory Technician
+3,3,0,Landscape Architect
+1,1,0,Lawyer
+1,1,0,Legal Analyst
+1,1,2,Loan Officer 
+1,0,0,Logistics Analyst
+4,3,2,Logistics Coordinator
+1,3,2,Logistics Coordinator
+4,0,2,Logistics Coordinator
+4,1,2,Logistics Manager
+1,3,0,Logistics Manager
+4,4,1,Logistics Manager
+1,0,1,Logistics Manager
+4,2,0,Machine Learning Engineer
+4,1,3,Machine Operator
+4,0,3,Machine Operator
+4,3,2,Machinist
+4,0,2,Machinist
+1,3,3,Mail Clerk
+4,1,3,Maintenance Technician
+4,3,2,Maintenance Technician
+4,3,3,Maintenance Technician
+4,2,3,Maintenance Technician
+4,4,3,Maintenance Technician
+4,0,2,Maintenance Technician
+4,0,3,Maintenance Technician
+4,4,0,Management Consultant
+4,4,2,Management Consultant
+1,4,0,Management Consultant
+1,0,1,Management Consultant
+1,0,0,Management Consultant
+4,1,2,Manufacturing Analyst
+4,1,0,Manufacturing Engineer
+4,1,1,Manufacturing Engineer
+4,3,0,Manufacturing Engineer
+4,3,1,Manufacturing Engineer
+4,2,1,Manufacturing Engineer
+4,0,0,Manufacturing Engineer
+4,0,1,Manufacturing Engineer
+4,4,0,Manufacturing Manager
+4,4,1,Manufacturing Manager
+4,0,3,Manufacturing Production Operator
+2,0,0,Manufacturing Supervisor 
+4,3,2,Manufacturing Technician
+4,0,2,Manufacturing Technician
+3,1,0,Marine Biologist
+3,3,1,Marine Biologist
+3,3,2,Marine Biologist
+3,2,0,Marine Biologist
+4,3,1,Marine Engineer
+4,2,0,Marine Engineer
+3,2,3,Marine Mammal Trainer
+3,4,3,Marine Mammal Trainer
+3,3,0,Marine Scientist
+1,2,0,Market Research Analyst
+1,1,1,Market Research Analyst 
+4,4,2,Marketing Coordinator
+4,4,3,Marketing Coordinator
+1,2,2,Marketing Coordinator 
+1,4,2,Marketing Coordinator 
+4,1,2,Marketing Manager
+4,2,2,Marketing Manager
+1,2,0,Marketing Manager
+4,4,1,Marketing Manager
+4,4,2,Marketing Manager
+1,4,0,Marketing Manager
+1,2,1,Marketing Manager 
+1,4,1,Marketing Manager 
+5,4,1,Marketing Manager for Biotechnology
+4,1,0,Materials Engineer
+4,1,1,Materials Engineer
+4,3,0,Materials Engineer
+4,3,1,Materials Engineer
+4,2,1,Materials Engineer
+4,4,0,Materials Engineer
+4,0,0,Materials Engineer
+4,0,1,Materials Engineer
+2,1,0,Materials Scientist
+4,2,0,Materials Scientist
+2,0,1,Materials Tester
+4,1,0,Mechanical Engineer
+4,1,1,Mechanical Engineer
+4,3,0,Mechanical Engineer
+4,3,1,Mechanical Engineer
+4,2,0,Mechanical Engineer
+4,2,1,Mechanical Engineer
+4,4,0,Mechanical Engineer
+4,0,0,Mechanical Engineer
+4,0,1,Mechanical Engineer
+4,3,2,Mechanical Technician
+4,0,2,Mechanical Technician
+4,1,0,Mechatronics Engineer
+4,1,1,Mechatronics Engineer
+4,3,0,Mechatronics Engineer
+4,3,1,Mechatronics Engineer
+4,2,0,Mechatronics Engineer
+4,2,1,Mechatronics Engineer
+4,4,0,Mechatronics Engineer
+4,0,0,Mechatronics Engineer
+4,0,1,Mechatronics Engineer
+5,4,2,Medical Affairs Coordinator
+5,1,2,Medical Assistant
+3,1,3,Medical Assistant
+5,3,2,Medical Assistant
+5,2,2,Medical Assistant
+5,0,2,Medical Assistant
+3,0,3,Medical Assistant
+3,1,3,Medical Billing and Coding Specialist
+5,4,2,Medical Billing and Coding Specialist
+3,0,3,Medical Billing and Coding Specialist
+5,4,2,Medical Communications Specialist
+3,4,0,Medical Communications Specialist
+3,0,0,Medical consultant
+5,4,2,Medical Customer Service Representative
+3,0,1,Medical device designer
+5,3,1,Medical Device Engineer
+3,4,2,Medical Device Marketing Specialist
+5,3,0,Medical device research and development engineer
+5,1,0,Medical Device Sales Representative
+3,1,3,Medical Device Sales Representative
+5,2,1,Medical Device Sales Representative
+5,4,0,Medical device sales representative
+5,4,2,Medical Device Sales Representative
+3,4,0,Medical Device Sales Representative
+3,4,1,Medical Device Sales Representative
+3,0,0,Medical device sales representative
+3,0,3,Medical Device Sales Representative
+3,1,0,Medical Doctor
+3,3,1,Medical Doctor
+5,1,1,Medical equipment designer
+5,0,1,Medical equipment designer
+5,1,1,Medical equipment repair technician
+3,1,3,Medical Equipment Repair Technician
+5,0,1,Medical equipment repair technician
+3,0,3,Medical Equipment Repair Technician
+3,0,0,Medical equipment repair technician.
+5,1,3,Medical equipment repairer
+5,3,3,Medical equipment repairer
+5,2,3,Medical equipment repairer
+5,4,3,Medical equipment repairer
+5,0,3,Medical equipment repairer
+5,4,0,Medical equipment sales representative
+3,4,2,Medical Equipment Sales Representative
+3,0,2,Medical Equipment Sales Representative
+3,0,0,Medical ethicist
+3,4,0,Medical Event Planner
+5,4,2,Medical Events Coordinator
+5,1,0,Medical Illustrator
+5,1,2,Medical Illustrator
+3,1,2,Medical Illustrator
+5,3,2,Medical Illustrator
+3,0,0,Medical illustrator
+5,0,0,Medical Illustrator
+3,0,1,Medical illustrator
+5,1,1,Medical imaging technologist
+5,1,2,Medical Imaging Technologist
+5,3,2,Medical Imaging Technologist
+5,2,2,Medical Imaging Technologist
+5,4,1,Medical Imaging Technologist
+5,0,1,Medical imaging technologist
+5,0,2,Medical Imaging Technologist
+5,4,1,Medical Interpreter
+5,4,2,Medical Interpreter
+5,1,2,Medical Laboratory Technician
+3,1,3,Medical Laboratory Technician
+5,3,0,Medical laboratory technician
+5,3,2,Medical Laboratory Technician
+3,3,1,Medical Laboratory Technician
+5,2,2,Medical Laboratory Technician
+3,2,2,Medical Laboratory Technician
+5,0,2,Medical Laboratory Technician
+5,3,1,Medical Laboratory Technologist
+3,0,0,Medical liaison
+3,0,0,Medical librarian
+3,4,0,Medical Marketing Specialist
+3,4,1,Medical Marketing Specialist
+5,4,2,Medical Practice Manager
+5,3,0,Medical product analyst
+5,4,2,Medical Receptionist
+3,1,3,Medical Records Technician
+3,0,3,Medical Records Technician
+3,4,1,Medical Recruiter
+5,1,1,Medical researcher
+5,0,1,Medical researcher
+5,4,1,Medical Sales Representative
+5,4,2,Medical Sales Representative
+3,4,0,Medical Sales Representative
+3,4,1,Medical Sales Representative
+3,4,2,Medical Sales Representative
+3,0,0,Medical sales representative
+5,4,2,Medical Scheduler
+5,1,0,Medical Science Liaison
+5,3,0,Medical science liaison
+3,3,0,Medical Science Liaison
+3,2,2,Medical Science Liaison
+3,4,0,Medical Science Liaison
+3,4,1,Medical Science Liaison
+5,1,2,Medical Scientist
+5,2,1,Medical Scientist
+3,2,0,Medical Scientist
+3,0,0,Medical scientist
+5,4,1,Medical Social Worker
+3,4,2,Medical Social Worker
+5,1,0,Medical Technologist
+5,1,2,Medical Technologist
+5,3,1,Medical Technologist
+5,3,2,Medical Technologist
+5,2,2,Medical Technologist
+5,0,2,Medical Technologist
+3,0,2,Medical Technologist
+5,4,1,Medical Technologist Trainer
+5,3,0,Medical technology analyst
+5,3,0,Medical technology consultant
+3,1,3,Medical Transcriptionist
+5,4,2,Medical Transcriptionist
+3,0,3,Medical Transcriptionist
+5,1,1,Medical writer
+5,1,2,Medical Writer
+3,1,2,Medical Writer
+3,1,3,Medical Writer
+5,3,0,Medical writer
+5,3,2,Medical Writer
+5,2,2,Medical Writer
+5,4,1,Medical Writer
+3,4,0,Medical Writer
+3,4,1,Medical Writer
+3,0,0,Medical writer
+5,0,1,Medical writer
+5,0,2,Medical Writer
+3,0,1,Medical writer
+1,0,2,Merchandiser 
+1,1,0,Mergers and Acquisitions Lawyer
+4,3,1,Metallurgical Engineer
+2,1,0,Meteorologist
+2,1,2,Meteorologist
+2,1,3,Meteorologist
+5,1,0,Microbiologist
+3,1,1,Microbiologist
+3,3,1,Microbiologist
+3,3,2,Microbiologist
+5,2,1,Microbiologist
+3,2,0,Microbiologist
+5,0,0,Microbiologist
+3,0,1,Microbiologist
+4,3,1,Mining Engineer
+4,2,0,Mobile Application Developer
+2,1,1,Molecular Biologist
+5,1,0,Molecular Biologist
+3,1,1,Molecular biologist
+5,3,0,Molecular biologist
+3,2,2,Molecular Biologist
+3,0,0,Molecular biologist
+5,0,0,Molecular Biologist
+3,0,1,Molecular biologist
+4,2,2,Multimedia Specialist
+4,2,3,Multimedia Specialist
+4,4,2,Multimedia Specialist
+4,4,3,Multimedia Specialist
+0,1,0,Museum Curator
+0,0,0,Museum Curator
+0,4,0,Museum Curator 
+0,4,1,Museum Visitor Services Representative
+0,4,3,Museum Visitor Services Representative
+0,1,1,Museum Visitor Services Representative 
+0,1,2,Museum Visitor Services Representative 
+0,1,3,Museum Visitor Services Representative 
+0,4,2,Museum Visitor Services Representative 
+2,1,0,Nanotechnologist 
+3,2,2,Natural Resource Manager
+3,1,3,Naturalist
+3,2,0,Naturalist
+3,3,0,Nature Photographer
+4,3,1,Naval Architect
+4,1,2,Network Administrator
+4,2,0,Network Administrator
+4,1,3,Network Technician
+4,3,2,Network Technician
+4,3,3,Network Technician
+4,2,3,Network Technician
+4,4,3,Network Technician
+4,0,2,Network Technician
+4,0,3,Network Technician
+3,1,0,Neuroscience Researcher
+3,1,1,Neuroscientist
+5,2,1,Neuroscientist
+4,1,0,Nuclear Engineer
+4,1,1,Nuclear Engineer
+4,3,0,Nuclear Engineer
+4,3,1,Nuclear Engineer
+4,2,1,Nuclear Engineer
+4,4,0,Nuclear Engineer
+4,0,0,Nuclear Engineer
+4,0,1,Nuclear Engineer
+5,1,2,Nutritionist
+5,3,1,Nutritionist
+5,3,2,Nutritionist
+5,2,2,Nutritionist
+5,0,2,Nutritionist
+5,1,0,Nutritionist/Dietician
+3,4,2,Nutritionist/Dietician
+3,3,1,Nutritionist/Dietitian
+3,4,1,Nutritionist/Dietitian
+3,4,2,Occupational Health and Safety Specialist
+3,4,1,Occupational Therapist
+3,4,2,Occupational Therapist
+2,1,1,Oceanographer
+1,3,3,Office Assistant 
+1,3,2,Office Manager 
+4,1,2,Operations Analyst
+4,3,3,Operations Coordinator
+4,1,2,Operations Manager
+4,4,1,Operations Manager
+1,0,1,Operations Manager
+1,0,0,Operations Research Analyst
+4,2,0,Optical Engineer
+2,1,0,Optometrist
+3,1,0,Optometrist
+1,3,3,Order Clerk 
+3,2,3,Outdoor Educator
+3,4,3,Outdoor Educator
+5,1,2,Paramedic
+5,3,2,Paramedic
+5,2,2,Paramedic
+5,0,2,Paramedic
+3,0,3,Park Naturalist
+3,1,3,Park Ranger
+3,3,0,Park Ranger
+3,3,3,Park ranger
+3,2,0,Park Ranger
+3,2,3,Park Ranger
+3,4,3,Park Ranger
+2,3,1,Patent Agent
+2,3,0,Patent Agenta
+4,4,1,Patent Attorney
+5,1,0,Pathologist
+5,0,0,Pathologist
+5,4,1,Patient Advocate
+5,4,2,Patient Advocate
+5,4,2,Patient Coordinator
+1,0,2,Payroll Administrator 
+3,3,3,Pest control technician
+3,2,3,Pet Groomer
+3,4,3,Pet Groomer
+3,2,3,Pet Sitter/Dog Walker
+3,4,3,Pet Sitter/Dog Walker
+4,1,0,Petroleum Engineer
+4,1,1,Petroleum Engineer
+4,3,0,Petroleum Engineer
+4,3,1,Petroleum Engineer
+4,2,1,Petroleum Engineer
+4,4,0,Petroleum Engineer
+4,0,0,Petroleum Engineer
+4,0,1,Petroleum Engineer
+2,1,1,Petrologist
+3,2,2,Pharmaceutical Researcher
+3,0,0,Pharmaceutical researcher
+5,1,0,Pharmaceutical Sales Representative
+5,1,2,Pharmaceutical Sales Representative
+5,1,3,Pharmaceutical sales representative
+3,1,2,Pharmaceutical Sales Representative
+5,3,2,Pharmaceutical Sales Representative
+5,3,3,Pharmaceutical sales representative
+3,3,2,Pharmaceutical Sales Representative
+5,2,1,Pharmaceutical Sales Representative
+5,2,2,Pharmaceutical Sales Representative
+5,2,3,Pharmaceutical sales representative
+5,4,3,Pharmaceutical sales representative
+3,4,0,Pharmaceutical Sales Representative
+3,4,1,Pharmaceutical Sales Representative
+3,0,0,Pharmaceutical sales representative
+5,0,2,Pharmaceutical Sales Representative
+5,0,3,Pharmaceutical sales representative
+3,0,2,Pharmaceutical Sales Representative
+3,0,3,Pharmaceutical Sales Representative
+5,3,0,Pharmaceutical scientist
+3,2,0,Pharmaceutical Scientist
+3,3,3,Pharmaceutical technician
+3,3,1,Pharmacist
+5,1,0,Pharmacologist
+3,1,0,Pharmacologist
+3,1,1,Pharmacologist
+5,2,1,Pharmacologist
+3,2,2,Pharmacologist
+5,0,0,Pharmacologist
+3,0,1,Pharmacologist
+3,1,3,Pharmacy Technician
+3,0,3,Pharmacy Technician
+0,2,2,Photographer's Assistant
+0,0,1,Photographer's Assistant
+0,0,3,Photographer's Assistant
+0,2,1,Photographer's Assistant 
+0,2,3,Photographer's Assistant 
+0,0,2,Photographer's Assistant 
+3,4,1,Physical Therapist
+3,4,2,Physical Therapist
+3,1,1,Physician assistant
+3,4,2,Physician Assistant
+2,1,0,Physicist 
+2,1,2,Physics Technician
+3,1,1,Plant biologist
+3,3,1,Plant Biologist
+3,2,2,Plant Biotechnologist
+5,1,0,Plant Breeder
+5,0,0,Plant Breeder
+5,1,3,Plant or animal caretaker
+5,3,3,Plant or animal caretaker
+5,2,3,Plant or animal caretaker
+5,4,3,Plant or animal caretaker
+5,0,3,Plant or animal caretaker
+3,3,3,Plant propagation technician
+5,3,1,Plant Scientist
+3,3,0,Plant Scientist
+1,1,1,Portfolio Manager
+4,3,1,Power Engineer
+4,1,2,Process Analyst
+5,3,1,Process Development Engineer
+4,1,0,Process Engineer
+4,1,1,Process Engineer
+5,1,3,Process engineer
+4,3,0,Process Engineer
+4,3,1,Process Engineer
+5,3,2,Process Engineer
+5,2,2,Process Engineer
+5,4,3,Process engineer
+4,0,0,Process Engineer
+4,0,1,Process Engineer
+5,0,2,Process Engineer
+5,0,3,Process engineer
+2,0,0,Process Engineer 
+4,3,2,Process Technician
+4,0,2,Process Technician
+1,3,2,Procurement Assistant 
+4,1,2,Procurement Manager
+1,3,0,Procurement Manager
+4,4,1,Procurement Manager
+4,1,3,Procurement Specialist
+4,3,2,Procurement Specialist
+4,3,3,Procurement Specialist
+4,2,3,Procurement Specialist
+4,4,3,Procurement Specialist
+4,0,2,Procurement Specialist
+4,0,3,Procurement Specialist
+4,3,1,Product Development Engineer
+4,2,0,Product Development Engineer
+4,2,1,Product Development Engineer
+2,0,1,Product Development Scientist
+4,1,2,Product Manager
+4,2,2,Product Manager
+4,4,0,Product Manager
+4,4,1,Product Manager
+5,4,2,Product Manager
+5,2,1,Product Manager in Biotechnology
+0,0,1,Production Assistant
+4,4,1,Production Engineer
+0,0,0,Production Manager
+4,3,2,Production Operator
+4,0,2,Production Operator
+4,1,2,Production Planner
+4,1,3,Production Worker
+5,4,2,Program Coordinator
+4,4,1,Program Manager
+4,1,2,Project Coordinator
+4,3,3,Project Coordinator
+1,3,2,Project Coordinator
+4,1,0,Project Engineer
+4,1,1,Project Engineer
+4,3,0,Project Engineer
+4,3,1,Project Engineer
+4,0,0,Project Engineer
+4,0,1,Project Engineer
+4,1,2,Project Manager
+1,3,0,Project Manager
+4,4,0,Project Manager
+4,4,1,Project Manager
+2,0,0,Project Manager
+1,0,1,Project Manager
+3,4,2,Public Health Advocate
+5,4,2,Public Health Educator
+3,4,0,Public Health Educator
+3,3,0,Public Health Officer
+3,4,1,Public Health Specialist
+0,2,3,Public Relations Assistant
+0,2,1,Public Relations Assistant 
+0,2,2,Public Relations Assistant 
+1,4,2,Public Relations Coordinator
+1,2,2,Public Relations Coordinator 
+4,2,2,Public Relations Specialist
+1,2,0,Public Relations Specialist
+0,2,0,Public Relations Specialist
+4,4,2,Public Relations Specialist
+1,4,0,Public Relations Specialist
+0,4,0,Public Relations Specialist
+1,2,1,Public Relations Specialist 
+1,4,1,Public Relations Specialist 
+5,4,1,Public Relations Specialist for Biotechnology
+2,4,0,Public Relations Specialist for Science Companies
+2,4,1,Public Relations Specialist for Science Companies
+2,4,2,Public Relations Specialist for Science Companies
+4,4,2,Public Speaker
+1,0,2,Purchasing Agent 
+4,1,2,Quality Assurance Analyst
+4,1,3,Quality Assurance Inspector
+4,3,2,Quality Assurance Inspector
+4,3,3,Quality Assurance Inspector
+4,2,3,Quality Assurance Inspector
+4,0,2,Quality Assurance Inspector
+4,0,3,Quality Assurance Inspector
+2,3,0,Quality Assurance Manager
+2,3,1,Quality Assurance Manager
+3,0,0,Quality assurance specialist
+5,3,1,Quality Control Analyst
+5,3,2,Quality Control Analyst
+2,0,1,Quality Control Analyst
+3,0,2,Quality Control Analyst
+2,3,2,Quality Control Coordinator
+2,3,3,Quality Control Coordinator
+4,3,1,Quality Control Engineer
+4,2,1,Quality Control Engineer
+4,1,2,Quality Control Inspector
+4,1,3,Quality Control Inspector
+4,3,3,Quality Control Inspector
+4,4,3,Quality Control Inspector
+4,0,3,Quality Control Inspector
+4,4,1,Quality Control Manager
+5,1,3,Quality control specialist
+5,3,3,Quality control specialist
+5,2,3,Quality control specialist
+5,4,3,Quality control specialist
+5,0,3,Quality control specialist
+3,0,1,Quality control specialist
+2,0,0,Quality Control Specialist 
+4,3,2,Quality Control Technician
+5,2,2,Quality Control Technician
+2,0,2,Quality Control Technician
+4,0,2,Quality Control Technician
+5,0,2,Quality Control Technician
+3,4,2,Radiologic Technologist
+1,3,0,Real Estate Agent
+1,1,2,Real Estate Agent 
+1,1,1,Real Estate Appraiser
+1,4,0,Real Estate Broker
+1,3,3,Receptionist 
+1,0,3,Receptionist 
+5,1,0,Regulatory Affairs Manager
+5,1,1,Regulatory affairs specialist
+5,1,2,Regulatory Affairs Specialist
+5,1,3,Regulatory affairs specialist
+2,3,0,Regulatory Affairs Specialist
+2,3,1,Regulatory Affairs Specialist
+5,3,1,Regulatory Affairs Specialist
+5,3,2,Regulatory Affairs Specialist
+5,3,3,Regulatory affairs specialist
+5,2,2,Regulatory Affairs Specialist
+5,2,3,Regulatory affairs specialist
+5,4,3,Regulatory affairs specialist
+3,0,0,Regulatory affairs specialist
+5,0,1,Regulatory affairs specialist
+5,0,2,Regulatory Affairs Specialist
+5,0,3,Regulatory affairs specialist
+3,0,1,Regulatory affairs specialist
+4,1,0,Renewable Energy Engineer
+4,1,1,Renewable Energy Engineer
+4,3,0,Renewable Energy Engineer
+4,2,1,Renewable Energy Engineer
+4,4,0,Renewable Energy Engineer
+4,0,0,Renewable Energy Engineer
+4,0,1,Renewable Energy Engineer
+4,1,3,Repair Technician
+4,3,2,Repair Technician
+4,3,3,Repair Technician
+4,2,3,Repair Technician
+4,4,3,Repair Technician
+4,0,2,Repair Technician
+4,0,3,Repair Technician
+1,1,0,Research Analyst
+4,1,0,Research and Development Engineer
+4,1,1,Research and Development Engineer
+4,3,0,Research and Development Engineer
+4,0,0,Research and Development Engineer
+4,0,1,Research and Development Engineer
+5,2,1,Research and Development Scientist
+2,1,2,Research Assistant
+2,1,3,Research Assistant
+5,1,3,Research assistant
+5,3,3,Research assistant
+3,3,3,Research assistant
+5,2,3,Research assistant
+5,4,3,Research assistant
+2,0,1,Research Assistant
+5,0,3,Research assistant
+3,0,2,Research Assistant
+3,0,3,Research Assistant
+2,3,2,Research Compliance Coordinator
+2,3,3,Research Compliance Coordinator
+4,3,1,Research Engineer
+4,2,1,Research Engineer
+2,0,0,Research Scientist 
+3,1,3,Research Technician
+2,0,2,Research Technician
+2,0,3,Research Technician
+3,4,2,Respiratory Therapist
+1,2,0,Retail Buyer
+1,0,2,Retail Manager
+1,2,3,Retail Salesperson
+1,2,2,Retail Salesperson 
+1,4,2,Retail Salesperson 
+1,4,3,Retail Salesperson 
+1,2,0,Retail Store Manager
+1,0,1,Risk Analyst
+1,0,0,Risk Manager
+4,1,0,Robotics Engineer
+4,1,1,Robotics Engineer
+4,3,0,Robotics Engineer
+4,3,1,Robotics Engineer
+4,2,0,Robotics Engineer
+4,2,1,Robotics Engineer
+4,4,0,Robotics Engineer
+4,0,0,Robotics Engineer
+4,0,1,Robotics Engineer
+2,0,0,Safety Coordinator 
+4,3,1,Safety Engineer
+1,2,3,Sales Associate
+0,4,1,Sales Associate
+0,4,2,Sales Associate
+1,4,3,Sales Associate 
+0,4,3,Sales Associate 
+1,0,2,Sales Associate 
+1,0,3,Sales Associate 
+4,3,1,Sales Engineer
+4,2,2,Sales Engineer
+4,4,0,Sales Engineer
+4,4,1,Sales Engineer
+4,4,2,Sales Engineer
+5,4,2,Sales Engineer
+4,1,2,Sales Manager
+4,2,3,Sales Manager
+1,2,0,Sales Manager
+4,4,2,Sales Manager
+4,4,3,Sales Manager
+1,4,0,Sales Manager
+1,2,1,Sales Manager 
+1,4,1,Sales Manager 
+0,4,0,Sales Representative
+1,2,2,Sales Representative 
+1,4,2,Sales Representative 
+2,4,0,Sales Representative for Science Products
+2,4,1,Sales Representative for Science Products
+1,1,3,Salesperson
+1,2,3,Salesperson
+1,4,3,Salesperson
+0,0,1,Scenic Artist
+0,0,3,Scenic Artist
+0,0,2,Scenic Artist 
+3,2,0,Science Advocate
+3,4,0,Science Blogger
+3,0,1,Science communication specialist
+3,1,3,Science Communications Specialist
+3,3,2,Science Communications Specialist
+3,2,3,Science Communications Specialist
+3,4,3,Science Communications Specialist
+3,0,3,Science Communications Specialist
+3,3,3,Science communicator
+2,2,1,Science Communicator
+2,2,2,Science Communicator
+2,2,3,Science Communicator
+5,2,3,Science communicator
+3,2,0,Science Communicator
+2,4,0,Science Communicator
+2,4,1,Science Communicator
+5,4,3,Science communicator
+3,4,0,Science Communicator
+2,2,0,Science Communicator 
+3,3,2,Science Consultant
+3,0,2,Science Data Analyst
+2,1,2,Science Educator
+3,1,2,Science Educator
+3,1,3,Science Educator
+3,3,0,Science Educator
+3,3,1,Science Educator
+3,3,2,Science Educator
+2,2,1,Science Educator
+3,2,0,Science Educator
+3,2,2,Science Educator
+3,2,3,Science Educator
+2,4,2,Science Educator
+5,4,1,Science Educator
+3,4,0,Science Educator
+3,4,1,Science Educator
+3,4,3,Science Educator
+3,0,0,Science educator
+3,0,1,Science educator
+3,0,3,Science Educator
+2,2,0,Science Educator 
+2,2,1,Science Event Coordinator
+2,2,2,Science Event Coordinator
+2,2,3,Science Event Coordinator
+2,4,0,Science Event Coordinator
+2,4,1,Science Event Coordinator
+2,2,0,Science Event Coordinator 
+3,2,0,Science Filmmaker
+3,0,2,Science Grants Manager
+3,0,2,Science Graphic Designer
+3,1,3,Science Illustrator/Animator
+3,3,2,Science Illustrator/Animator
+3,2,3,Science Illustrator/Animator
+3,4,3,Science Illustrator/Animator
+3,0,3,Science Illustrator/Animator
+3,1,1,Science journalist
+2,2,1,Science Journalist
+2,2,2,Science Journalist
+2,2,3,Science Journalist
+3,2,0,Science Journalist
+3,4,0,Science Journalist
+3,4,1,Science Journalist
+3,0,0,Science journalist
+3,0,1,Science journalist
+2,2,0,Science Journalist 
+3,0,2,Science Lab Equipment Sales Representative
+3,0,2,Science Lab Equipment Service Technician
+3,0,2,Science Lab Instructor
+3,1,3,Science Librarian
+3,3,2,Science Librarian
+3,3,3,Science librarian
+3,2,3,Science Librarian
+3,4,3,Science Librarian
+3,0,2,Science Librarian
+3,0,3,Science Librarian
+3,0,2,Science Market Research Analyst
+3,3,2,Science Museum Curator
+3,2,0,Science Museum Curator
+3,4,0,Science Museum Curator
+3,0,1,Science museum curator
+5,4,1,Science Museum Exhibit Designer
+3,3,3,Science museum exhibit developer
+3,0,2,Science Museum Exhibit Developer
+3,3,3,Science museum guide
+2,0,2,Science Museum Staff
+2,0,3,Science Museum Staff
+3,1,3,Science Museum Technician
+3,2,3,Science Museum Technician
+3,4,3,Science Museum Technician
+3,0,3,Science Museum Technician
+2,2,0,Science Outreach Coordinator
+2,2,1,Science Outreach Coordinator
+2,2,2,Science Outreach Coordinator
+2,2,3,Science Outreach Coordinator
+2,4,0,Science Outreach Coordinator
+2,4,1,Science Outreach Coordinator
+2,4,2,Science Outreach Coordinator
+2,4,3,Science Outreach Coordinator
+3,4,1,Science Outreach Coordinator
+3,0,2,Science Patent Lawyer
+3,2,0,Science Photographer
+3,0,2,Science Podcast Producer
+2,2,0,Science Policy Advisor
+2,2,1,Science Policy Advisor
+3,1,1,Science policy analyst
+3,1,3,Science Policy Analyst
+3,3,1,Science Policy Analyst
+3,3,2,Science Policy Analyst
+3,2,0,Science Policy Analyst
+3,2,3,Science Policy Analyst
+3,4,0,Science Policy Analyst
+3,4,3,Science Policy Analyst
+3,0,1,Science policy analyst
+3,0,3,Science Policy Analyst
+2,4,2,Science Program Coordinator
+2,4,3,Science Program Coordinator
+3,0,2,Science Program Coordinator
+3,3,3,Science program coordinator in non-profit or governmental organizations
+2,2,0,Science Program Director
+2,2,1,Science Program Director
+2,2,2,Science Program Director
+2,4,2,Science Sales Representative
+2,4,3,Science Sales Representative
+3,0,2,Science Social Media Manager
+5,1,2,Science Teacher
+3,1,1,Science teacher
+5,3,2,Science Teacher
+5,2,2,Science Teacher
+5,0,2,Science Teacher
+5,3,3,Science teacher or educator
+5,2,3,Science teacher or educator
+5,4,3,Science teacher or educator
+3,0,2,Science Technical Support Specialist
+3,0,2,Science Test Proctor
+3,0,2,Science Tutor
+3,0,2,Science Videographer
+3,0,2,Science Web Developer
+3,3,0,Science Writer
+2,2,0,Science Writer
+2,2,1,Science Writer
+2,2,2,Science Writer
+2,2,3,Science Writer
+3,2,0,Science Writer
+2,4,0,Science Writer
+2,4,1,Science Writer
+3,3,3,Science writer or science journalist
+5,2,1,Science Writer or Science Journalist
+3,1,3,Science Writer/Journalist
+3,3,1,Science Writer/Journalist
+3,3,2,Science Writer/Journalist
+3,2,2,Science Writer/Journalist
+3,2,3,Science Writer/Journalist
+3,4,3,Science Writer/Journalist
+3,0,3,Science Writer/Journalist
+3,4,0,Science YouTuber
+5,2,1,Scientific Illustrator
+3,2,0,Scientific Illustrator
+1,1,2,Securities Trader 
+4,1,2,Security Analyst
+4,1,3,Security Technician
+4,3,3,Security Technician
+4,0,3,Security Technician
+2,1,1,Seismologist
+4,2,2,SEO Specialist
+4,2,2,Service Delivery Manager
+4,4,1,Service Delivery Manager
+4,4,2,Service Delivery Manager
+4,3,2,Service Technician
+4,0,2,Service Technician
+0,0,0,Set Designer
+4,1,3,Shipping and Receiving Clerk
+4,3,3,Shipping and Receiving Clerk
+4,2,3,Shipping and Receiving Clerk
+4,4,3,Shipping and Receiving Clerk
+4,0,3,Shipping and Receiving Clerk
+1,3,3,Shipping and Receiving Clerk 
+1,0,2,Shipping and Receiving Clerk 
+0,0,1,Sign Painter
+0,0,2,Sign Painter
+0,0,3,Sign Painter
+1,2,2,Social Media Coordinator
+0,2,1,Social Media Coordinator
+0,2,3,Social Media Coordinator
+5,4,2,Social Media Coordinator
+0,2,2,Social Media Coordinator 
+1,4,2,Social Media Coordinator 
+1,2,0,Social Media Manager
+1,2,1,Social Media Manager
+1,4,1,Social Media Manager
+0,2,0,Social Media Manager 
+4,2,2,Social Media Specialist
+4,4,2,Social Media Specialist
+4,2,0,Software Developer
+4,4,0,Software Developer
+4,2,2,Software Development Manager
+4,4,1,Software Development Manager
+4,4,2,Software Development Manager
+4,1,0,Software Engineer
+4,1,1,Software Engineer
+4,3,0,Software Engineer
+4,0,0,Software Engineer
+4,0,1,Software Engineer
+3,3,0,Soil Scientist
+4,1,3,Solar Panel Installer
+4,3,3,Solar Panel Installer
+4,2,3,Solar Panel Installer
+4,4,3,Solar Panel Installer
+4,0,3,Solar Panel Installer
+4,2,0,Sound Engineer
+1,1,1,Statistician
+1,1,2,Stock Broker
+1,0,0,Stock Broker
+1,3,3,Stock Clerk
+1,0,3,Stock Clerk 
+4,1,0,Structural Engineer
+4,1,1,Structural Engineer
+4,3,0,Structural Engineer
+4,3,1,Structural Engineer
+4,2,1,Structural Engineer
+4,4,0,Structural Engineer
+4,0,0,Structural Engineer
+4,0,1,Structural Engineer
+0,3,0,Studio Manager
+0,2,2,Stylist Assistant
+0,2,3,Stylist Assistant
+0,2,1,Stylist Assistant 
+1,3,0,Supply Chain Manager
+4,4,1,Supply Chain Manager
+1,0,1,Supply Chain Manager
+4,3,2,Support Technician
+4,0,2,Support Technician
+5,1,2,Surgical Technologist
+5,3,2,Surgical Technologist
+5,2,2,Surgical Technologist
+5,0,2,Surgical Technologist
+2,1,2,Surveyor
+2,1,3,Surveyor
+2,3,0,Sustainability Consultant
+2,3,1,Sustainability Consultant
+5,3,3,Sustainability specialist
+3,3,0,Sustainability Specialist
+5,2,3,Sustainability specialist
+5,4,3,Sustainability specialist
+4,2,0,Systems Administrator
+4,1,2,Systems Analyst
+4,4,0,Systems Analyst
+4,1,0,Systems Engineer
+4,1,1,Systems Engineer
+4,3,0,Systems Engineer
+4,3,1,Systems Engineer
+4,2,1,Systems Engineer
+4,4,1,Systems Engineer
+4,0,0,Systems Engineer
+4,0,1,Systems Engineer
+1,2,1,Talent Acquisition Manager 
+1,4,1,Talent Acquisition Manager 
+1,2,1,Talent Development Manager
+1,4,1,Talent Development Manager
+1,0,0,Tax Accountant
+1,1,0,Tax Attorney
+1,0,1,Tax Consultant
+1,1,2,Tax Preparer 
+1,1,3,Tax Preparer 
+4,1,2,Technical Account Manager
+4,2,2,Technical Account Manager
+4,4,1,Technical Account Manager
+4,1,2,Technical Consultant
+4,2,2,Technical Consultant
+4,4,1,Technical Consultant
+4,4,2,Technical Consultant
+4,1,2,Technical Documentation Specialist
+4,1,3,Technical Documentation Specialist
+4,3,2,Technical Documentation Specialist
+4,3,3,Technical Documentation Specialist
+4,2,2,Technical Documentation Specialist
+4,2,3,Technical Documentation Specialist
+4,4,2,Technical Documentation Specialist
+4,4,3,Technical Documentation Specialist
+4,0,2,Technical Documentation Specialist
+4,0,3,Technical Documentation Specialist
+4,4,2,Technical Event Coordinator
+4,2,2,Technical Event Planner
+4,4,2,Technical Event Planner
+2,1,2,Technical Illustrator
+2,1,3,Technical Illustrator
+4,1,2,Technical Illustrator
+4,3,2,Technical Illustrator
+4,2,2,Technical Illustrator
+4,4,2,Technical Illustrator
+4,0,2,Technical Illustrator
+4,2,2,Technical Marketing Engineer
+4,4,1,Technical Marketing Engineer
+4,4,2,Technical Marketing Engineer
+4,1,2,Technical Product Manager
+4,2,2,Technical Product Manager
+4,4,1,Technical Product Manager
+4,4,2,Technical Product Manager
+4,1,2,Technical Program Manager
+4,2,2,Technical Program Manager
+4,4,1,Technical Program Manager
+4,4,2,Technical Program Manager
+4,1,2,Technical Project Coordinator
+4,3,2,Technical Project Coordinator
+4,0,2,Technical Project Coordinator
+4,1,2,Technical Project Manager
+4,2,1,Technical Project Manager
+4,2,2,Technical Project Manager
+4,4,1,Technical Project Manager
+4,4,2,Technical Project Manager
+4,1,2,Technical Recruiter
+4,1,3,Technical Recruiter
+4,3,3,Technical Recruiter
+4,2,2,Technical Recruiter
+4,2,3,Technical Recruiter
+4,4,1,Technical Recruiter
+4,4,2,Technical Recruiter
+4,4,3,Technical Recruiter
+4,0,3,Technical Recruiter
+4,1,0,Technical Sales Engineer
+4,1,1,Technical Sales Engineer
+4,3,0,Technical Sales Engineer
+4,2,1,Technical Sales Engineer
+2,4,0,Technical Sales Engineer
+2,4,1,Technical Sales Engineer
+4,0,0,Technical Sales Engineer
+4,0,1,Technical Sales Engineer
+4,1,2,Technical Sales Representative
+4,1,3,Technical Sales Representative
+4,3,2,Technical Sales Representative
+4,3,3,Technical Sales Representative
+4,2,2,Technical Sales Representative
+4,2,3,Technical Sales Representative
+4,4,0,Technical Sales Representative
+4,4,1,Technical Sales Representative
+4,4,2,Technical Sales Representative
+4,4,3,Technical Sales Representative
+5,4,2,Technical Sales Representative
+4,0,2,Technical Sales Representative
+4,0,3,Technical Sales Representative
+5,4,1,Technical Sales Representative for Biotechnology
+4,4,1,Technical Support Engineer
+2,3,2,Technical Support Representative
+2,3,3,Technical Support Representative
+2,4,2,Technical Support Representative
+2,4,3,Technical Support Representative
+5,3,1,Technical Support Scientist
+4,1,2,Technical Support Specialist
+4,1,3,Technical Support Specialist
+4,3,2,Technical Support Specialist
+4,3,3,Technical Support Specialist
+5,3,2,Technical Support Specialist
+4,2,2,Technical Support Specialist
+4,2,3,Technical Support Specialist
+5,2,2,Technical Support Specialist
+4,4,3,Technical Support Specialist
+2,0,1,Technical Support Specialist
+4,0,2,Technical Support Specialist
+4,0,3,Technical Support Specialist
+5,0,2,Technical Support Specialist
+4,1,2,Technical Trainer
+4,2,2,Technical Trainer
+4,4,1,Technical Trainer
+4,4,2,Technical Trainer
+4,1,2,Technical Writer
+4,1,3,Technical Writer
+5,1,2,Technical Writer
+3,1,3,Technical Writer
+4,3,1,Technical Writer
+4,3,2,Technical Writer
+4,3,3,Technical Writer
+5,3,2,Technical Writer
+4,2,1,Technical Writer
+4,2,2,Technical Writer
+4,2,3,Technical Writer
+5,2,1,Technical Writer
+5,2,2,Technical Writer
+4,4,1,Technical Writer
+4,4,2,Technical Writer
+4,4,3,Technical Writer
+2,0,0,Technical Writer
+2,0,2,Technical Writer
+2,0,3,Technical Writer
+4,0,2,Technical Writer
+4,0,3,Technical Writer
+5,0,2,Technical Writer
+3,0,2,Technical Writer for Science Materials
+5,1,3,Technical writer or editor
+5,3,3,Technical writer or editor
+5,2,3,Technical writer or editor
+5,4,3,Technical writer or editor
+5,0,3,Technical writer or editor
+4,2,1,Telecommunications Engineer
+4,1,3,Telecommunications Technician
+4,3,2,Telecommunications Technician
+4,3,3,Telecommunications Technician
+4,2,3,Telecommunications Technician
+4,4,3,Telecommunications Technician
+4,0,2,Telecommunications Technician
+4,0,3,Telecommunications Technician
+1,1,3,Telemarketer 
+4,3,1,Test Engineer
+4,2,1,Test Engineer
+4,1,3,Test Technician
+4,3,2,Test Technician
+4,3,3,Test Technician
+4,4,3,Test Technician
+4,0,2,Test Technician
+4,0,3,Test Technician
+4,1,3,Tool and Die Maker
+4,3,2,Tool and Die Maker
+4,3,3,Tool and Die Maker
+4,0,2,Tool and Die Maker
+4,0,3,Tool and Die Maker
+5,1,0,Toxicologist
+5,2,1,Toxicologist
+5,0,0,Toxicologist
+1,3,0,Training and Development Manager
+4,1,0,Transportation Engineer
+4,1,1,Transportation Engineer
+4,3,0,Transportation Engineer
+4,3,1,Transportation Engineer
+4,2,1,Transportation Engineer
+4,4,0,Transportation Engineer
+4,0,0,Transportation Engineer
+4,0,1,Transportation Engineer
+1,0,0,Treasury Analyst
+4,2,2,User Experience Designer
+4,4,0,User Experience Designer
+4,4,1,User Experience Designer
+4,4,2,User Experience Designer
+4,2,0,UX/UI Designer
+5,3,1,Validation Engineer
+3,1,0,Veterinarian
+3,1,1,Veterinarian
+3,3,1,Veterinarian
+3,2,2,Veterinarian
+3,4,3,Veterinary Assistant
+3,0,3,Veterinary Assistant
+5,1,2,Veterinary Technician
+3,1,3,Veterinary Technician
+5,3,2,Veterinary Technician
+3,3,3,Veterinary technician
+5,2,2,Veterinary Technician
+3,2,3,Veterinary Technician
+3,4,3,Veterinary Technician
+5,0,2,Veterinary Technician
+5,0,3,Veterinary technician
+5,1,0,Veterinary Technologist/Technician
+4,2,2,Video Producer
+4,2,3,Video Producer
+4,4,2,Video Producer
+4,4,3,Video Producer
+4,2,0,Virtual Reality Engineer
+5,4,2,Volunteer Coordinator
+1,4,3,Waiter/Waitress
+1,2,3,Waiter/Waitress 
+1,0,3,Warehouse Worker 
+3,3,0,Water Resource Manager
+4,1,0,Water Resources Engineer
+4,1,1,Water Resources Engineer
+4,3,0,Water Resources Engineer
+4,3,1,Water Resources Engineer
+4,4,0,Water Resources Engineer
+4,0,0,Water Resources Engineer
+4,0,1,Water Resources Engineer
+5,3,1,Water Treatment Engineer
+4,2,2,Web Designer
+4,2,3,Web Designer
+4,4,2,Web Designer
+4,4,3,Web Designer
+4,1,3,Welder
+4,3,2,Welder
+4,3,3,Welder
+4,2,3,Welder
+4,4,3,Welder
+4,0,2,Welder
+4,0,3,Welder
+5,4,2,Wellness Coach
+3,2,3,Wilderness Guide
+3,1,1,Wildlife biologist
+3,1,2,Wildlife Biologist
+5,3,2,Wildlife Biologist
+3,3,0,Wildlife Biologist
+3,3,1,Wildlife Biologist
+3,3,2,Wildlife Biologist
+5,2,2,Wildlife Biologist
+3,2,0,Wildlife Biologist
+3,2,2,Wildlife Biologist
+3,2,3,Wildlife Biologist
+3,4,3,Wildlife Biologist
+5,0,2,Wildlife Biologist
+3,0,1,Wildlife biologist
+3,2,3,Wildlife Law Enforcement Officer
+3,4,3,Wildlife Law Enforcement Officer
+3,2,3,Wildlife Photographer
+3,4,3,Wildlife Photographer
+3,0,3,Wildlife Rehabilitation Technician
+3,1,3,Wildlife Rehabilitator
+3,2,3,Wildlife Rehabilitator
+3,4,3,Wildlife Rehabilitator
+3,3,3,Wildlife technician
+3,2,3,Zoo Educator
+3,2,2,Zookeeper
+3,2,3,Zookeeper
+3,4,3,Zookeeper
+3,3,3,Zoological park technician
+3,4,3,Zoological Registrar
+5,1,2,Zoologist
+3,1,0,Zoologist
+3,1,1,Zoologist
+3,1,2,Zoologist
+5,3,2,Zoologist
+3,3,1,Zoologist
+3,3,2,Zoologist
+5,2,2,Zoologist
+3,2,0,Zoologist
+5,0,2,Zoologist
+3,0,1,Zoologist

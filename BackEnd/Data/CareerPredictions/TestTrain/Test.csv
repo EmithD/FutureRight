@@ -1,0 +1,218 @@
+Stream,Personality,Academic Performance,Career
+4,1,1,Control Systems Engineer
+4,3,0,Control Systems Engineer
+4,2,0,Control Systems Engineer
+4,4,0,Control Systems Engineer
+4,0,0,Control Systems Engineer
+4,0,1,Control Systems Engineer
+0,2,0,Copywriter
+0,2,1,Copywriter Assistant 
+0,2,2,Copywriter Assistant 
+0,2,3,Copywriter Assistant 
+1,1,0,Corporate Attorney
+1,0,0,Corporate Banker
+1,3,1,Corporate Social Responsibility Manager
+1,3,3,Courier
+0,1,0,Creative Director
+0,2,0,Creative Director
+1,1,2,Credit Analyst
+1,0,0,Credit Analyst
+3,0,2,Crime Scene Investigator
+4,1,2,Customer Service Manager
+1,3,0,Customer Service Manager
+4,2,2,Customer Service Manager
+4,2,3,Customer Service Manager
+4,4,1,Customer Service Manager
+4,4,2,Customer Service Manager
+1,4,0,Customer Service Manager
+1,1,3,Customer Service Representative
+4,3,2,Customer Service Representative
+1,2,3,Customer Service Representative
+4,4,2,Customer Service Representative
+4,4,3,Customer Service Representative
+0,4,1,Customer Service Representative
+0,4,2,Customer Service Representative
+4,0,2,Customer Service Representative
+1,0,3,Customer Service Representative
+1,4,3,Customer Service Representative 
+0,4,3,Customer Service Representative 
+1,0,2,Customer Service Representative 
+5,4,1,Customer Service Representative for Biotechnology
+1,2,2,Customer Service Supervisor
+1,4,2,Customer Service Supervisor
+5,4,2,Customer Support Specialist
+4,2,0,Cybersecurity Analyst
+4,1,2,Data Analyst
+1,1,0,Data Analyst
+4,2,2,Data Analyst
+4,4,1,Data Analyst
+2,0,1,Data Analyst
+4,2,1,Data Center Engineer
+2,0,2,Data Entry Clerk
+2,0,3,Data Entry Clerk
+1,3,3,Data Entry Clerk 
+1,0,3,Data Entry Clerk 
+4,1,3,Data Entry Specialist
+4,3,2,Data Entry Specialist
+4,3,3,Data Entry Specialist
+4,2,3,Data Entry Specialist
+4,4,3,Data Entry Specialist
+4,0,2,Data Entry Specialist
+4,0,3,Data Entry Specialist
+0,4,2,Sales Associate
+1,4,3,Sales Associate 
+0,4,3,Sales Associate 
+1,0,2,Sales Associate 
+1,0,3,Sales Associate 
+4,3,1,Sales Engineer
+4,2,2,Sales Engineer
+4,4,0,Sales Engineer
+4,4,1,Sales Engineer
+4,4,2,Sales Engineer
+5,4,2,Sales Engineer
+4,1,2,Sales Manager
+4,2,3,Sales Manager
+1,2,0,Sales Manager
+4,4,2,Sales Manager
+4,4,3,Sales Manager
+1,4,0,Sales Manager
+1,2,1,Sales Manager 
+1,4,1,Sales Manager 
+0,4,0,Sales Representative
+1,2,2,Sales Representative 
+1,4,2,Sales Representative 
+2,4,0,Sales Representative for Science Products
+4,1,2,Technical Project Coordinator
+4,3,2,Technical Project Coordinator
+4,0,2,Technical Project Coordinator
+4,1,2,Technical Project Manager
+4,2,1,Technical Project Manager
+4,2,2,Technical Project Manager
+4,4,1,Technical Project Manager
+4,4,2,Technical Project Manager
+4,1,2,Technical Recruiter
+4,1,3,Technical Recruiter
+4,3,3,Technical Recruiter
+4,2,2,Technical Recruiter
+4,2,3,Technical Recruiter
+4,4,1,Technical Recruiter
+4,4,2,Technical Recruiter
+4,4,3,Technical Recruiter
+4,0,3,Technical Recruiter
+4,1,0,Technical Sales Engineer
+4,1,1,Technical Sales Engineer
+4,3,0,Technical Sales Engineer
+4,2,1,Technical Sales Engineer
+2,4,0,Technical Sales Engineer
+2,4,1,Technical Sales Engineer
+4,0,0,Technical Sales Engineer
+4,0,1,Technical Sales Engineer
+4,1,2,Technical Sales Representative
+4,1,3,Technical Sales Representative
+4,3,2,Technical Sales Representative
+4,3,3,Technical Sales Representative
+4,2,2,Technical Sales Representative
+4,2,3,Technical Sales Representative
+4,4,0,Technical Sales Representative
+4,4,1,Technical Sales Representative
+4,4,2,Technical Sales Representative
+4,4,3,Technical Sales Representative
+5,4,2,Technical Sales Representative
+4,0,2,Technical Sales Representative
+4,0,3,Technical Sales Representative
+5,4,1,Technical Sales Representative for Biotechnology
+4,4,1,Technical Support Engineer
+2,3,2,Technical Support Representative
+2,3,3,Technical Support Representative
+2,4,2,Technical Support Representative
+2,4,3,Technical Support Representative
+5,3,1,Technical Support Scientist
+4,1,2,Technical Support Specialist
+4,1,3,Technical Support Specialist
+4,3,2,Technical Support Specialist
+4,3,3,Technical Support Specialist
+5,3,2,Technical Support Specialist
+4,2,2,Technical Support Specialist
+4,2,3,Technical Support Specialist
+5,2,2,Technical Support Specialist
+4,4,3,Technical Support Specialist
+2,0,1,Technical Support Specialist
+3,2,2,Veterinarian
+3,4,3,Veterinary Assistant
+3,0,3,Veterinary Assistant
+5,1,2,Veterinary Technician
+3,1,3,Veterinary Technician
+5,3,2,Veterinary Technician
+3,3,3,Veterinary technician
+5,2,2,Veterinary Technician
+3,2,3,Veterinary Technician
+3,4,3,Veterinary Technician
+5,0,2,Veterinary Technician
+5,0,3,Veterinary technician
+5,1,0,Veterinary Technologist/Technician
+4,2,2,Video Producer
+4,2,3,Video Producer
+4,4,2,Video Producer
+4,4,3,Video Producer
+4,2,0,Virtual Reality Engineer
+5,4,2,Volunteer Coordinator
+1,4,3,Waiter/Waitress
+1,2,3,Waiter/Waitress 
+1,0,3,Warehouse Worker 
+3,3,0,Water Resource Manager
+4,1,0,Water Resources Engineer
+4,1,1,Water Resources Engineer
+4,3,0,Water Resources Engineer
+4,3,1,Water Resources Engineer
+4,4,0,Water Resources Engineer
+4,0,0,Water Resources Engineer
+4,0,1,Water Resources Engineer
+5,3,1,Water Treatment Engineer
+4,2,2,Web Designer
+4,2,3,Web Designer
+4,4,2,Web Designer
+4,4,3,Web Designer
+4,1,3,Welder
+4,3,2,Welder
+4,3,3,Welder
+4,2,3,Welder
+4,4,3,Welder
+4,0,2,Welder
+4,0,3,Welder
+5,4,2,Wellness Coach
+3,2,3,Wilderness Guide
+3,1,1,Wildlife biologist
+3,1,2,Wildlife Biologist
+5,3,2,Wildlife Biologist
+3,3,0,Wildlife Biologist
+3,3,1,Wildlife Biologist
+3,3,2,Wildlife Biologist
+5,2,2,Wildlife Biologist
+3,2,0,Wildlife Biologist
+3,2,2,Wildlife Biologist
+3,2,3,Wildlife Biologist
+3,4,3,Wildlife Biologist
+5,0,2,Wildlife Biologist
+3,0,1,Wildlife biologist
+3,2,3,Wildlife Law Enforcement Officer
+3,4,3,Wildlife Law Enforcement Officer
+3,2,3,Wildlife Photographer
+3,4,3,Wildlife Photographer
+3,0,3,Wildlife Rehabilitation Technician
+3,1,3,Wildlife Rehabilitator
+3,2,3,Wildlife Rehabilitator
+3,4,3,Wildlife Rehabilitator
+3,3,3,Wildlife technician
+3,2,3,Zoo Educator
+3,2,2,Zookeeper
+3,2,3,Zookeeper
+3,4,3,Zookeeper
+3,3,3,Zoological park technician
+3,4,3,Zoological Registrar
+5,1,2,Zoologist
+3,1,0,Zoologist
+3,1,1,Zoologist
+3,1,2,Zoologist
+5,3,2,Zoologist
+3,3,1,Zoologist
+3,3,2,Zoologist
