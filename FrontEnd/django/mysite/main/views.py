@@ -5,3 +5,6 @@ from django.http import HttpResponse
 
 def index(response):
     return render(response, "main/base.html", {})
+
+
+
