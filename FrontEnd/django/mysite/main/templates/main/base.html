@@ -25,39 +25,34 @@
         </div>
     </header>
 
-    <section class="main">
-        <video src="{% static 'futureright-background.mp4' %}" autoplay loop muted></video>
-        <img src="images/Background.jpg" class="backgroundimg" alt="backgroundmask">
-        <!--h2>FutureRight</h2-->
-        <!--p class="copyrightText">© copyrightText - 2023</p-->
-        <ul class="socialMedia">
-            <li><a href="#"><ion-icon name="logo-facebook"></ion-icon></a></li>
-            <li><a href="#"><ion-icon name="logo-twitter"></ion-icon></a></li>
-            <li><a href="#"><ion-icon name="logo-instagram"></ion-icon></a></li>
-            <li><a href="#"><ion-icon name="logo-linkedin"></ion-icon></a></li>
-        </ul>
-    </section>
-
+            <!-- main class background video, mask, social media -->
+            <section class="main">
+                <video src="{% static 'futureright-background.mp4' %}" autoplay loop muted></video>
+                <img src="{% static 'Background.jpg' %}" class="backgroundimg" alt="backgroundmask">
+                <!--h2>FutureRight</h2-->
+                <!--p class="copyrightText">© copyrightText - 2023</p-->
+                <ul class="socialMedia">
+                    <li><a href="#"><ion-icon name="logo-facebook"></ion-icon></a></li>
+                    <li><a href="#"><ion-icon name="logo-twitter"></ion-icon></a></li>
+                    <li><a href="#"><ion-icon name="logo-instagram"></ion-icon></a></li>
+                    <li><a href="#"><ion-icon name="logo-linkedin"></ion-icon></a></li>
+                </ul>
+            </section>
+    
+    <footer>
      <!--Navigation Sidebar-->
      <ul class="navigation">
-        <li><a href="home.html">Home</a></li>
-        <li><a href="Start_Test.html">Start Test</a></li>
-        <li><a href="Review_Test.html">Review Test</a></li>
-        <li><a href="Help.html">Help</a></li>
-        <li><a href="about_us.html">About</a></li>
-    </ul>
-    <ul class="socialMedia">
-        <li><a href="#"><ion-icon name="logo-facebook"></ion-icon></a></li>
-        <li><a href="#"><ion-icon name="logo-twitter"></ion-icon></a></li>
-        <li><a href="#"><ion-icon name="logo-instagram"></ion-icon></a></li>
-        <li><a href="#"><ion-icon name="logo-linkedin"></ion-icon></a></li>
+        <li><a href="base.html">Home</a></li>
+        <li><a href="{% url 'start_test' %}">Start Test</a></li>
+        <li><a href="{% url 'review_test' %}">Review Test</a></li>
+        <li><a href="{% url 'help' %}">Help</a></li>
+        <li><a href="{% url 'about_us' %}">About</a></li>
     </ul>
              <!--footer -->
-            <footer>
-                <p class="footer1">
-                Powered by<i><b>Heathens</b></i>
-                </p>
-            </footer> 
+        <p class="footer1">
+        Powered by<i><b>Heathens</b></i>
+        </p>
+    </footer> 
 
 </body>
 <!-- Link for webpage icons sourcecode -->
