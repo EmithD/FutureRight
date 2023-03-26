@@ -5,6 +5,9 @@ from django.http import HttpResponse
 
 def index(response):
     return render(response, "main/base.html", {})
+    return new_func(response)
+
+def about(response):
     return render(response, "main/about_us.html", {})
 
 
