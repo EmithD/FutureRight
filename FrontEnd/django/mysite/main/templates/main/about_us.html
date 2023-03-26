@@ -7,7 +7,7 @@
         <!-- <link rel="stylesheet" href="website_styles.css"> -->
         <link rel="icon" href="images/frlogo.png" type="image/x-icon">
         {% load static %}
-        <link rel="stylesheet" href="{% static 'stylesheet.css' %}">
+        <link rel="stylesheet" href="{% static 'add_content.css' %}">
     </head>
     <body>
         <!-- header -->
@@ -28,14 +28,14 @@
         </header>
 
 
-        <!--Navigation Sidebar-->
-        <ul class="navigation">
-            <li><a href="Main_Page.html">Home</a></li>
-            <li><a href="Start_Test.html">Start Test</a></li>
-            <li><a href="Review_Test.html">Review Test</a></li>
-            <li><a href="Help.html">Help</a></li>
-            <li><a href="about_us.html">About</a></li>
-        </ul>
+     <!--Navigation Sidebar-->
+     <ul class="navigation">
+        <li><a href="base.html">Home</a></li>
+        <li><a href="Start_Test.html">Start Test</a></li>
+        <li><a href="Review_Test.html">Review Test</a></li>
+        <li><a href="{% url 'help' %}">Help</a></li>
+        <li><a href="{% url 'about_us' %}">About</a></li>
+    </ul>
 
         <div class="pageNav">
             <ul>
@@ -49,7 +49,7 @@
         <div class="contentWrap">
             <div class="addContant" id="WhoWeAre"> 
                 <div class="sideImage">
-                    <img src="images/add/img-002.jpg" alt="aboutus">
+                    <img src="{% static 'img-002.jpg' %}" alt="aboutus">
                 </div>
                 <div class="contentBox">
                     <h1><a>Who We Are</a></h1>
@@ -68,12 +68,12 @@
                     </div>
                 </div>
                 <div class="sideImage">
-                    <img src="images/add/img-006.jpg" alt="aboutus">
+                    <img src="{% static 'img-006.jpg' %}" alt="aboutus">
                 </div>
             </div>
             <div class="addContant" id="project-s">
                 <div class="sideImage">
-                    <img src="images/add/img-007.jpg" alt="aboutus">
+                    <img src="{% static 'img-007.jpg' %}" alt="aboutus">
                 </div>
                 <div class="contentBox">
                     <h1><a>Project Scope</a></h1>
@@ -108,7 +108,7 @@
                     </div>
                 </div>
                 <div class="sideImage">
-                    <img src="images/add/img-005.jpg" alt="aboutus">
+                    <img src="{% static 'img-005.jpg' %}" alt="aboutus">
                 </div>
             </div>
         </div>
