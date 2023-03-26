@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>About Us</title>
+        <!-- <link rel="stylesheet" href="website_styles.css"> -->
+        <link rel="icon" href="images/frlogo.png" type="image/x-icon">
+        <link rel="stylesheet" href="{% static 'stylesheet.css' %}">
+    </head>
+    <body>
+        <!-- header -->
+        <header>
+            <!-- Web site logo -->
+            <a href="Main_Page.html" class="logo">FutureRight✓</a>
+            <!-- Day and Night Themes changer and menu -->
+            <div class="rightSide">
+                <div class="buttons dayNight">
+                    <ion-icon name="moon-outline"></ion-icon>
+                    <ion-icon name="sunny-outline"></ion-icon>
+                </div>
+                <div class="buttons menuToggle">
+                    <ion-icon name="menu-outline"></ion-icon>
+                    <ion-icon name="close-outline"></ion-icon>
+                </div>
+            </div>
+        </header>
+
+
+        <!--Navigation Sidebar-->
+        <ul class="navigation">
+            <li><a href="Main_Page.html">Home</a></li>
+            <li><a href="Start_Test.html">Start Test</a></li>
+            <li><a href="Review_Test.html">Review Test</a></li>
+            <li><a href="Help.html">Help</a></li>
+            <li><a href="about_us.html">About</a></li>
+        </ul>
+
+        <div class="pageNav">
+            <ul>
+                <li class="navigate"><a href="#WhoWeAre">Who We Are</a></li>
+                <li class="navigate"><a href="#project-b">Project Background</a></li>
+                <li class="navigate"><a href="#project-s">Project Scope</a></li>
+                <li class="navigate"><a href="#aim">Aim</a></li>
+            </ul>
+        </div>
+
+        <div class="contentWrap">
+            <div class="addContant" id="WhoWeAre"> 
+                <div class="sideImage">
+                    <img src="images/add/img-002.jpg" alt="aboutus">
+                </div>
+                <div class="contentBox">
+                    <h1><a>Who We Are</a></h1>
+                    <div class="card">
+                        <h3>We are Heathens (SE-77), a group of second year undergraduate students following BEng(Hons) Software Engineering Degree at Informatics Institute of Technology(IIT), affiliated with University of Westminster UK.
+                        </h3>
+                    </div>
+                </div>
+            </div>
+            <div class="addContant" id="project-b">
+                <div class="contentBox">
+                    <h1><a>Project Background</a></h1>
+                    <div class="card">
+                        <h3>The goal of this project is to support students, especially school leavers who do not have a clear scheme as to what career they are going to pursue. The project will be a web-application where the user can take part in a questionnaire that would assess their personality, interests and hobbies which will help the system to deduce a suitable career for the user using Machine Learning (ML). The project will not contain any restrictions and would be suitable for any user at any point in education for example: a postgraduate unhappy with the current career opting for a career switch or a student who just left school after their Advanced Level examinations (AL).
+                        </h3>
+                    </div>
+                </div>
+                <div class="sideImage">
+                    <img src="images/add/img-006.jpg" alt="aboutus">
+                </div>
+            </div>
+            <div class="addContant" id="project-s">
+                <div class="sideImage">
+                    <img src="images/add/img-007.jpg" alt="aboutus">
+                </div>
+                <div class="contentBox">
+                    <h1><a>Project Scope</a></h1>
+                    <div class="card">
+                        <h3> In-Scope
+                            <br>
+                            <br>
+                             • The user must answer accurately to the questionnaire in order to obtain a much tailored result.
+                            <br>
+                             • A well structured report with the user’s personality score, interests, career paths, occupations and trends in the recommended career will be generated and provided to the user.
+                             <br>
+                             <br>
+                             Out-Scope
+                             <br>
+                             <br>
+                             • Provide consulting services with career guidance counselors.
+                             <br>
+                             • Recommend universities and/or institutes where a student can pursue a career.
+                        </h3>
+                    </div>
+                </div>
+            </div>
+            <div class="addContant">
+    
+                <div class="contentBox" id="aim">
+                    <h1><a>Aim</a></h1>
+                    <div class="card">
+                        <h3>Choosing a right career for any individual is one of the most crucial decisions of their lives. This decision can also be very hard for certain individuals to make due to the sheer number of choices that exist in the current ever-developing world. More factors that affect poor career choices is the lack of confidence, lack of maturity and lack of not having proper knowledge of the suitability of themselves for a certain career. In order for a person to gain remarkable success in a certain career path they choose they must not only be good at what they choose but also be passionate and driven in the respective career they chose. With individuals who are content and right for their career many problems in the society can be addressed and overcome with ease.
+                        The use of technology in the educational sector has been in practice for a considerable amount of time. Therefore, the primary goal of the authors of this research is to factor in aspects of an individual such as personality traits, interests and hobbies to come up with the perfect career path recommendation using machine learning and properly tuned data sets.
+                        So join us and you can decide your right career paths.
+                        </h3>
+                    </div>
+                </div>
+                <div class="sideImage">
+                    <img src="images/add/img-005.jpg" alt="aboutus">
+                </div>
+            </div>
+        </div>
+        <!--footer-->
+        <footer>
+            <p class="footer1">
+            Powered by<i><b>Heathens</b></i>
+            </p>
+        </footer>
+        <!-- External javascript link -->
+        <script src="js/website_javascript.js"></script>
+
+<!-- Link for webpage icons sourcecode -->
+<script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+<script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+<script src="{% static 'website_javascript.js' %}"></script>
+    </body>
+</html>
+
