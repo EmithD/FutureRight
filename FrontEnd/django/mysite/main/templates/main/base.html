@@ -9,6 +9,46 @@
     <link rel="stylesheet" href="{% static 'stylesheet.css' %}">
 </head>
 <body>
-    <h1 class="title">Hello</h1>
+    <header>
+        <!-- Web site logo -->
+        <a href="home.html" class="logo">FutureRight✓</a>
+        <!-- Day and Night Themes changer and menu -->
+        <div class="rightSide">
+            <div class="buttons dayNight">
+                <ion-icon name="moon-outline"></ion-icon>
+                <ion-icon name="sunny-outline"></ion-icon>
+            </div>
+            <div class="buttons menuToggle">
+                <ion-icon name="menu-outline"></ion-icon>
+                <ion-icon name="close-outline"></ion-icon>
+            </div>
+        </div>
+    </header>
+
+     <!--Navigation Sidebar-->
+     <ul class="navigation">
+        <li><a href="home.html">Home</a></li>
+        <li><a href="Start_Test.html">Start Test</a></li>
+        <li><a href="Review_Test.html">Review Test</a></li>
+        <li><a href="Help.html">Help</a></li>
+        <li><a href="about_us.html">About</a></li>
+    </ul>
+    <ul class="socialMedia">
+        <li><a href="#"><ion-icon name="logo-facebook"></ion-icon></a></li>
+        <li><a href="#"><ion-icon name="logo-twitter"></ion-icon></a></li>
+        <li><a href="#"><ion-icon name="logo-instagram"></ion-icon></a></li>
+        <li><a href="#"><ion-icon name="logo-linkedin"></ion-icon></a></li>
+    </ul>
+             <!--footer -->
+            <footer>
+                <p class="footer1">
+                Powered by<i><b>Heathens</b></i>
+                </p>
+            </footer> 
+
 </body>
+<!-- Link for webpage icons sourcecode -->
+<script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+<script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+<script src="{% static 'website_javascript.js' %}"></script>
 </html>
