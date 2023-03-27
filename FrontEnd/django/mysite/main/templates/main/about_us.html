@@ -13,7 +13,7 @@
         <!-- header -->
         <header>
             <!-- Web site logo -->
-            <a href="Main_Page.html" class="logo">FutureRight✓</a>
+            <a href="{% url 'home' %}" class="logo">FutureRight✓</a>
             <!-- Day and Night Themes changer and menu -->
             <div class="rightSide">
                 <div class="buttons dayNight">
@@ -30,9 +30,9 @@
 
      <!--Navigation Sidebar-->
      <ul class="navigation">
-        <li><a href="base.html">Home</a></li>
-        <li><a href="Start_Test.html">Start Test</a></li>
-        <li><a href="Review_Test.html">Review Test</a></li>
+        <li><a href="{% url 'home' %}">Home</a></li>
+        <li><a href="{% url 'start_test' %}">Start Test</a></li>
+        <li><a href="{% url 'review_test' %}">Review Test</a></li>
         <li><a href="{% url 'help' %}">Help</a></li>
         <li><a href="{% url 'about_us' %}">About</a></li>
     </ul>
