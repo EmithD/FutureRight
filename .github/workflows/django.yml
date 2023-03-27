@@ -28,4 +28,4 @@ jobs:
         pip install pandas
     - name: Run Tests
       run: |
-        python manage.py test
+        python Frontend/mysite/manage.py test
