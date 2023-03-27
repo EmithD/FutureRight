@@ -45,5 +45,3 @@ def test(response):
         prediction_value = prediction[0]
         
     return render(response, "main/Review_Test.html", { 'personality':prediction_value })
-
-
