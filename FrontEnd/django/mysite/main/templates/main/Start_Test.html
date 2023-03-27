@@ -33,7 +33,6 @@
             </ul>
 
 
-
         <!-- Query form -->
         <div class="queryform">
 
@@ -45,7 +44,7 @@
                 <form id="quaryform" name="quaryform" method="POST" action="{% url 'test' %}">
                     <!-- age  -->
                     <label for="age">Age</label>
-                    <input type="number" id="age" min="1" max="100" name="age" placeholder="Your age..">
+                    <input type="number" id="age" min="1" max="100" name="age" placeholder="Your age.."><br>
                     <!-- gender selector -->
                     <label for="gender">Gender</label>
                     <br>
@@ -179,7 +178,7 @@
 
 
         <!-- External javascript link -->
-        <script src="js/website_javascript.js"></script>
+        <script src="{% static 'website_javascript.js' %}"></script>
 
         <!-- Link for webpage icons sourcecode -->
 <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
