@@ -1,6 +1,8 @@
 from django.shortcuts import render
 from django.views.decorators.csrf import csrf_exempt
-from .mlModels import personality_model
+import joblib
+import os
+from django.conf import settings
 
 # Create your views here.
 
@@ -21,10 +23,9 @@ def review_test(response):
 
 @csrf_exempt
 def test(response):
+    
     if response.method == 'POST':
         
-        #importing the ML model
-    
         age = int(response.POST['age'])
         gender_str = str(response.POST['gender'])
         
@@ -38,10 +39,12 @@ def test(response):
         conscientiousness = int(response.POST['conscientiousness'])
         agreeableness = int(response.POST['agreeableness'])
         extraversion = int(response.POST['extraversion'])
-        
+
         personality_values_1 = [[gender_value, age, openness, neuroticism, conscientiousness, agreeableness, extraversion]]
-        theModel = personality_model
-        prediction = theModel.predict(personality_values_1)
-        prediction_value = prediction[0]
         
-    return render(response, "main/Review_Test.html", { 'personality':prediction_value })
+        path = os.path.join(settings.BASE_DIR, 'mysite\\PersonalityTestLogisticRegression.joblib')
+        model = joblib.load(path)
+        
+        finalPred = model.predict(personality_values_1)[0]
+        
+    return render(response, "main/Review_Test.html", { 'personality':finalPred })
