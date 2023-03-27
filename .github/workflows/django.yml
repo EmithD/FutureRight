@@ -26,8 +26,8 @@ jobs:
         python -m pip install --upgrade pip
         pip install scikit-learn
         pip install pandas
-    - name: List files in working directory
-      run: ls -R
-#     - name: Run Tests
-#       run: |
-#         python Frontend/mysite/manage.py test
+#     - name: List files in working directory
+#       run: ls -R
+    - name: Run Tests
+      run: |
+        python ./FrontEnd/django/mysitemanage.py test
