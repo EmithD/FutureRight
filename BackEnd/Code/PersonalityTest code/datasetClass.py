@@ -1,22 +1,23 @@
 import pandas as pd
 from sklearn.model_selection import train_test_split
+from sklearn.preprocessing import MinMaxScaler
 
 #PREPROCESSING ATTEMPT 1
 
-#Training datasets
-trainingDf = pd.read_csv('BackEnd\\Data\\PersonalityTest\\train.csv')
-# trainingDf['Gender'].replace({'Male':1, 'Female':0}, inplace=True)
-trainingX = trainingDf.drop(columns=['Personality (Class label)', 'Gender', 'Age'])
-trainingy = trainingDf["Personality (Class label)"]
+# #Training datasets
+# trainingDf = pd.read_csv('BackEnd\\Data\\PersonalityTest\\train.csv')
+# # trainingDf['Gender'].replace({'Male':1, 'Female':0}, inplace=True)
+# trainingX = trainingDf.drop(columns=['Personality (Class label)', 'Gender', 'Age'])
+# trainingy = trainingDf["Personality (Class label)"]
 
-#Testing datasets
-testingDf = pd.read_csv('BackEnd\\Data\\PersonalityTest\\test.csv')
-# testingDf['Gender'].replace({'Male':1, 'Female':0}, inplace=True)
-testingX = testingDf.drop(columns=['Personality (class label)', 'Gender', 'Age'])
-testingy = testingDf["Personality (class label)"]
+# #Testing datasets
+# testingDf = pd.read_csv('BackEnd\\Data\\PersonalityTest\\test.csv')
+# # testingDf['Gender'].replace({'Male':1, 'Female':0}, inplace=True)
+# testingX = testingDf.drop(columns=['Personality (class label)', 'Gender', 'Age'])
+# testingy = testingDf["Personality (class label)"]
 
-#Test_Train splitting the Training dataset
-X_train_split, X_test_split, y_train_split, y_test_split= train_test_split(trainingX, trainingy, test_size=0.2)
+# #Test_Train splitting the Training dataset
+# X_train_split, X_test_split, y_train_split, y_test_split= train_test_split(trainingX, trainingy, test_size=0.2)
 
 #####################################################################################################################################
 #PREPROCESSING ATTEMPT 2
@@ -39,6 +40,12 @@ main_train_y = train_df[7]
 
 for i in range(len(main_train_y)):
     main_train_y[i] = str(main_train_y[i])
+    
+#minmax scaling
+# scaler = MinMaxScaler()
+# normalized_trainingdata = scaler.fit_transform(train_array_X)
+# main_train_df_X = pd.DataFrame(normalized_trainingdata)
+# main_train_array_X = main_train_df_X.values
 
 #Testing Datasets
 test_data = pd.read_csv('BackEnd\\Data\\PersonalityTest\\test.csv')
