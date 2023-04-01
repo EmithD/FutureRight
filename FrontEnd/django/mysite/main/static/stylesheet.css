@@ -427,3 +427,15 @@ background: black;
 border: none;
 outline: none;
 }
+.tacbox {
+    display: block;
+    position: absolute;
+    right: 150px;
+    padding: 1em;
+    margin: 1em;
+    border: 3px solid black;
+    background-color: #eee;
+    max-width: 400px;
+    color: var(--black);
+    background-color: var(--white);
+  }
