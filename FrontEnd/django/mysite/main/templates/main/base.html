@@ -11,7 +11,7 @@
 <body>
     <header>
         <!-- Web site logo -->
-        <a href="home.html" class="logo">FutureRight✓</a>
+        <a href="{% url 'home' %}" class="logo">FutureRight✓</a>
         <!-- Day and Night Themes changer and menu -->
         <div class="rightSide">
             <div class="buttons dayNight">
@@ -42,12 +42,13 @@
     <footer>
      <!--Navigation Sidebar-->
      <ul class="navigation">
-        <li><a href="base.html">Home</a></li>
+        <li><a href="{% url 'home' %}">Home</a></li>
         <li><a href="{% url 'start_test' %}">Start Test</a></li>
         <li><a href="{% url 'review_test' %}">Review Test</a></li>
         <li><a href="{% url 'help' %}">Help</a></li>
         <li><a href="{% url 'about_us' %}">About</a></li>
     </ul>
+    
              <!--footer -->
         <p class="footer1">
         Powered by<i><b>Heathens</b></i>

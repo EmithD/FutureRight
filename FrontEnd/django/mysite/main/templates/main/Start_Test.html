@@ -11,7 +11,7 @@
     <body>
        <header>
             <!-- Web site logo -->
-            <a href="Main_Page.html" class="logo">FutureRight✓</a>
+            <a href="{% url 'home' %}"  class="logo">FutureRight✓</a>
             <!-- Day and Night Themes changer and menu -->
             <div class="rightSide">
                 <div class="buttons dayNight">
@@ -33,7 +33,6 @@
             </ul>
 
 
-
         <!-- Query form -->
         <div class="queryform">
 
@@ -41,10 +40,11 @@
                 <!-- Heading -->
                 <b>Personality Test</b><br><br>
                 <!-- Form -->
-                <form action="Review_Test.html" id="quaryform" name="quaryform" onsubmit="return formValidation()" method="get">
+                {% csrf_token %}
+                <form id="quaryform" name="quaryform" method="POST" action="{% url 'test' %}">
                     <!-- age  -->
                     <label for="age">Age</label>
-                    <input type="text" id="age" name="age" placeholder="Your age..">
+                    <input type="number" id="age" min="1" max="100" name="age" placeholder="Your age.."><br>
                     <!-- gender selector -->
                     <label for="gender">Gender</label>
                     <br>
@@ -58,18 +58,18 @@
                     <h5>Openness</h5>
                     <br>
                   <div class="slider">
-                    <input type="range" min="0" max="10" value="0" id="fader" step="1" list="volsettings">
+                    <input type="range" min="0" max="10" value="0" id="fader" step="1" list="volsettings" name="openness">
                     <datalist id="volsettings">
-                    <option>1</option>
-                    <option>2</option>
-                    <option>3</option>
-                    <option>4</option>
-                    <option>5</option>
-                    <option>6</option>
-                    <option>7</option>
-                    <option>8</option>
-                    <option>9</option>
-                    <option>10</option>
+                    <option value=1>1</option>
+                    <option value=2>2</option>
+                    <option value=3>3</option>
+                    <option value=4>4</option>
+                    <option value=5>5</option>
+                    <option value=6>6</option>
+                    <option value=7>7</option>
+                    <option value=8>8</option>
+                    <option value=9>9</option>
+                    <option value=10>10</option>
                     </datalist>
                 </div>
                 <br>
@@ -78,18 +78,18 @@
                     <h5>Neuroticism</h5>
                     <br>
                   <div class="slider">
-                    <input type="range" min="0" max="10" value="0" id="fader" step="1" list="volsettings">
+                    <input type="range" min="0" max="10" value="0" id="fader" step="1" list="volsettings" name="neuroticism">
                     <datalist id="volsettings">
-                    <option>1</option>
-                    <option>2</option>
-                    <option>3</option>
-                    <option>4</option>
-                    <option>5</option>
-                    <option>6</option>
-                    <option>7</option>
-                    <option>8</option>
-                    <option>9</option>
-                    <option>10</option>
+                    <option value=1>1</option>
+                    <option value=2>2</option>
+                    <option value=3>3</option>
+                    <option value=4>4</option>
+                    <option value=5>5</option>
+                    <option value=6>6</option>
+                    <option value=7>7</option>
+                    <option value=8>8</option>
+                    <option value=9>9</option>
+                    <option value=10>10</option>
                     </datalist>
                 </div>
                 <br>
@@ -98,18 +98,18 @@
                     <h5>Conscientiousness</h5>
                     <br>
                   <div class="slider">
-                    <input type="range" min="0" max="10" value="0" id="fader" step="1" list="volsettings">
+                    <input type="range" min="0" max="10" value="0" id="fader" step="1" list="volsettings" name="conscientiousness">
                     <datalist id="volsettings">
-                    <option>1</option>
-                    <option>2</option>
-                    <option>3</option>
-                    <option>4</option>
-                    <option>5</option>
-                    <option>6</option>
-                    <option>7</option>
-                    <option>8</option>
-                    <option>9</option>
-                    <option>10</option>
+                    <option value=1>1</option>
+                    <option value=2>2</option>
+                    <option value=3>3</option>
+                    <option value=4>4</option>
+                    <option value=5>5</option>
+                    <option value=6>6</option>
+                    <option value=7>7</option>
+                    <option value=8>8</option>
+                    <option value=9>9</option>
+                    <option value=10>10</option>
                     </datalist>
                 </div>
                 <br>
@@ -118,38 +118,38 @@
                     <h5>Agreeableness</h5>
                     <br>
                   <div class="slider">
-                    <input type="range" min="0" max="10" value="0" id="fader" step="1" list="volsettings">
+                    <input type="range" min="0" max="10" value="0" id="fader" step="1" list="volsettings" name="agreeableness">
                     <datalist id="volsettings">
-                    <option>1</option>
-                    <option>2</option>
-                    <option>3</option>
-                    <option>4</option>
-                    <option>5</option>
-                    <option>6</option>
-                    <option>7</option>
-                    <option>8</option>
-                    <option>9</option>
-                    <option>10</option>
+                    <option value=1>1</option>
+                    <option value=2>2</option>
+                    <option value=3>3</option>
+                    <option value=4>4</option>
+                    <option value=5>5</option>
+                    <option value=6>6</option>
+                    <option value=7>7</option>
+                    <option value=8>8</option>
+                    <option value=9>9</option>
+                    <option value=10>10</option>
                     </datalist>
                 </div>
                 <br>
                 <br>
-                <label for="slider">Here are come personality traits Rate yourself to each of them from 1-10</label>
+                <label for="slider">Here are some personality traits Rate yourself to each of them from 1-10</label>
                     <h5>Extraversion</h5>
                     <br>
                   <div class="slider">
-                    <input type="range" min="0" max="10" value="0" id="fader" step="1" list="volsettings">
+                    <input type="range" min="0" max="10" value="0" id="fader" step="1" list="volsettings" name="extraversion">
                     <datalist id="volsettings">
-                    <option>1</option>
-                    <option>2</option>
-                    <option>3</option>
-                    <option>4</option>
-                    <option>5</option>
-                    <option>6</option>
-                    <option>7</option>
-                    <option>8</option>
-                    <option>9</option>
-                    <option>10</option>
+                    <option value=1>1</option>
+                    <option value=2>2</option>
+                    <option value=3>3</option>
+                    <option value=4>4</option>
+                    <option value=5>5</option>
+                    <option value=6>6</option>
+                    <option value=7>7</option>
+                    <option value=8>8</option>
+                    <option value=9>9</option>
+                    <option value=10>10</option>
                     </datalist>
                 </div>
                 <br>
@@ -162,11 +162,11 @@
         </div>
         <!--Navigation Sidebar-->
         <ul class="navigation">
-            <li><a href="Main_Page.html">Home</a></li>
-            <li><a href="Start_Test.html">Start Test</a></li>
-            <li><a href="Review_Test.html">Review Test</a></li>
-            <li><a href="Help.html">Help</a></li>
-            <li><a href="about_us.html">About</a></li>
+            <li><a href="{% url 'home' %}">Home</a></li>
+            <li><a href="{% url 'start_test' %}">Start Test</a></li>
+            <li><a href="{% url 'review_test' %}">Review Test</a></li>
+            <li><a href="{% url 'help' %}">Help</a></li>
+            <li><a href="{% url 'about_us' %}">About</a></li>
         </ul>
 
         <!-- footer -->
@@ -178,7 +178,7 @@
 
 
         <!-- External javascript link -->
-        <script src="js/website_javascript.js"></script>
+        <script src="{% static 'website_javascript.js' %}"></script>
 
         <!-- Link for webpage icons sourcecode -->
 <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>

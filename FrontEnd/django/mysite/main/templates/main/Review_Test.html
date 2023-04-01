@@ -12,7 +12,7 @@
     <body>
        <header>
             <!-- Web site logo -->
-            <a href="Main_Page.html" class="logo">FutureRight✓</a>
+            <a href="{% url 'home' %}"  class="logo">FutureRight✓</a>
             <!-- Day and Night Themes changer and menu -->
             <div class="rightSide">
                 <div class="buttons dayNight">
@@ -35,11 +35,11 @@
         
         <!--Navigation Sidebar-->
         <ul class="navigation">
-            <li><a href="Main_Page.html">Home</a></li>
-            <li><a href="Start_Test.html">Start Test</a></li>
-            <li><a href="Review_Test.html">Review Test</a></li>
-            <li><a href="Help.html">Help</a></li>
-            <li><a href="about_us.html">About</a></li>
+            <li><a href="{% url 'home' %}">Home</a></li>
+            <li><a href="{% url 'start_test' %}">Start Test</a></li>
+            <li><a href="{% url 'review_test' %}">Review Test</a></li>
+            <li><a href="{% url 'help' %}">Help</a></li>
+            <li><a href="{% url 'about_us' %}">About</a></li>
         </ul>
 
 
@@ -52,7 +52,7 @@
                         <b>Full Name: </b><span id="filled-name" ></span>
                     </p><br>
                     <p>
-                        <b>Email Address: </b><span id="filled-email" ></span>
+                        <b>Personality: {{ personality }} </b><span id="filled-email" ></span>
                     </p><br>
                     <p>
                         <b>Subject 01: </b><span id="filled-subject1" ></span>
