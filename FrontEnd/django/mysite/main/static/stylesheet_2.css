@@ -1,6 +1,3 @@
-.title {
-    color: blue;
-}
 @import url('https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800,900&display=swap');
 
 /* Main page CSS Properties */
@@ -236,7 +233,7 @@ footer
 {
     position: absolute;
     left: 0px;
-    bottom: 0px;
+    bottom: -100px;
     z-index: 4;
     font-weight: 400;
     font-size: 1em;
@@ -290,6 +287,39 @@ textarea
 select
 {
     width: 50%;
+    padding: 12px;
+    border: 1px solid var(--black);
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+    color: var(--black);
+    background-color: var(--white);
+
+}
+.tacbox {
+  display: block;
+  position: absolute;
+  right: 750px;
+  padding: 1em;
+  margin: 1em;
+  border: 3px solid black;
+  background-color: #eee;
+  max-width: 400px;
+  color: var(--black);
+  background-color: var(--white);
+}
+
+*input {
+  height: 2em;
+  width: 2em;
+  vertical-align: middle;
+}
+/* select section styles */
+select
+{
+    width: 80%;
     padding: 12px;
     border: 1px solid var(--black);
     border-radius: 4px;
@@ -372,9 +402,9 @@ button:hover
     color: var(--white);
 }
 /* form container styles */
-.container
+.containerr
 {
-    border-radius: 5px;
+    border-radius: 10px;
     background-color: var(--white);
     padding: 20px;
     color: var(--black);
@@ -399,9 +429,10 @@ div.output
     position: absolute;
     color: var(--black);
 }
+
 .slider {
 position: absolute;
-left: 55%;
+left: 70%;
 transform: translate(-50%,-50%);
 width: 500px;
 height: 35px;
@@ -411,83 +442,93 @@ color: var(--black);
 border-radius: 20px;
 display: flex;
 align-items: center;
-box-shadow: 0px 5px 35px #87CEFA;
+box-shadow: 0px 5px 15px #6EC5B8;
+color: var(--black);
+background-color: var(--white);
 }
 .slider label {
 font-size: 24px;
 font-weight: 400;
 font-family: Open Sans;
-padding-left: 10px;
+padding-left: 20px;
 color: black;
+color: var(--black);
+background-color: var(--white);
 }
 .slider input[type="range"] {
 width: 420px;
 height: 2px;
-background: black;
 border: none;
 outline: none;
+color: var(--black);
+background-color: var(--white);
 }
-.tacbox {
-    display: block;
-    position: absolute;
-    right: 150px;
-    padding: 1em;
-    margin: 1em;
-    border: 3px solid black;
-    background-color: #eee;
-    max-width: 400px;
-    color: var(--black);
-    background-color: var(--white);
+.center {
+  text-align: right;
+}
+/* Projects section */
+#projects .projects {
+    flex-direction: column;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 100px 0;
+}
+#projects .project-item {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 80%;
+    margin: 20px auto;
+    overflow: hidden;
+    border-radius: 10px;
+}
+#projects .project-info {
+    padding: 30px;
+    flex-basis: 50%;
+    height: 100%;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    flex-direction: column;
+    background-image: linear-gradient(60deg, #29323c 0%, #485563 100%);
+    color: white;
+}
+#projects .project-info h1 {
+    font-size: 4rem;
+    font-weight: 500;
+}
+#projects .project-info h2 {
+    font-size: 1.8rem;
+    font-weight: 500;
+    margin-top: 10px;
+}
+#projects .project-info p {
+    color: white;
+
+}
+.left-align {
+  text-align: left;
+}
+
+.next-button {
+    display: inline-block;
+    padding: 3px 20px;
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 6px;
+    border: none;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
   }
- /* Projects section */
- .center {
-    text-align: right;
-  }
-  /* Projects section */
-  #projects .projects {
-      flex-direction: column;
-      max-width: 1200px;
-      margin: 0 auto;
-      padding: 100px 0;
-  }
-  #projects .project-item {
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      flex-direction: column;
-      width: 80%;
-      margin: 20px auto;
-      overflow: hidden;
-      border-radius: 10px;
-  }
-  #projects .project-info {
-      padding: 30px;
-      flex-basis: 50%;
-      height: 100%;
-      display: flex;
-      align-items: flex-start;
-      justify-content: center;
-      flex-direction: column;
-      background-image: linear-gradient(60deg, #29323c 0%, #485563 100%);
-      color: white;
-  }
-  #projects .project-info h1 {
-      font-size: 4rem;
-      font-weight: 500;
-  }
-  #projects .project-info h2 {
-      font-size: 1.8rem;
-      font-weight: 500;
-      margin-top: 10px;
-  }
-  #projects .project-info p {
-      color: white;
   
+  .next-button:hover {
+    background-color: #3e8e41;
   }
-  .left-align {
-    text-align: left;
-  }
-  
-  
+  /* End Projects section */
 
 /* End Projects section */

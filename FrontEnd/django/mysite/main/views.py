@@ -21,6 +21,9 @@ def start_test(response):
 def review_test(response):
     return render(response, "main/review_test.html", {})
 
+def therm_use(response):
+    return render(response, "main/therm_use.html", {})
+
 @csrf_exempt
 def test(response):
     
