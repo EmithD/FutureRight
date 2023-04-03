@@ -1,12 +1,12 @@
 import joblib
 
-age = 17
-gender_value = 1
-openness = 7
-neuroticism = 4
+age = 22
+gender_value = 0
+openness = 6
+neuroticism = 3
 conscientiousness = 7
-agreeableness = 3
-extraversion = 2
+agreeableness = 5
+extraversion = 4
 
 personality_values_1 = [[gender_value, age, openness, neuroticism,
                          conscientiousness, agreeableness, extraversion]]
