@@ -8,8 +8,10 @@ conscientiousness = 7
 agreeableness = 3
 extraversion = 2
 
-personality_values_1 = [[gender_value, age, openness, neuroticism, conscientiousness, agreeableness, extraversion]]
+personality_values_1 = [[gender_value, age, openness, neuroticism,
+                         conscientiousness, agreeableness, extraversion]]
 
 
-model = joblib.load('BackEnd\\Models\\PersonalityTestLogisticRegression.joblib')
+model = joblib.load(
+    'BackEnd\\Models\\PersonalityTestLogisticRegression.joblib')
 print(model.predict(personality_values_1))
