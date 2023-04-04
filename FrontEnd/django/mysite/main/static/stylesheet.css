@@ -487,6 +487,20 @@ outline: none;
   .left-align {
     text-align: left;
   }
+
+  .ptest-item {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .ptest-item {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
   
   
 
