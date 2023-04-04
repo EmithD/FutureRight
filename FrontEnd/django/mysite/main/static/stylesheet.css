@@ -488,6 +488,13 @@ outline: none;
     text-align: left;
   }
   
+  .ptest-item {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
   
 
 /* End Projects section */
