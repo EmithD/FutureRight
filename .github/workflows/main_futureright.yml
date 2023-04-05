@@ -32,13 +32,13 @@ jobs:
         
       # Optional: Add step to run tests here (PyTest, Django test suites, etc.)
       
-#       - name: Upload artifact for deployment jobs
-#         uses: actions/upload-artifact@v2
-#         with:
-#           name: python-app
-#           path: |
-#             . 
-#             !venv/
+      - name: Upload artifact for deployment jobs
+        uses: actions/upload-artifact@v2
+        with:
+          name: python-app
+          path: |
+            . 
+            !venv/
 
   deploy:
     runs-on: ubuntu-latest
