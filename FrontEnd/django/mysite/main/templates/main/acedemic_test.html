@@ -286,8 +286,10 @@
                     </select>
                     <br>
                     <!-- submit button to view query details -->
-                    <input type="submit" value="Review Test">
-                    <button type="button" id="edit" onclick="history.back()">Back</button>
+                    <div style="display: flex; flex-direction: row;">
+                        <button type="button" id="edit" onclick="history.back()">Back</button>
+                        <input type="submit" value="Review Test">
+                    </div>
                 </form>
             </div>
         </div>
@@ -298,14 +300,6 @@
             <li><a href="{% url 'help' %}">Help</a></li>
             <li><a href="{% url 'about_us' %}">About</a></li>
         </ul>
-
-        <!-- footer -->
-        <footer>
-            <p class="footer1">
-            Powered by<i><b>Heathens</b></i>
-            </p>
-        </footer>
-
 
         <!-- External javascript link -->
         <script src="{% static 'website_javascript.js' %}"></script>

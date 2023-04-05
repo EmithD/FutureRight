@@ -25,14 +25,6 @@
             </div>
         </header>
 
-            <ul class="socialMedia">
-                <li><a href="#"><ion-icon name="logo-facebook"></ion-icon></a></li>
-                <li><a href="#"><ion-icon name="logo-twitter"></ion-icon></a></li>
-                <li><a href="#"><ion-icon name="logo-instagram"></ion-icon></a></li>
-                <li><a href="#"><ion-icon name="logo-linkedin"></ion-icon></a></li>
-            </ul>
-
-
         <!-- Query form -->
         <div class="queryform">
 
@@ -45,6 +37,7 @@
                     <!-- age  -->
                     <label for="age">Age</label>
                     <input type="number" id="age" min="1" max="100" name="age" placeholder="Your age.." required><br>
+                    <br>
                     <!-- gender selector -->
                     <label for="gender">Gender</label>
                     <br>
@@ -53,12 +46,13 @@
                         <option value="Female">Female</option>
                     </select>
                     <br>
-                    <!-- ppp selector -->
-                    <div class="ptest-item">
-                    <label for="slider">Here are come personality traits Rate yourself to each of them from 1-10</label>
                     <br>
-                    <h5>Openness</h5>
-                    <p>(Openness refers to a person's willingness to consider new<br> ideas, experiences, and perspectives. It involves <br>being open-minded and receptive to different <br>ways of thinking.)</p>
+                    <!-- ppp selector -->
+                    
+                    <label for="slider"><b>Here are come personality traits Rate yourself to each of them from 1-10</b></label>
+                    <div class="ptest-item">
+                    <h4 class="ptesth4">Openness</h4>
+                    <p class="ptestp"> (refers to a person's willingness to consider new ideas, experiences, and perspectives. It involves being open-minded and receptive to different ways of thinking.)</p>
                     <br>
                     <div class="slider">
                         <input type="range" min="0" max="10" value="0" id="fader" step="1" list="volsettings" name="openness">
@@ -77,9 +71,9 @@
                     </div>
                 </div>
                 <br>
-                <br>
-                    <h5>Neuroticism</h5>
-                    <p>(Neuroticism refers to a personality trait characterized<br> by emotional instability, anxiety, moodiness, and<br> a tendency towards negative thinking.)</p>
+                <br><div class="ptest-item">
+                    <h4 class="ptesth4">Neuroticism</h4>
+                    <p class="ptestp">(Neuroticism refers to a personality trait characterized<br> by emotional instability, anxiety, moodiness, and<br> a tendency towards negative thinking.)</p>
                     <br>
                   <div class="slider">
                     <input type="range" min="0" max="10" value="0" id="fader" step="1" list="volsettings" name="neuroticism">
@@ -96,10 +90,11 @@
                     <option value=10>10</option>
                     </datalist>
                 </div>
+                </div>
                 <br>
-                <br>
-                    <h5>Conscientiousness</h5>
-                    <p>(Conscientiousness refers to a personality trait <br> characterized by being responsible, organized, and <br>dependable.It involves a strong sense of duty and a desire<br> to achieve goals through hard work and self-discipline.)</p>
+                <br><div class="ptest-item">
+                    <h4 class="ptesth4">Conscientiousness</h4>
+                    <p class="ptestp">(Conscientiousness refers to a personality trait <br> characterized by being responsible, organized, and <br>dependable.It involves a strong sense of duty and a desire<br> to achieve goals through hard work and self-discipline.)</p>
                     <br>
                   <div class="slider">
                     <input type="range" min="0" max="10" value="0" id="fader" step="1" list="volsettings" name="conscientiousness">
@@ -116,10 +111,12 @@
                     <option value=10>10</option>
                     </datalist>
                 </div>
+                </div>
                 <br>
                 <br>
-                    <h5>Agreeableness</h5>
-                    <p>(Agreeableness refers to a personality trait <br>characterized by being friendly, cooperative, and <br>compassionate towards others. It involves valuing<br> social harmony and prioritizing the needs of others.)</p>
+                <div class="ptest-item">
+                    <h4 class="ptesth4">Agreeableness</h4>
+                    <p class="ptestp">(Agreeableness refers to a personality trait <br>characterized by being friendly, cooperative, and <br>compassionate towards others. It involves valuing<br> social harmony and prioritizing the needs of others.)</p>
                     <br>
                   <div class="slider">
                     <input type="range" min="0" max="10" value="0" id="fader" step="1" list="volsettings" name="agreeableness">
@@ -136,10 +133,12 @@
                     <option value=10>10</option>
                     </datalist>
                 </div>
+                </div>
                 <br>
                 <br>
-                    <h5>Extraversion</h5>
-                    <p>(Extraversion refers to a personality trait <br>characterized by outgoing, talkative, and assertive<br> behavior. People who score high in extraversion <br>tend to be sociable and enjoy being <br>around other people.)</p>
+                <div class="ptest-item">
+                    <h4 class="ptesth4">Extraversion</h4>
+                    <p class="ptestp">(Extraversion refers to a personality trait <br>characterized by outgoing, talkative, and assertive<br> behavior. People who score high in extraversion <br>tend to be sociable and enjoy being <br>around other people.)</p>
                     <br>
                   <div class="slider">
                     <input type="range" min="0" max="10" value="0" id="fader" step="1" list="volsettings" name="extraversion">
@@ -156,11 +155,13 @@
                     <option value=10>10</option>
                     </datalist>
                 </div>
+                </div>
                 <br>
                 <br>
                  <!-- submit button to view query details -->
+                 <div style="display: flex; flex-direction: column;">
                  <input type="submit" value="Next">
-                 
+                 </div>
                 </form>
             </div>
         </div>
@@ -172,14 +173,6 @@
             <li><a href="{% url 'about_us' %}">About</a></li>
         </ul>
 
-        <!-- footer -->
-        <footer>
-            <p class="footer1">
-            Powered by<i><b>Heathens</b></i>
-            </p>
-        </footer>
-
-
         <!-- External javascript link -->
         <script src="{% static 'website_javascript.js' %}"></script>
 
@@ -187,4 +180,5 @@
 <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
 <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
 <script src="{% static 'website_javascript.js' %}"></script>
+</body>
 </html>
