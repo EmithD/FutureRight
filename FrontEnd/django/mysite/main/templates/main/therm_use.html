@@ -3,7 +3,7 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Help</title>
+        <title>Terms of Use</title>
         {% load static %}
         <link rel="stylesheet" href="{% static 'stylesheet_2.css' %}">
         <link rel = "icon" href ="images/frlogo.png" type = "image/x-icon">
@@ -24,13 +24,6 @@
                 </div>
             </div>
         </header>
-
-            <ul class="socialMedia">
-                <li><a href="#"><ion-icon name="logo-facebook"></ion-icon></a></li>
-                <li><a href="#"><ion-icon name="logo-twitter"></ion-icon></a></li>
-                <li><a href="#"><ion-icon name="logo-instagram"></ion-icon></a></li>
-                <li><a href="#"><ion-icon name="logo-linkedin"></ion-icon></a></li>
-            </ul>
 
         <!--Navigation Sidebar-->
         <ul class="navigation">
@@ -65,15 +58,15 @@
             • You agree that you will not submit any content that is unlawful, defamatory, abusive, obscene, or otherwise objectionable, or that infringes on the intellectual property rights of others.<br>
         </p>
         <br>
-    <h3><u>Intellectual Property</u></h3>
-    <p>• All content on this website, including but not limited to text, graphics, logos, images, audio clips, video clips, and data compilations, is the property of FutureRight or its content suppliers, and is protected by international copyright laws.<br>
-        • You may not reproduce, modify, distribute, or republish any content from this website without our prior written consent.
-    </p>
-    <br>
     <h3><u>Disclaimer</u></h3>
     <p>• The information contained in this website is for general informational purposes only. We make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability, or availability with respect to the website or the information, products, services, or related graphics contained on the website for any purpose. Any reliance you place on such information is therefore strictly at your own risk.<br>
         • In no event will we be liable for any loss or damage including without limitation, indirect or consequential loss or damage, or any loss or damage whatsoever arising from loss of data or profits arising out of, or in connection with, the use of this website.<br>
         • We do not guarantee that this website will be secure, error-free, or uninterrupted, or that defects will be corrected.
+    </p>
+    <br>
+    <h3><u>Intellectual Property</u></h3>
+    <p>• All content on this website, including but not limited to text, graphics, logos, images, audio clips, video clips, and data compilations, is the property of FutureRight or its content suppliers, and is protected by international copyright laws.<br>
+        • You may not reproduce, modify, distribute, or republish any content from this website without our prior written consent.
     </p>
       </div>
   </div>
@@ -81,30 +74,34 @@
 </section>
 <!-- End Projects Section -->
 
-        <div class="tacbox">
-         <input id="checkbox" type="checkbox" required>
-         <label for="checkbox"> I agree to these Terms and Conditions</label>
-        </div>
+            <div class="tacbox">
+             <input id="checkbox" type="checkbox" />
+             <label for="checkbox"> I agree to these Terms and Conditions</label>
+            </div>
+        <br>
         <br>
         <br>
         <br>
         <a href="{% url 'start_test' %}">
-            <input type="submit" value="Start Test" id="review-button">
+            <div style="display: flex; justify-content: center;">
+                <input type="submit" value="Start Test" id="review-button">
+        </a>
+            </div>
+            
         <br>
         <br>
         <br>
 
             <!-- footer -->
         <footer>
-            <p class="footer1">
+            <p class="footer">
             Powered by<i><b>Heathens</b></i>
             </p>
         </footer>
-
-        <script src="js/website_javascript.js"></script>
         
         <!-- External javascript link -->
         <script src="{% static 'website_javascript.js' %}"></script>
+        <script src="{% static 'website_add_content.js' %}"></script>
 
         <!-- Link for webpage icons sourcecode -->
         <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
