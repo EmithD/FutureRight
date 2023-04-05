@@ -5,7 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Help</title>
         {% load static %}
-        <link rel="stylesheet" href="{% static 'stylesheet.css' %}">
+        <link rel="stylesheet" href="{% static 'team.css' %}">
         <link rel = "icon" href ="images/frlogo.png" type = "image/x-icon">
     </head>
     <body>
@@ -42,50 +42,81 @@
 
 
         <!-- Display filled form data in another web page -->
-            <div class="output">
-                    <h1> Need Some Help?</h1>
-                    <br><br>
-                    <p class="">
-                        <b>Emith Dinsara</b>
-                        <br>
-                        <b>Emith20211226@iit.ac.lk</b>
-                        <button type="button" id="datasend"><a href="mailto: Emith20211226@iit.ac.lk" id="send">Send Message</a></button>
-                    </p>
-                    <br>
-                    <br>
-                    <br>
-                    <p>
-                        <b>Alfa Azmi</b>
-                        <br>
-                        <b>fathima.20210359@iit.ac.lk</b>
-                        <button type="button" id="datasend"><a href="mailto: fathima.20210359@iit.ac.lk" id="send">Send Message</a></button>
-
-                    </p>
-                    <p>
-                    <br>
-                    <br>
-                    <br>
-                    <p>
-                        <b>Dakshina Pathirana</b>
-                        <br>
-                        <b>asith.20210389@iit.ac.lk</b>
-                        <button type="button" id="datasend"><a href="mailto: asith.20210389@iit.ac.lk" id="send">Send Message</a></button>
-
-                    </p>
-                    <br>
-                    <br>
-                    <br>
-                    <p>
-                        <b>Dulan Vidanagamage</b>
-                        <br>
-                        <b>dulan.20210554@iit.ac.lk</b>
-                        <button type="button" id="datasend"><a href="mailto: dulan.20210554@iit.ac.lk" id="send">Send Message</a></button>
-                    </p>
-                       <br>
-                       <br>
-                    <!--button type="button" id="datasend"><a href="mailto: abc@example.com" id="send">Send</a></button>
-                    <button type="button" id="edit" onclick="history.back()">Edit</button-->
+        <div class="responsive-container-block outer-container">
+            <div class="responsive-container-block inner-container">
+              <div class="responsive-cell-block wk-tab-12 wk-mobile-12 wk-desk-4 wk-ipadp-5 content-container">
+                <div class="content-box">
+                  <p class="text-blk section-head">
+                    <b>OUR TEAM</b>
+                  </p>
+                </div>
+              </div>
+              <div class="responsive-cell-block wk-ipadp-6 wk-tab-12 wk-mobile-12 wk-desk-8 team-cards-outer-container">
+                <div class="responsive-container-block team-cards-inner-container">
+                  <div class="responsive-cell-block wk-mobile-12 wk-ipadp-10 wk-tab-8 wk-desk-6 card-container">
+                    <div class="card">
+                      <div class="img-box">
+                        <img class="person-img" src="{% static 'profile.jpg' %}">
+                      </div>
+                      <div class="card-content-box">
+                        <p class="text-blk person-name">
+                          Emith
+                        </p>
+                        <p class="text-blk person-info">
+                          BackEnd Developer
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="responsive-cell-block wk-mobile-12 wk-ipadp-10 wk-tab-8 wk-desk-6 card-container">
+                    <div class="card">
+                      <div class="img-box">
+                        <img class="person-img" src="{% static 'profile.jpg' %}">
+                      </div>
+                      <div class="card-content-box">
+                        <p class="text-blk person-name">
+                          Alfa
+                        </p>
+                        <p class="text-blk person-info">
+                          BackEnd Developer
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="responsive-cell-block wk-mobile-12 wk-ipadp-10 wk-tab-8 wk-desk-6 card-container">
+                    <div class="card">
+                      <div class="img-box">
+                        <img class="person-img" src="{% static 'profile.jpg' %}">
+                      </div>
+                      <div class="card-content-box">
+                        <p class="text-blk person-name">
+                          Asith
+                        </p>
+                        <p class="text-blk person-info">
+                          FrontEnd Developer
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="responsive-cell-block wk-mobile-12 wk-ipadp-10 wk-tab-8 wk-desk-6 card-container">
+                    <div class="card">
+                      <div class="img-box">
+                        <img class="person-img" src="{% static 'profile.jpg' %}">
+                      </div>
+                      <div class="card-content-box">
+                        <p class="text-blk person-name">
+                          Dulan
+                        </p>
+                        <p class="text-blk person-info">
+                          Frontend Developer
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
             </div>
+          </div>
 
             <!-- footer -->
         <footer>

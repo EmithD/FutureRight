@@ -38,7 +38,7 @@ jobs:
           name: python-app
           path: |
             . 
-            !FrontEnd/django/mysite/main
+            !venv/
 
   deploy:
     runs-on: ubuntu-latest
@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'FutureRight'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_64401D1EE2B84C85BB20650AE0F4CAB4 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_916C990647AB4790B9E07F6D16CE67ED }}
