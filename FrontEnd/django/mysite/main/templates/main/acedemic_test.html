@@ -41,7 +41,7 @@
                 <!-- Heading -->
                 <b>Acedemic Performance Test</b><br><br>
                 <!-- Form -->
-                <form action="Review_Test.html" id="quaryform" name="quaryform" onsubmit="return formValidation()" method="get">
+                <form id="quaryform" name="quaryform" action="{% url 'review_test' %}" method="post">
                     <!-- age  -->
                     <!--label for="age">Age</label>
                     <input type="text" id="age" name="age" placeholder="Your age.."-->
@@ -49,19 +49,19 @@
                     <label for="stream">Stream</label>
                     <br>
                     <select id="stream" name="stream">
-                        <option value="Arts">Arts</option>
-                        <option value="Commerce">Commerce</option>
-                        <option value="Physical Science">Physical Science</option>
-                        <option value="Biological Science">Biological Science</option>
-                        <option value="Engineering Technology">Engineering Technology</option>
-                        <option value="Biosystem Technology">Biosystem Technology</option>
+                        <option value=0>Arts</option>
+                        <option value=1>Commerce</option>
+                        <option value=2>Physical Science</option>
+                        <option value=3>Biological Science</option>
+                        <option value=4>Engineering Technology</option>
+                        <option value=5>Biosystem Technology</option>
                     </select>
                     <br>
                     <!--Subject 01 -->
                     <label for="subject">Subject 01</label>
                     <br>
                     
-                    <select id="subject" name="subject">
+                    <select id="subject" name="subject1">
                         <option value=0>POLITICAL SCIENCE</option>
                         <option value=1>ECONOMICS</option>
                         <option value=2>ISLAM</option>
@@ -114,7 +114,7 @@
                     <br>
                     <label for="subject">Result</label>
                     <br>
-                    <select id="result" name="result">
+                    <select id="result" name="sub1_result">
                         <option value=0>A</option>
                         <option value=1>B</option>
                         <option value=2>C</option>
@@ -127,7 +127,7 @@
                     <label for="subject">Subject 02</label>
                     <br>
                     
-                    <select id="subject" name="subject">
+                    <select id="subject" name="subject2">
                         <option value=46>DANCING(BHARATHA)</option>
                         <option value=45>CARNATIC MUSIC</option>
                         <option value=14>BUSINESS STUDIES</option>
@@ -190,7 +190,7 @@
                     <br>
                     <label for="subject">Result</label>
                     <br>
-                    <select id="result" name="result">
+                    <select id="result" name="sub2_result">
                         <option value=0>A</option>
                         <option value=1>B</option>
                         <option value=2>C</option>
@@ -200,10 +200,10 @@
                     <br>
                     <br>
                     <!--Subject 03 -->
-                    <label for="subject">Subject 01</label>
+                    <label for="subject">Subject 03</label>
                     <br>
                     
-                    <select id="subject" name="subject">
+                    <select id="subject" name="subject3">
                         <option value=42>TAMIL</option>
                         <option value=27>ACCOUNTING</option>
                         <option value=2>ISLAM</option>
@@ -266,7 +266,18 @@
                     <br>
                     <label for="subject">Result</label>
                     <br>
-                    <select id="result" name="result">
+                    <select id="result" name="sub3_result">
+                        <option value=0>A</option>
+                        <option value=1>B</option>
+                        <option value=2>C</option>
+                        <option value=3>S</option>
+                        <option value=4>F</option>
+                    </select>
+                    <br>
+
+                    <label for="subject">General English</label>
+                    <br>
+                    <select id="result" name="gen_english">
                         <option value=0>A</option>
                         <option value=1>B</option>
                         <option value=2>C</option>
@@ -276,7 +287,6 @@
                     <br>
                     <!-- submit button to view query details -->
                     <input type="submit" value="Review Test">
-                
                 </form>
             </div>
         </div>

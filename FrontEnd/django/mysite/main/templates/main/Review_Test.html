@@ -44,30 +44,17 @@
 
         <!-- Display filled form data in another web page -->
         <form action="">
-                        <div class="output">
-                    <h2> Filled Details</h2>
-                    <br><br>
-                    <p>
-                        <b>Full Name: </b><span id="filled-name" ></span>
-                    </p><br>
-                    <p>
-                        <b>Personality: {{ personality }} </b><span id="filled-email" ></span>
-                    </p><br>
-                    <p>
-                        <b>Subject 01: </b><span id="filled-subject1" ></span>
-                    </p><br>
-                    <p>
-                        <b>Subject 02: </b><span id="filled-subject2" ></span>
-                    </p><br>
-                    <p>
-                        <b>Subject 03: </b><span id="filled-subject3" ></span>
-                    </p><br>
-                    <p>
-                        <b>Country: </b><span id="filled-country" ></span>
-                    </p><br>
-                    <p>
-                        <b>Query Detail: </b><span id="filled-details" ></span>
-                    </p>
+                    <div class="output">
+                    
+                    <p><b>Your predicted personality: {{personality}}</b></p><br><br>
+                    <p><b>The list of predicted careers: <br> <br>
+                        
+                        <ul>
+                            {% for item in careers %}
+                                <li>&emsp;{{ item }}</li>
+                            {% endfor %}
+                        </ul>
+
                     <br><br>
                     
                     <button type="button" id="datasend"><a href="mailto: abc@example.com" id="send">Send</a></button>
@@ -75,7 +62,6 @@
                     <button type="button">Download</button>
             </div>
         </form>
-
 
         <script src="js/website_javascript.js"></script>
         
