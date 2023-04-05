@@ -9,7 +9,7 @@ arts,dependable,Excellent,Archivist
 arts,serious,Good,Archivist Assistant
 arts,serious,Average,Archivist Assistant
 arts,serious,Below Average,Archivist Assistant
-arts,serious,Excellent,Art Appraiser
+arts,serious,Excellent,Lawyer
 arts,serious,Good,Art Appraiser Assistant
 arts,serious,Average,Art Appraiser Assistant
 arts,serious,Below Average,Art Appraiser Assistant
@@ -57,7 +57,7 @@ arts,responsible,Good,Art Framing Associate
 arts,responsible,Average,Art Framing Associate
 arts,extraverted,Good,Art Framing Associate
 arts,extraverted,Average,Art Framing Associate 
-arts,responsible,Good,Art Gallery Assistant
+arts,responsible,Good,TV Presenter
 arts,responsible,Average,Art Gallery Assistant
 arts,responsible,Below Average,Art Gallery Assistant
 arts,extraverted,Good,Art Gallery Assistant 
@@ -98,7 +98,7 @@ arts,responsible,Below Average,Art Supply Store Associate
 arts,extraverted,Good,Art Supply Store Associate
 arts,extraverted,Average,Art Supply Store Associate
 arts,extraverted,Below Average,Art Supply Store Associate
-arts,dependable,Good,Art Supply Store Associate
+arts,dependable,Good,Social Media Manager
 arts,responsible,Good,Art Supply Store Associate 
 arts,dependable,Average,Art Supply Store Associate 
 arts,dependable,Below Average,Art Supply Store Associate 
@@ -108,12 +108,12 @@ arts,serious,Average,Artist's Studio Manager
 arts,serious,Good,Artist's Studio Manager 
 arts,serious,Below Average,Artist's Studio Manager 
 arts,lively,Excellent,Copywriter
-arts,lively,Good,Copywriter Assistant 
+arts,lively,Good,Digital Markerter 
 arts,lively,Average,Copywriter Assistant 
 arts,lively,Below Average,Copywriter Assistant 
 arts,serious,Excellent,Creative Director
 arts,lively,Excellent,Creative Director
-arts,extraverted,Good,Customer Service Representative
+arts,extraverted,Good,Digital Markerter 
 arts,extraverted,Average,Customer Service Representative
 arts,extraverted,Below Average,Customer Service Representative 
 arts,lively,Excellent,Digital Marketer
@@ -147,16 +147,16 @@ arts,dependable,Below Average,Gallery Assistant
 arts,serious,Good,Gallery Assistant 
 arts,dependable,Good,Gallery Assistant 
 arts,dependable,Excellent,Gallery Manager
-arts,extraverted,Excellent,Gallery Manager 
+arts,extraverted,Excellent,Architect 
 arts,lively,Average,Graphic Designer
 arts,dependable,Excellent,Graphic Designer
 arts,serious,Excellent,Interior Designer
 arts,serious,Excellent,Museum Curator
 arts,dependable,Excellent,Museum Curator
 arts,extraverted,Excellent,Museum Curator 
-arts,extraverted,Good,Museum Visitor Services Representative
+arts,extraverted,Good, Graphic Designer
 arts,extraverted,Below Average,Museum Visitor Services Representative
-arts,serious,Good,Museum Visitor Services Representative 
+arts,serious,Good,Lawyer
 arts,serious,Average,Museum Visitor Services Representative 
 arts,serious,Below Average,Museum Visitor Services Representative 
 arts,extraverted,Average,Museum Visitor Services Representative 
