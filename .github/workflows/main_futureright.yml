@@ -38,7 +38,7 @@ jobs:
           name: python-app
           path: |
             . 
-            !FrontEnd/django/mysite/main/
+            !FrontEnd/django/mysite/manage.py runserver
 
   deploy:
     runs-on: ubuntu-latest
