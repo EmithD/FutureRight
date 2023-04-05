@@ -1,9 +1,9 @@
 Stream,Personality,Academic Performance,Career
-arts,lively,Good,Advertising Assistant
+arts,lively,Good,TV Presentor
 arts,lively,Average,Advertising Assistant
 arts,lively,Below Average,Advertising Assistant
 arts,lively,Excellent,Advertising Manager
-arts,extraverted,Excellent,Advertising Manager
+arts,extraverted,Excellent,Lawyer
 arts,lively,Excellent,Animator 
 arts,dependable,Excellent,Archivist
 arts,serious,Good,Archivist Assistant
@@ -17,11 +17,11 @@ arts,serious,Good,Art Auction House Assistant
 arts,serious,Below Average,Art Auction House Assistant
 arts,extraverted,Below Average,Art Auction House Assistant
 arts,serious,Average,Art Auction House Assistant 
-arts,extraverted,Good,Art Auction House Assistant 
+arts,extraverted,Good,Lecturer/Teacher
 arts,extraverted,Average,Art Auction House Assistant 
-arts,serious,Excellent,Art Auctioneer
+arts,serious,Excellent,Graphic Designer
 arts,extraverted,Excellent,Art Auctioneer 
-arts,responsible,Excellent,Art Buyer 
+arts,responsible,Excellent,Graphic Designer 
 arts,responsible,Good,Art Buyer Assistant
 arts,responsible,Average,Art Buyer Assistant
 arts,responsible,Below Average,Art Buyer Assistant
@@ -37,20 +37,20 @@ arts,serious,Excellent,Art Dealer
 arts,serious,Excellent,Art Director
 arts,extraverted,Excellent,Art Director
 arts,dependable,Excellent,Art Director
-arts,lively,Excellent,Art Director 
+arts,lively,Excellent,Interior Designer 
 arts,responsible,Average,Art Director Assistant
 arts,extraverted,Excellent,Art Educator
 arts,dependable,Excellent,Art Educator
 arts,extraverted,Average,Art Event Staff
 arts,extraverted,Good,Art Event Staff 
 arts,extraverted,Below Average,Art Event Staff 
-arts,responsible,Good,Art Exhibition Coordinator
+arts,responsible,Good,Architect
 arts,responsible,Average,Art Exhibition Coordinator
 arts,responsible,Below Average,Art Exhibition Coordinator 
 arts,responsible,Good,Art Fair Assistant
 arts,responsible,Average,Art Fair Assistant
 arts,responsible,Below Average,Art Fair Assistant
-arts,extraverted,Good,Art Fair Assistant
+arts,extraverted,Good,TV Presenter
 arts,extraverted,Average,Art Fair Assistant
 arts,extraverted,Below Average,Art Fair Assistant 
 arts,responsible,Good,Art Framing Associate
@@ -64,7 +64,7 @@ arts,extraverted,Good,Art Gallery Assistant
 arts,extraverted,Average,Art Gallery Assistant 
 arts,extraverted,Below Average,Art Gallery Assistant 
 arts,serious,Excellent,Art Gallery Manager
-arts,responsible,Excellent,Art Handler
+arts,responsible,Excellent,TV Personality
 arts,dependable,Average,Art Handler
 arts,dependable,Below Average,Art Handler
 arts,dependable,Good,Art Handler 
@@ -129,7 +129,7 @@ arts,dependable,Average,Event Staff
 arts,dependable,Below Average,Event Staff
 arts,extraverted,Excellent,Exhibition Designer
 arts,dependable,Excellent,Exhibition Designer
-arts,serious,Good,Exhibition Installer
+arts,serious,Good,Architect
 arts,serious,Average,Exhibition Installer
 arts,extraverted,Average,Exhibition Installer
 arts,extraverted,Below Average,Exhibition Installer
@@ -1840,7 +1840,7 @@ engineering technology,serious,Excellent,Mechatronics Engineer
 engineering technology,serious,Good,Mechatronics Engineer
 engineering technology,responsible,Excellent,Mechatronics Engineer
 engineering technology,responsible,Good,Mechatronics Engineer
-engineering technology,lively,Excellent,Mechatronics Engineer
+engineering technology,lively,Excellent,Game Developer
 engineering technology,lively,Good,Mechatronics Engineer
 engineering technology,extraverted,Excellent,Mechatronics Engineer
 engineering technology,dependable,Excellent,Mechatronics Engineer
@@ -2091,7 +2091,7 @@ engineering technology,serious,Below Average,Technical Recruiter
 engineering technology,responsible,Below Average,Technical Recruiter
 engineering technology,lively,Average,Technical Recruiter
 engineering technology,lively,Below Average,Technical Recruiter
-engineering technology,extraverted,Good,Technical Recruiter
+engineering technology,extraverted,Good, Game Developer
 engineering technology,extraverted,Average,Technical Recruiter
 engineering technology,extraverted,Below Average,Technical Recruiter
 engineering technology,dependable,Below Average,Technical Recruiter
@@ -2125,7 +2125,7 @@ engineering technology,dependable,Average,Technical Support Specialist
 engineering technology,dependable,Below Average,Technical Support Specialist
 engineering technology,serious,Average,Technical Trainer
 engineering technology,lively,Average,Technical Trainer
-engineering technology,extraverted,Good,Technical Trainer
+engineering technology,extraverted,Good,Game Developer
 engineering technology,extraverted,Average,Technical Trainer
 engineering technology,serious,Average,Technical Writer
 engineering technology,serious,Below Average,Technical Writer
@@ -2247,7 +2247,7 @@ physical science,dependable,Excellent,Project Manager
 physical science,extraverted,Excellent,Public Relations Specialist for Science Companies
 physical science,extraverted,Good,Public Relations Specialist for Science Companies
 physical science,extraverted,Average,Public Relations Specialist for Science Companies
-physical science,responsible,Excellent,Quality Assurance Manager
+physical science,responsible,Excellent,Pilot
 physical science,responsible,Good,Quality Assurance Manager
 physical science,dependable,Good,Quality Control Analyst
 physical science,responsible,Average,Quality Control Coordinator
@@ -2293,9 +2293,9 @@ physical science,lively,Excellent,Science Outreach Coordinator
 physical science,lively,Good,Science Outreach Coordinator
 physical science,lively,Average,Science Outreach Coordinator
 physical science,lively,Below Average,Science Outreach Coordinator
-physical science,extraverted,Excellent,Science Outreach Coordinator
+physical science,extraverted,Excellent,Software Engineer
 physical science,extraverted,Good,Science Outreach Coordinator
-physical science,extraverted,Average,Science Outreach Coordinator
+physical science,extraverted,Average, UI/UX Engineer
 physical science,extraverted,Below Average,Science Outreach Coordinator
 physical science,lively,Excellent,Science Policy Advisor
 physical science,lively,Good,Science Policy Advisor
@@ -2307,7 +2307,7 @@ physical science,lively,Average,Science Program Director
 physical science,extraverted,Average,Science Sales Representative
 physical science,extraverted,Below Average,Science Sales Representative
 physical science,lively,Excellent,Science Writer
-physical science,lively,Good,Science Writer
+physical science,lively,Good,Game Developer
 physical science,lively,Average,Science Writer
 physical science,lively,Below Average,Science Writer
 physical science,extraverted,Excellent,Science Writer
