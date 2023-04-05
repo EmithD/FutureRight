@@ -374,9 +374,10 @@ button:hover
 /* form container styles */
 .container
 {
+    padding: 30px 50px;
+    border: 1px solid black;
     border-radius: 5px;
     background-color: var(--white);
-    padding: 20px;
     color: var(--black);
 }
 /* form styles */
@@ -384,7 +385,7 @@ button:hover
 {
     position: absolute;
     margin-top: 100px;
-    width: 100%;
+    width: 1920px;
     min-height: 50vh;
     display: flex;
     justify-content: center;
