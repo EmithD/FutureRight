@@ -402,7 +402,7 @@ div.output
 .slider {
     position: relative;
     height: 35px;
-    padding: 10px;
+    padding: 20px;
     color: var(--black);
     border-radius: 20px;
     display: flex;
@@ -419,7 +419,6 @@ color: black;
 }
 .slider input[type="range"] {
 width: 420px;
-height: 2px;
 background: black;
 border: none;
 outline: none;
