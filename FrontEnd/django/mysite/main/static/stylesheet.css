@@ -394,7 +394,9 @@ button:hover
 /* query form display view styles */
 div.output
 {
+    padding: 30px 50px;
     margin-top: 150px;
+    border: 2px solid;
     margin-left: 700px;
     margin-right: auto;
     position: absolute;
