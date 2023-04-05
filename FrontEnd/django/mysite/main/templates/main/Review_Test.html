@@ -8,6 +8,7 @@
         {% load static %}
         <link rel="stylesheet" href="{% static 'stylesheet.css' %}">
         <link rel = "icon" href ="images/frlogo.png" type = "image/x-icon">
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.3/jspdf.umd.min.js"></script>
     </head>
     <body>
        <header>
@@ -58,10 +59,19 @@
                     <br><br>
                     
                     <button type="button" id="datasend"><a href="mailto: abc@example.com" id="send">Send</a></button>
-                    <button type="button" id="edit" onclick="history.back()">Edit</button>
-                    <button type="button">Download</button>
+                    <button type="button" id="edit" onclick="history.back()">Back</button>
+                    <button onclick="downloadPDF()">Download PDF</button>
+                    
             </div>
         </form>
+        <script>
+            function downloadPDF() {
+                var doc = new jsPDF();
+                var output = document.querySelector(".output");
+                doc.text(output.innerText, 10, 10);
+                doc.save("input-data.pdf");
+            }
+        </script>
 
         <script src="js/website_javascript.js"></script>
         
