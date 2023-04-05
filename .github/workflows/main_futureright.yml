@@ -38,7 +38,7 @@ jobs:
           name: python-app
           path: |
             . 
-            !venv/
+            !FrontEnd/django/mysite/main/
 
   deploy:
     runs-on: ubuntu-latest
